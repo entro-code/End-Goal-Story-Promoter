@@ -28,7 +28,9 @@ def main():
     import buffer_client
     import run
 
-    sample = SRC / "samples" / "thumb_stop_chasing_motivation.png"
+    from PIL import Image
+    sample = tmp / "thumb.png"                           # stand-in thumbnail
+    Image.new("RGB", (1280, 720), (60, 120, 80)).save(sample)
     run.fetch_art = lambda item, cache: sample          # no network for artwork
     run.url_is_public = lambda url: True                 # pretend GitHub is serving it
     os.environ.update(BUFFER_API_KEY="test-key", GITHUB_REPOSITORY="me/repo",

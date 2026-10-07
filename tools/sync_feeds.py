@@ -3,8 +3,9 @@
 
 Sources (each optional, configured under "sync" in config.json)
   YouTube   public channel feed, no key needed
-  Spotify   Web API "show episodes" (free developer app; env SPOTIFY_CLIENT_ID /
-            SPOTIFY_CLIENT_SECRET)
+  Spotify   Web API "show episodes" (OPTIONAL: the dev app needs Spotify
+            Premium; env SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET. Without it, new
+            YouTube episodes are assumed to be on Spotify too.)
   Substack  public RSS feed
 
 New YouTube / Spotify items are matched to existing episodes (title similarity +
@@ -153,7 +154,7 @@ def _best_match(episodes, item, missing):
     return best
 
 
-def merge_episodes(episodes, yt_items, sp_items):
+def merge_episodes(episodes, yt_items, sp_items, default_spotify=None):
     taken = {e["id"] for e in episodes}
     known_yt = {e.get("youtube_id") for e in episodes}
     known_sp = {e.get("spotify_url") for e in episodes}
@@ -169,7 +170,7 @@ def merge_episodes(episodes, yt_items, sp_items):
             episodes.append({
                 "id": _unique_id(it["title"], it["date"], taken), "title": it["title"],
                 "date": it["date"], "youtube_url": it["youtube_url"],
-                "youtube_id": it["youtube_id"], "spotify_url": None,
+                "youtube_id": it["youtube_id"], "spotify_url": default_spotify,
                 "substack_url": None, "thumbnail": None})
             log.append(f"new episode (YouTube): {it['title']}")
         known_yt.add(it["youtube_id"])
@@ -248,7 +249,8 @@ def main():
     yt_items = source("YouTube", cfg.get("youtube_channel_id"), lambda: parse_youtube(
         (fx / "youtube.xml").read_bytes() if fx else fetch_youtube(cfg["youtube_channel_id"]),
         set(cfg.get("ignore_youtube_ids", []))))
-    sp_items = source("Spotify", cfg.get("spotify_show_id") or (fx and (fx / "spotify.json").exists()),
+    have_sp_keys = bool(os.environ.get("SPOTIFY_CLIENT_ID") and os.environ.get("SPOTIFY_CLIENT_SECRET"))
+    sp_items = source("Spotify", (cfg.get("spotify_show_id") and have_sp_keys) or (fx and (fx / "spotify.json").exists()),
                       lambda: parse_spotify(
                           json.loads((fx / "spotify.json").read_text()) if fx
                           else fetch_spotify(cfg["spotify_show_id"])))
@@ -258,7 +260,11 @@ def main():
                            else fetch_substack(cfg["substack_feed_url"])))
 
     ep_data, art_data = load(args.episodes, "episodes"), load(args.articles, "articles")
-    log = merge_episodes(ep_data["episodes"], yt_items, sp_items)
+    # Without Spotify API access, assume every new YouTube episode is also on Spotify;
+    # stories only say "link in bio", so the show link is enough.
+    default_sp = None if sp_items or not cfg.get("spotify_show_id") else \
+        f"https://open.spotify.com/show/{cfg['spotify_show_id']}"
+    log = merge_episodes(ep_data["episodes"], yt_items, sp_items, default_sp)
     log += merge_articles(art_data.setdefault("articles", []), art_items)
 
     print(f"\n{len(log)} change(s)")
