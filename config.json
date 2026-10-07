@@ -1,0 +1,82 @@
+{
+  "brand_name": "End Goal Podcast",
+  "caption": "LINK IN BIO",
+  "schedule": {
+    "timezone": "America/New_York",
+    "slots": [
+      "08:00",
+      "12:00",
+      "17:00",
+      "20:00"
+    ],
+    "horizon_days": 2,
+    "fresh_days": 7,
+    "fresh_repeat_cooldown_hours": 24,
+    "repeat_cooldown_days": 21,
+    "lookahead_hours": 12
+  },
+  "buffer": {
+    "instagram_channel_name": null
+  },
+  "media": {
+    "base_url": null
+  },
+  "sync": {
+    "youtube_channel_id": "UCARX_aFSJfMxUQEB2gw7JJA",
+    "spotify_show_id": "3IT5HNTjMH4yA6ChRQoJoO",
+    "substack_feed_url": "https://theendgoal.substack.com/feed",
+    "ignore_youtube_ids": []
+  },
+  "theme": {
+    "gradient": {
+      "top_left": "#152611",
+      "top_right": "#264C1D",
+      "bottom_left": "#41752A",
+      "bottom_right": "#25431A",
+      "center": "#0C0E0A"
+    },
+    "text": "#FFFFFF",
+    "muted_text": "#C9D6C4",
+    "substack_orange": "#FF6719"
+  },
+  "fonts": {
+    "display": {
+      "path": "fonts/Archivo-Variable.ttf",
+      "axes": [
+        900,
+        125
+      ],
+      "fallback": "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
+    },
+    "title": {
+      "path": "fonts/Archivo-Variable.ttf",
+      "axes": [
+        800,
+        112
+      ],
+      "fallback": "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
+    },
+    "small": {
+      "path": "fonts/Archivo-Variable.ttf",
+      "axes": [
+        800,
+        125
+      ],
+      "fallback": "/usr/share/fonts/truetype/google-fonts/Poppins-SemiBold.ttf"
+    }
+  },
+  "platforms": {
+    "youtube": {
+      "cta": "WATCH THE PODCAST HERE",
+      "logo": "assets/logo_youtube.png"
+    },
+    "spotify": {
+      "cta": "LISTEN TO THE PODCAST HERE",
+      "logo": "assets/logo_spotify.png"
+    },
+    "substack": {
+      "cta": "READ THE ARTICLE HERE",
+      "logo": null
+    }
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
+  "episodes": [
+    {
+      "id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
+      "title": "Why Do We Need to Talk About Mental Health?",
+      "date": "2026-10-05",
+      "youtube_url": "https://www.youtube.com/watch?v=eMj7FxCAVQM",
+      "youtube_id": "eMj7FxCAVQM",
+      "spotify_url": "https://open.spotify.com/episode/0iPGmShD0bGAnCn3f7Nj9Y",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-are-we-still-banning-books-2026-09-28",
+      "title": "Why Are We Still Banning Books?",
+      "date": "2026-09-28",
+      "youtube_url": "https://www.youtube.com/watch?v=A7idf0hP2VA",
+      "youtube_id": "A7idf0hP2VA",
+      "spotify_url": "https://open.spotify.com/episode/6oCB65abZnWVBDfLtBrQ5P",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-are-there-less-men-publishing-books-tim-facc-2026-09-21",
+      "title": "Why Are There Less Men Publishing Books? | Tim Facciola",
+      "date": "2026-09-21",
+      "youtube_url": "https://www.youtube.com/watch?v=BZCmW3LzDrA",
+      "youtube_id": "BZCmW3LzDrA",
+      "spotify_url": "https://open.spotify.com/episode/4iUF3gjgxt9OJ8PSTqAzC6",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-your-lowest-point-can-change-your-life-kevin-2026-09-14",
+      "title": "Why Your Lowest Point Can Change Your Life | Kevin",
+      "date": "2026-09-14",
+      "youtube_url": "https://www.youtube.com/watch?v=WL1do_Q2NLs",
+      "youtube_id": "WL1do_Q2NLs",
+      "spotify_url": "https://open.spotify.com/episode/0p74tZ2cY652N3GAiXQbk7",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-the-best-conversations-have-no-plan-town-hal-2026-09-07",
+      "title": "Why the Best Conversations Have No Plan | Town Hall #0",
+      "date": "2026-09-07",
+      "youtube_url": "https://www.youtube.com/watch?v=lT-YB3CpUVk",
+      "youtube_id": "lT-YB3CpUVk",
+      "spotify_url": "https://open.spotify.com/episode/3OEyhl9R9WBaokMUKT858y",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-do-you-need-to-read-more-diverse-authors-m-s-2026-08-31",
+      "title": "Why Do You Need to Read More Diverse Authors | M. S. Masood & Chai After Dark",
+      "date": "2026-08-31",
+      "youtube_url": "https://www.youtube.com/watch?v=2a1FezBfVtE",
+      "youtube_id": "2a1FezBfVtE",
+      "spotify_url": "https://open.spotify.com/episode/41pl2Yy6gcABkWKiCYYHMk",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-is-it-impossible-to-make-money-dancing-kam-2026-08-24",
+      "title": "Why is it Impossible to Make Money Dancing? | Kam",
+      "date": "2026-08-24",
+      "youtube_url": "https://www.youtube.com/watch?v=Ljumoc8XSk0",
+      "youtube_id": "Ljumoc8XSk0",
+      "spotify_url": "https://open.spotify.com/episode/5cMltIHAIAdP3yl7CYqVIT",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-truth-about-perfectionism-and-burnout-dr-ana-2026-08-17",
+      "title": "The Truth About Perfectionism and Burnout | Dr. Anahita Kalianivala",
+      "date": "2026-08-17",
+      "youtube_url": "https://www.youtube.com/watch?v=8yCmCf-6IwE",
+      "youtube_id": "8yCmCf-6IwE",
+      "spotify_url": "https://open.spotify.com/episode/0ltNaIEzwbah3oAdXt62WI",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-only-4-books-you-need-to-read-2026-08-10",
+      "title": "The Only 4 Books You Need To Read",
+      "date": "2026-08-10",
+      "youtube_url": "https://www.youtube.com/watch?v=mKTpwuB7mjw",
+      "youtube_id": "mKTpwuB7mjw",
+      "spotify_url": "https://open.spotify.com/episode/09eMhfgtgQTbzYiXUREr8Q",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "10-life-lessons-that-completely-changed-my-life-2026-08-03",
+      "title": "10 Life Lessons That Completely Changed My Life",
+      "date": "2026-08-03",
+      "youtube_url": "https://www.youtube.com/watch?v=9jRLWT_9R0M",
+      "youtube_id": "9jRLWT_9R0M",
+      "spotify_url": "https://open.spotify.com/episode/6axadLFwlh6iNYjgxlolTO",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-5-pillars-of-mental-health-that-could-change-2026-07-27",
+      "title": "The 5 Pillars of Mental Health That Could Change Your Life | Dr. Huma Qureshi",
+      "date": "2026-07-27",
+      "youtube_url": "https://www.youtube.com/watch?v=gVJkNeTokkc",
+      "youtube_id": "gVJkNeTokkc",
+      "spotify_url": "https://open.spotify.com/episode/5MSJZ7lOfVAu4znPgh4ASU",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-truth-about-discipline-nobody-tells-you-cesa-2026-07-20",
+      "title": "The Truth About Discipline Nobody Tells You | Cesar",
+      "date": "2026-07-20",
+      "youtube_url": "https://www.youtube.com/watch?v=NjWMlGMnNmg",
+      "youtube_id": "NjWMlGMnNmg",
+      "spotify_url": "https://open.spotify.com/episode/1snUtFFkYUrlryVd5bpaab",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "100-episode-q-a-mid-year-review-huge-announcemen-2026-07-13",
+      "title": "100 Episode Q&A, Mid-Year Review & Huge Announcement",
+      "date": "2026-07-13",
+      "youtube_url": "https://www.youtube.com/watch?v=7KcitgCD71w",
+      "youtube_id": "7KcitgCD71w",
+      "spotify_url": "https://open.spotify.com/episode/2EBYj1uCO295poqFGIABGI",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "life-is-too-short-to-stay-stuck-blayne-2026-07-06",
+      "title": "Life Is Too Short to Stay Stuck | Blayne",
+      "date": "2026-07-06",
+      "youtube_url": "https://www.youtube.com/watch?v=fGyWBf8-YFo",
+      "youtube_id": "fGyWBf8-YFo",
+      "spotify_url": "https://open.spotify.com/episode/3USx46YpDaWJEtFTkDC5jT",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "40-life-lessons-from-the-alchemist-ft-canvas-2026-06-29",
+      "title": "40 Life Lessons from The Alchemist ft. Canvas",
+      "date": "2026-06-29",
+      "youtube_url": "https://www.youtube.com/watch?v=hEHo-sI1rj8",
+      "youtube_id": "hEHo-sI1rj8",
+      "spotify_url": "https://open.spotify.com/episode/6zDfKuZfnFkIAfahlBxD5J",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "11-things-gen-z-refuses-to-do-2026-06-22",
+      "title": "11 Things Gen Z Refuses To Do",
+      "date": "2026-06-22",
+      "youtube_url": "https://www.youtube.com/watch?v=Y8qRFxtfnuc",
+      "youtube_id": "Y8qRFxtfnuc",
+      "spotify_url": "https://open.spotify.com/episode/5vOAAhCmTf3loyUQ7HFqSX",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "gen-z-vs-the-old-system-their-broken-promises-2026-06-15",
+      "title": "Gen Z vs The Old System & Their Broken Promises",
+      "date": "2026-06-15",
+      "youtube_url": "https://www.youtube.com/watch?v=GY3oKBX4eWs",
+      "youtube_id": "GY3oKBX4eWs",
+      "spotify_url": "https://open.spotify.com/episode/5SFMR5ZcdclrvuonzW2Fer",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-life-of-a-resident-doctor-what-is-purpose-so-2026-06-08",
+      "title": "The life of a resident doctor, what is purpose, social connectedness | Dr. Maius",
+      "date": "2026-06-08",
+      "youtube_url": "https://www.youtube.com/watch?v=DSK-E_hm_sY",
+      "youtube_id": "DSK-E_hm_sY",
+      "spotify_url": "https://open.spotify.com/episode/4UC34xSTE1OpzQ9ZP2jgj2",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "booktok-entrepreneurship-finding-purpose-jamesre-2026-06-01",
+      "title": "BookTok, Entrepreneurship & Finding Purpose | Jamesreadsalot",
+      "date": "2026-06-01",
+      "youtube_url": "https://www.youtube.com/watch?v=vrcc5qkxxfU",
+      "youtube_id": "vrcc5qkxxfU",
+      "spotify_url": "https://open.spotify.com/episode/4ONBXqyhyGHbEcvSGBakAu",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-south-asians-struggle-with-anxiety-shame-zoh-2026-05-25",
+      "title": "Why South Asians Struggle With Anxiety & Shame | Zohra Lasi",
+      "date": "2026-05-25",
+      "youtube_url": "https://www.youtube.com/watch?v=osgw0BiiVUw",
+      "youtube_id": "osgw0BiiVUw",
+      "spotify_url": "https://open.spotify.com/episode/4ZHkabNtLuC8rYznxyDgKG",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "inside-the-mind-of-a-fantasy-author-michael-r-mi-2026-05-18",
+      "title": "Inside the Mind of a Fantasy Author | Michael R. Miller",
+      "date": "2026-05-18",
+      "youtube_url": "https://www.youtube.com/watch?v=B30b5MZHbJs",
+      "youtube_id": "B30b5MZHbJs",
+      "spotify_url": "https://open.spotify.com/episode/1a3n871rjifsR9zWZaUrqw",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-hired-a-coach-to-fix-my-voice-2026-05-11",
+      "title": "I Hired A Coach To Fix My Voice",
+      "date": "2026-05-11",
+      "youtube_url": "https://www.youtube.com/watch?v=qPuyNjQyzNQ",
+      "youtube_id": "qPuyNjQyzNQ",
+      "spotify_url": "https://open.spotify.com/episode/1XTwrtXEHH7PKFSA8dqsz6",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "hottest-new-author-on-the-block-andrew-givler-2026-04-27",
+      "title": "Hottest new author on the block | Andrew Givler",
+      "date": "2026-04-27",
+      "youtube_url": "https://www.youtube.com/watch?v=AxEQW0a1aVA",
+      "youtube_id": "AxEQW0a1aVA",
+      "spotify_url": "https://open.spotify.com/episode/57aNNNzxfq6COpPBW0u8VK",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "from-full-time-nurse-to-self-published-author-ph-2026-04-20",
+      "title": "From full time nurse to self published author | Phillip C Quaintrell",
+      "date": "2026-04-20",
+      "youtube_url": "https://www.youtube.com/watch?v=FguIa2SODVI",
+      "youtube_id": "FguIa2SODVI",
+      "spotify_url": "https://open.spotify.com/episode/7nLrcorxWJVOPX1VdnUhjV",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "ai-in-art-health-scares-fantasy-books-aparna-ver-2026-04-13",
+      "title": "AI in Art, Health Scares, Fantasy Books | Aparna Verma",
+      "date": "2026-04-13",
+      "youtube_url": "https://www.youtube.com/watch?v=hTbHRQhyHJk",
+      "youtube_id": "hTbHRQhyHJk",
+      "spotify_url": "https://open.spotify.com/episode/6D9eYxBBHdfmqdzfkVA0r3",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "let-s-check-in-2026-03-23",
+      "title": "let's check in",
+      "date": "2026-03-23",
+      "youtube_url": "https://www.youtube.com/watch?v=wIleeJa8O4k",
+      "youtube_id": "wIleeJa8O4k",
+      "spotify_url": "https://open.spotify.com/episode/0pY4lR3WeXTlhfRlfOKK2p",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-josh-got-me-interested-in-reading-history-bo-2026-03-16",
+      "title": "How Josh got me interested in reading history books | Josh Johnson",
+      "date": "2026-03-16",
+      "youtube_url": "https://www.youtube.com/watch?v=ku8IW722IaU",
+      "youtube_id": "ku8IW722IaU",
+      "spotify_url": "https://open.spotify.com/episode/4mfUivBh3XWHfwtdEwfDTF",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-men-are-always-trying-tim-facciola-2026-03-09",
+      "title": "Why men are always trying | Tim Facciola",
+      "date": "2026-03-09",
+      "youtube_url": "https://www.youtube.com/watch?v=n_GPiWeR8Bg",
+      "youtube_id": "n_GPiWeR8Bg",
+      "spotify_url": "https://open.spotify.com/episode/27AJIttDVwwDI1ECpYOQF8",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "tim-s-new-book-launches-today-2026-03-03",
+      "title": "Tim's new book launches today!",
+      "date": "2026-03-03",
+      "youtube_url": "https://www.youtube.com/watch?v=mqPzI_wcmXI",
+      "youtube_id": "mqPzI_wcmXI",
+      "spotify_url": "https://open.spotify.com/episode/6QhMr98N33zeTchGYFEu54",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "new-books-reading-self-published-authors-and-ai-2026-02-23",
+      "title": "New Books, Reading Self Published Authors, and AI Books | Shami Stovall",
+      "date": "2026-02-23",
+      "youtube_url": "https://www.youtube.com/watch?v=FmJ8v0aC0us",
+      "youtube_id": "FmJ8v0aC0us",
+      "spotify_url": "https://open.spotify.com/episode/6e61djRnyma5v7p7t0rd1G",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "rebranding-running-a-5k-and-reading-books-andy-2026-02-16",
+      "title": "Rebranding, Running a 5K, and Reading Books | Andy",
+      "date": "2026-02-16",
+      "youtube_url": "https://www.youtube.com/watch?v=_iy3aU_zZxM",
+      "youtube_id": "_iy3aU_zZxM",
+      "spotify_url": "https://open.spotify.com/episode/2Tc1EgVAYJb3ZR4EdYEbZK",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "self-marketing-fomo-and-success-tsoup-2026-02-09",
+      "title": "Self-Marketing, FOMO, and Success | TSoup",
+      "date": "2026-02-09",
+      "youtube_url": "https://www.youtube.com/watch?v=xAnLQnwzaNI",
+      "youtube_id": "xAnLQnwzaNI",
+      "spotify_url": "https://open.spotify.com/episode/6Chr0EHUJKQp4SGnc3yALG",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "you-don-t-need-to-worry-about-taxes-2026-02-02",
+      "title": "You don't need to worry about taxes",
+      "date": "2026-02-02",
+      "youtube_url": "https://www.youtube.com/watch?v=4S_tnni2jhU",
+      "youtube_id": "4S_tnni2jhU",
+      "spotify_url": "https://open.spotify.com/episode/55n6nbgVsGmZ9REC3LonNA",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "producing-lasting-media-in-a-world-of-short-term-2026-01-26",
+      "title": "Producing lasting media in a world of short term entertainment | MJG",
+      "date": "2026-01-26",
+      "youtube_url": "https://www.youtube.com/watch?v=lDy-jmfWlt0",
+      "youtube_id": "lDy-jmfWlt0",
+      "spotify_url": "https://open.spotify.com/episode/2uF9BNLhl6lVXFa8LZkl8a",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "parenthood-goals-and-how-to-be-kinder-to-yoursel-2026-01-19",
+      "title": "Parenthood, Goals, and How to be kinder to yourself | Corey",
+      "date": "2026-01-19",
+      "youtube_url": "https://www.youtube.com/watch?v=6Sexid5aaG0",
+      "youtube_id": "6Sexid5aaG0",
+      "spotify_url": "https://open.spotify.com/episode/48jDOKsLpsSXnbtDUXInuI",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-i-plan-to-make-2026-the-best-year-yet-2026-01-05",
+      "title": "How I plan to make 2026 the best year yet",
+      "date": "2026-01-05",
+      "youtube_url": "https://www.youtube.com/watch?v=tdzN4j4mbKU",
+      "youtube_id": "tdzN4j4mbKU",
+      "spotify_url": "https://open.spotify.com/episode/5rfguiuoUNa8NadkDYqc3F",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "this-is-why-your-new-year-s-resolutions-don-t-wo-2025-12-29",
+      "title": "This is why your New Year's Resolutions don't work",
+      "date": "2025-12-29",
+      "youtube_url": "https://www.youtube.com/watch?v=ThmkR1NLroo",
+      "youtube_id": "ThmkR1NLroo",
+      "spotify_url": "https://open.spotify.com/episode/75aEFM1tD0R7MvrnOp7bnr",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-used-these-7-questions-to-review-my-2025-2025-12-22",
+      "title": "I used these 7 questions to review my 2025",
+      "date": "2025-12-22",
+      "youtube_url": "https://www.youtube.com/watch?v=2ISS8UKq6Zc",
+      "youtube_id": "2ISS8UKq6Zc",
+      "spotify_url": "https://open.spotify.com/episode/1YYIbOeGTZxwOCNilIlFte",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "real-ninja-warrior-talks-fitness-purpose-and-dis-2025-12-08",
+      "title": "Real ninja warrior talks fitness, purpose, and discipline | Jonathan \"JB\" Bange",
+      "date": "2025-12-08",
+      "youtube_url": "https://www.youtube.com/watch?v=KEqEqQrheoU",
+      "youtube_id": "KEqEqQrheoU",
+      "spotify_url": "https://open.spotify.com/episode/75pbslfrirC4ARbBu53bsp",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "what-do-you-want-out-of-life-thebookbaba-2025-12-01",
+      "title": "What do you want out of life? | thebookbaba",
+      "date": "2025-12-01",
+      "youtube_url": "https://www.youtube.com/watch?v=U50v0-kBvJs",
+      "youtube_id": "U50v0-kBvJs",
+      "spotify_url": "https://open.spotify.com/episode/0kCqFKpjEULjpmsHieiZzb",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "an-actual-serious-conversation-canvas-2025-11-24",
+      "title": "An actual serious conversation | Canvas",
+      "date": "2025-11-24",
+      "youtube_url": "https://www.youtube.com/watch?v=ZSdoxmNoeTM",
+      "youtube_id": "ZSdoxmNoeTM",
+      "spotify_url": "https://open.spotify.com/episode/7q0ex6uud8Kyadx340VtVM",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "exploring-12-deeply-rooted-fallacies-of-life-2025-11-17",
+      "title": "Exploring 12 Deeply Rooted Fallacies of Life",
+      "date": "2025-11-17",
+      "youtube_url": "https://www.youtube.com/watch?v=v9OwkKMe8l4",
+      "youtube_id": "v9OwkKMe8l4",
+      "spotify_url": "https://open.spotify.com/episode/30BNT5s1RX38eyWRoGHpmE",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "is-there-value-in-business-education-taj-2025-11-10",
+      "title": "Is there value in business education? | Taj",
+      "date": "2025-11-10",
+      "youtube_url": "https://www.youtube.com/watch?v=WgIopvW9moo",
+      "youtube_id": "WgIopvW9moo",
+      "spotify_url": "https://open.spotify.com/episode/4DB5hCZK1F8BC8Pec5aeNl",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "books-boundaries-being-real-laura-eakin-2025-11-03",
+      "title": "Books, Boundaries & Being Real | Laura Eakin",
+      "date": "2025-11-03",
+      "youtube_url": "https://www.youtube.com/watch?v=_E1Ju9psGWU",
+      "youtube_id": "_E1Ju9psGWU",
+      "spotify_url": "https://open.spotify.com/episode/1umK1sUgp3JSXi5iKhSaWC",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "100-people-give-advice-to-a-man-in-his-late-20s-2025-10-27",
+      "title": "100 people give advice to a man in his late 20s",
+      "date": "2025-10-27",
+      "youtube_url": "https://www.youtube.com/watch?v=tUEu8P-ziNQ",
+      "youtube_id": "tUEu8P-ziNQ",
+      "spotify_url": "https://open.spotify.com/episode/5qXCJRTOJ4yulhZnQpKkEb",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-patience-turned-me-into-a-better-artist-hear-2025-10-20",
+      "title": "How Patience Turned Me Into a Better Artist | Heartless",
+      "date": "2025-10-20",
+      "youtube_url": "https://www.youtube.com/watch?v=OQfQC1QjVtc",
+      "youtube_id": "OQfQC1QjVtc",
+      "spotify_url": "https://open.spotify.com/episode/56EgFk8r4WgQPNLohv0hkc",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "15-pieces-of-advice-for-men-trenton-kingsylar-bu-2025-10-13",
+      "title": "15 Pieces of Advice for Men | Trenton \"KingSylar\" Butler",
+      "date": "2025-10-13",
+      "youtube_url": "https://www.youtube.com/watch?v=ahiJzQYgtpg",
+      "youtube_id": "ahiJzQYgtpg",
+      "spotify_url": "https://open.spotify.com/episode/0cgqbmIB8fsEntV6GjDV5a",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-booktok-changed-the-way-we-talk-about-books-2025-10-06",
+      "title": "How BookTok Changed the Way We Talk About Books | Darrius",
+      "date": "2025-10-06",
+      "youtube_url": "https://www.youtube.com/watch?v=fbQaqlIVr6s",
+      "youtube_id": "fbQaqlIVr6s",
+      "spotify_url": "https://open.spotify.com/episode/0STNRv6oz6OpNhb8VCzXn1",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "capturing-life-s-beauty-in-every-moment-jon-gift-2025-09-29",
+      "title": "Capturing Life's Beauty in Every Moment | Jon Gifted",
+      "date": "2025-09-29",
+      "youtube_url": "https://www.youtube.com/watch?v=xOOspD8XQ5g",
+      "youtube_id": "xOOspD8XQ5g",
+      "spotify_url": "https://open.spotify.com/episode/0gO2lrHm7MSbQKxBSr7Waq",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-glamour-of-content-creation-the-trap-of-comp-2025-09-22",
+      "title": "The Glamour of Content Creation & The Trap of Comparison",
+      "date": "2025-09-22",
+      "youtube_url": "https://www.youtube.com/watch?v=Fv5vvEieYvc",
+      "youtube_id": "Fv5vvEieYvc",
+      "spotify_url": "https://open.spotify.com/episode/6DFJOjL65wPRllXPBM4iFw",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "5-things-i-don-t-understand-about-modern-society-2025-09-15",
+      "title": "5 Things I Don't Understand About Modern Society",
+      "date": "2025-09-15",
+      "youtube_url": "https://www.youtube.com/watch?v=Vr9vGslNwHw",
+      "youtube_id": "Vr9vGslNwHw",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "meet-their-expectations-then-exceed-2025-09-08",
+      "title": "Meet Their Expectations, Then Exceed",
+      "date": "2025-09-08",
+      "youtube_url": "https://www.youtube.com/watch?v=M0Gs7DCVLAs",
+      "youtube_id": "M0Gs7DCVLAs",
+      "spotify_url": "https://open.spotify.com/episode/5R65yyk31L3PDl3pcpq4a2",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "music-production-micro-habits-and-daily-time-ent-2025-09-01",
+      "title": "Music Production, Micro Habits, and Daily Time Entry | BBKATES",
+      "date": "2025-09-01",
+      "youtube_url": "https://www.youtube.com/watch?v=Jo2HqUsKhSY",
+      "youtube_id": "Jo2HqUsKhSY",
+      "spotify_url": "https://open.spotify.com/episode/4dJcYs5FJjXBwIvAPlRg1E",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "traveling-meditation-and-dino-friends-rishi-rift-2025-08-25",
+      "title": "Traveling, Meditation, and Dino Friends | Rishi \"Rift\" Desai",
+      "date": "2025-08-25",
+      "youtube_url": "https://www.youtube.com/watch?v=ErCo4fF6TNM",
+      "youtube_id": "ErCo4fF6TNM",
+      "spotify_url": "https://open.spotify.com/episode/4RUSgDp1aoyzkbz7TR0tUH",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-don-t-know-what-success-means-tim-facciola-2025-08-18",
+      "title": "I Don't Know What Success Means | Tim Facciola",
+      "date": "2025-08-18",
+      "youtube_url": "https://www.youtube.com/watch?v=1NsGJ1X3w8U",
+      "youtube_id": "1NsGJ1X3w8U",
+      "spotify_url": "https://open.spotify.com/episode/404r0a4tqQRUp83GRwULkP",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "find-a-reason-to-keep-going-hamza-ahmad-2025-08-11",
+      "title": "Find a Reason to Keep Going | Hamza Ahmad",
+      "date": "2025-08-11",
+      "youtube_url": "https://www.youtube.com/watch?v=DGQ9TuKBVbU",
+      "youtube_id": "DGQ9TuKBVbU",
+      "spotify_url": "https://open.spotify.com/episode/4MJFxdUpui9KNLoHUVefgV",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "8-ways-to-rehabilitate-vinay-mehta-2025-08-04",
+      "title": "8 Ways to Rehabilitate | Vinay Mehta",
+      "date": "2025-08-04",
+      "youtube_url": "https://www.youtube.com/watch?v=LyICd2_di6Y",
+      "youtube_id": "LyICd2_di6Y",
+      "spotify_url": "https://open.spotify.com/episode/6y0hYjrIxO2pplOgK0PCY9",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "we-can-be-the-jam-kameron-grayson-2025-07-28",
+      "title": "We Can Be The Jam | Kameron Grayson",
+      "date": "2025-07-28",
+      "youtube_url": "https://www.youtube.com/watch?v=Hq9_oet2Lqk",
+      "youtube_id": "Hq9_oet2Lqk",
+      "spotify_url": "https://open.spotify.com/episode/1eHzN6VSzSq4hfpyavf0S1",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "breaking-down-the-5-types-of-wealth-in-excruciat-2025-07-21",
+      "title": "Breaking Down The 5 Types of Wealth in Excruciating Detail Part 2",
+      "date": "2025-07-21",
+      "youtube_url": "https://www.youtube.com/watch?v=Xb1Xu7KON3A",
+      "youtube_id": "Xb1Xu7KON3A",
+      "spotify_url": "https://open.spotify.com/episode/7cFXxwYPqxLShViEfAKTFl",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "breaking-down-the-5-types-of-wealth-in-excruciat-2025-07-14",
+      "title": "Breaking down the 5 Types of Wealth in Excruciating Detail",
+      "date": "2025-07-14",
+      "youtube_url": "https://www.youtube.com/watch?v=mtWsmeRRMXA",
+      "youtube_id": "mtWsmeRRMXA",
+      "spotify_url": "https://open.spotify.com/episode/1o4fTBzxhdCRU7ODzKfUfu",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "training-creativity-camaraderie-43-48-recap-2025-07-07",
+      "title": "Training, Creativity & Camaraderie | #43-48 Recap",
+      "date": "2025-07-07",
+      "youtube_url": "https://www.youtube.com/watch?v=Svr6C19jHHs",
+      "youtube_id": "Svr6C19jHHs",
+      "spotify_url": "https://open.spotify.com/episode/7mcVIItJtVJHzqGHcXyWtX",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "swords-fantasy-stories-and-the-freelance-hustle-2025-07-02",
+      "title": "Swords, Fantasy Stories, and The Freelance Hustle | Andy Peloquin",
+      "date": "2025-07-02",
+      "youtube_url": "https://www.youtube.com/watch?v=PwepDpOgA6k",
+      "youtube_id": "PwepDpOgA6k",
+      "spotify_url": "https://open.spotify.com/episode/3PwVR0LjnsvPZOcM2LM95W",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "this-is-my-first-time-ever-talking-to-wonder-mar-2025-06-23",
+      "title": "This is my first time ever talking to Wonder | Marc \"Wonder\" Anthony Aradillas",
+      "date": "2025-06-23",
+      "youtube_url": "https://www.youtube.com/watch?v=NAlN5OOHw38",
+      "youtube_id": "NAlN5OOHw38",
+      "spotify_url": "https://open.spotify.com/episode/4iluZyXYTwxv8bsUz25lQI",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "wearing-many-hats-a-lot-of-hats-alexander-barney-2025-06-16",
+      "title": "Wearing many hats, a lot of hats | Alexander \"Barney\" Barnes",
+      "date": "2025-06-16",
+      "youtube_url": "https://www.youtube.com/watch?v=yF8of1ty0Rc",
+      "youtube_id": "yF8of1ty0Rc",
+      "spotify_url": "https://open.spotify.com/episode/0zo0LZfubGsq5GQJNJD53i",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "becoming-an-elite-filmmaker-mjg-2025-06-09",
+      "title": "Becoming an Elite Filmmaker | MJG",
+      "date": "2025-06-09",
+      "youtube_url": "https://www.youtube.com/watch?v=24StJ0Wo0ew",
+      "youtube_id": "24StJ0Wo0ew",
+      "spotify_url": "https://open.spotify.com/episode/1VYOoHX5G7hj4ETagQpJdm",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "changing-ninja-warrior-game-karsten-williams-2025-06-02",
+      "title": "Changing Ninja Warrior Game | Karsten Williams",
+      "date": "2025-06-02",
+      "youtube_url": "https://www.youtube.com/watch?v=c-eAwnpuHkM",
+      "youtube_id": "c-eAwnpuHkM",
+      "spotify_url": "https://open.spotify.com/episode/7FQKCCpzlLQwLXAsv12zjj",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-read-the-high-agency-essay-so-you-didn-t-have-2025-05-26",
+      "title": "I read the High Agency essay so you didn't have to",
+      "date": "2025-05-26",
+      "youtube_url": "https://www.youtube.com/watch?v=3Ms3S1THXlM",
+      "youtube_id": "3Ms3S1THXlM",
+      "spotify_url": "https://open.spotify.com/episode/6Zm6Vio5ltYiA0vwojt5UQ",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "my-favorite-lessons-from-guests-2025-q2-review-2025-05-19",
+      "title": "My favorite lessons from guests | 2025 Q2 Review",
+      "date": "2025-05-19",
+      "youtube_url": "https://www.youtube.com/watch?v=LvrDRu3yND8",
+      "youtube_id": "LvrDRu3yND8",
+      "spotify_url": "https://open.spotify.com/episode/6zmtJToRsKAblC6rGvoGkT",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "do-women-prefer-a-fluffier-male-body-2025-05-12",
+      "title": "Do women prefer a fluffier male body?",
+      "date": "2025-05-12",
+      "youtube_url": "https://www.youtube.com/watch?v=11oKYOmSj7w",
+      "youtube_id": "11oKYOmSj7w",
+      "spotify_url": "https://open.spotify.com/episode/05SxoR9s5HBo2OQAP8sPHa",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "creating-a-world-class-icon-taj-t-soup-campbell-2025-05-05",
+      "title": "Creating a world class icon | Taj \"T Soup\" Campbell",
+      "date": "2025-05-05",
+      "youtube_url": "https://www.youtube.com/watch?v=vNG8AAj6zB0",
+      "youtube_id": "vNG8AAj6zB0",
+      "spotify_url": "https://open.spotify.com/episode/6XU0c4nNeV6VylrpwqcQU6",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "what-is-the-value-of-a-man-trenton-king-sylar-bu-2025-04-28",
+      "title": "What is the value of a man | Trenton \"King Sylar\" Butler",
+      "date": "2025-04-28",
+      "youtube_url": "https://www.youtube.com/watch?v=ozJI0RRS4lM",
+      "youtube_id": "ozJI0RRS4lM",
+      "spotify_url": "https://open.spotify.com/episode/3TTAeFmqS3cvLg18QW8Sk6",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-to-improve-at-anyhing-in-life-zachary-major-2025-04-21",
+      "title": "How to improve at ANYHING in life | Zachary \"Major\" Keeling",
+      "date": "2025-04-21",
+      "youtube_url": "https://www.youtube.com/watch?v=kCTQHQROv1U",
+      "youtube_id": "kCTQHQROv1U",
+      "spotify_url": "https://open.spotify.com/episode/205l9ZlkuB2kU5qO78s5da",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-power-of-a-camera-ramon-grande-2025-04-14",
+      "title": "The power of a camera | Ramon Grande",
+      "date": "2025-04-14",
+      "youtube_url": "https://www.youtube.com/watch?v=-faU88NTxF8",
+      "youtube_id": "-faU88NTxF8",
+      "spotify_url": "https://open.spotify.com/episode/6fNQCWo393NkiyF9ZOgGdA",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "5-techniques-for-better-mobility-vinay-mehta-2025-04-07",
+      "title": "5 Techniques for BETTER mobility | Vinay Mehta",
+      "date": "2025-04-07",
+      "youtube_url": "https://www.youtube.com/watch?v=VnlyUlF6SZQ",
+      "youtube_id": "VnlyUlF6SZQ",
+      "spotify_url": "https://open.spotify.com/episode/7nymRzeo8N9C88n1tRIWjX",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "breaking-down-creativity-with-zenith-jason-gaban-2025-03-31",
+      "title": "Breaking down creativity with Zenith | Jason Gaban",
+      "date": "2025-03-31",
+      "youtube_url": "https://www.youtube.com/watch?v=QV8Z6HKJABI",
+      "youtube_id": "QV8Z6HKJABI",
+      "spotify_url": "https://open.spotify.com/episode/6jEDVbsUFdNFvmZVUT26Gl",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "a-week-in-my-life-the-end-goal-vlogcast-1-2025-03-24",
+      "title": "A Week in my Life | The End Goal Vlogcast # 1",
+      "date": "2025-03-24",
+      "youtube_url": "https://www.youtube.com/watch?v=GK4ZRY5X4ME",
+      "youtube_id": "GK4ZRY5X4ME",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "should-we-start-a-podcast-canvas-2025-03-17",
+      "title": "Should we start a podcast? - Canvas",
+      "date": "2025-03-17",
+      "youtube_url": "https://www.youtube.com/watch?v=hhEVbJxdTb0",
+      "youtube_id": "hhEVbJxdTb0",
+      "spotify_url": "https://open.spotify.com/episode/2ZPxQ9UX423Tgatzf8b3nW",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "everything-i-ve-learned-from-15-podcasts-2025-q1-2025-03-10",
+      "title": "Everything I've learned from 15 Podcasts - 2025 Q1 Recap",
+      "date": "2025-03-10",
+      "youtube_url": "https://www.youtube.com/watch?v=xz9XgrRwo0M",
+      "youtube_id": "xz9XgrRwo0M",
+      "spotify_url": "https://open.spotify.com/episode/03zsnrD3q10ENs8d7euuOz",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "15-lessons-from-6-guests-2025-03-03",
+      "title": "15 lessons from 6 Guests",
+      "date": "2025-03-03",
+      "youtube_url": "https://www.youtube.com/watch?v=5v4oi3t-51w",
+      "youtube_id": "5v4oi3t-51w",
+      "spotify_url": "https://open.spotify.com/episode/7ul4W1atyNMw7AQxgogBVz",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "taking-the-mbti-test-5-new-insights-2025-02-24",
+      "title": "Taking the MBTI Test + 5 New Insights",
+      "date": "2025-02-24",
+      "youtube_url": "https://www.youtube.com/watch?v=5td0x2gGD4s",
+      "youtube_id": "5td0x2gGD4s",
+      "spotify_url": "https://open.spotify.com/episode/4oR3Zm1z4f6tM4piLh90dm",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "he-opened-a-dance-studio-jacob-bacud-2025-02-17",
+      "title": "He opened a dance studio!! - Jacob Bacud",
+      "date": "2025-02-17",
+      "youtube_url": "https://www.youtube.com/watch?v=Frg2ubbC6bE",
+      "youtube_id": "Frg2ubbC6bE",
+      "spotify_url": "https://open.spotify.com/episode/4RUn2Ku4l03geVjSmzGKv7",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "10-life-lessons-from-growing-a-business-gabo-sat-2025-02-10",
+      "title": "10 life lessons from growing a business - Gabo Saturno",
+      "date": "2025-02-10",
+      "youtube_url": "https://www.youtube.com/watch?v=qsflwoew9Dk",
+      "youtube_id": "qsflwoew9Dk",
+      "spotify_url": "https://open.spotify.com/episode/59o8j2XGDDMtgG9UTRiOlT",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-to-have-a-healthy-relationship-with-failure-2025-02-03",
+      "title": "How to have a healthy relationship with failure - Andy Yu",
+      "date": "2025-02-03",
+      "youtube_url": "https://www.youtube.com/watch?v=OXFHBNOa8X8",
+      "youtube_id": "OXFHBNOa8X8",
+      "spotify_url": "https://open.spotify.com/episode/4W7ypbOEkrbb12YagIkE6S",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "five-methods-to-improve-your-health-in-2025-kia-2025-01-27",
+      "title": "Five methods to improve your health in 2025 - Kia Katherine",
+      "date": "2025-01-27",
+      "youtube_url": "https://www.youtube.com/watch?v=JYoVn5Q1rrA",
+      "youtube_id": "JYoVn5Q1rrA",
+      "spotify_url": "https://open.spotify.com/episode/2IJ56YMrZk2qtkIP4fJSaB",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-never-ending-practice-of-life-yassir-khriche-2025-01-20",
+      "title": "The never ending practice of life - Yassir Khrichef",
+      "date": "2025-01-20",
+      "youtube_url": "https://www.youtube.com/watch?v=QUcjSm7jRJs",
+      "youtube_id": "QUcjSm7jRJs",
+      "spotify_url": "https://open.spotify.com/episode/0FT1MadFlvsksNwTsm6mVY",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "building-better-relationships-kam-grayson-2025-01-13",
+      "title": "Building Better Relationships - Kam Grayson",
+      "date": "2025-01-13",
+      "youtube_url": "https://www.youtube.com/watch?v=zgIHMkfzaq8",
+      "youtube_id": "zgIHMkfzaq8",
+      "spotify_url": "https://open.spotify.com/episode/0ABEcAAu97qZcFh7KsIdzF",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-to-live-every-day-with-passion-rishi-desai-r-2025-01-06",
+      "title": "How to live every day with passion - Rishi Desai (Rift)",
+      "date": "2025-01-06",
+      "youtube_url": "https://www.youtube.com/watch?v=UoFyWB3NopA",
+      "youtube_id": "UoFyWB3NopA",
+      "spotify_url": "https://open.spotify.com/episode/7FQK5AYY0nZ8NglPHcHygt",
+      "substack_url": null,
+      "thumbnail": null
+    }
+  ]
+}
