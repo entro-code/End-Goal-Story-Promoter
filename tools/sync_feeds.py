@@ -28,7 +28,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import date
+from datetime import date, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
@@ -183,7 +183,8 @@ def _best_match(episodes, item, missing):
     """Existing episode (missing the given link) that this item most likely is."""
     best, best_score = None, MIN_SCORE
     for e in episodes:
-        if e.get(missing):
+        have = e.get(missing)
+        if have and "/show/" not in have:   # a bare show link is only a placeholder
             continue
         s = pair_score(item["title"], date.fromisoformat(item["date"]),
                        e["title"], date.fromisoformat(e["date"]))
@@ -192,7 +193,7 @@ def _best_match(episodes, item, missing):
     return best
 
 
-def merge_episodes(episodes, yt_items, sp_items, default_spotify=None):
+def merge_episodes(episodes, yt_items, sp_items, default_spotify=None, spotify_only_since=None):
     taken = {e["id"] for e in episodes}
     known_yt = {e.get("youtube_id") for e in episodes}
     known_sp = {e.get("spotify_url") for e in episodes}
@@ -219,6 +220,8 @@ def merge_episodes(episodes, yt_items, sp_items, default_spotify=None):
         if target:
             target["spotify_url"] = it["spotify_url"]
             log.append(f"linked Spotify to: {target['title']}")
+        elif spotify_only_since and it["date"] < spotify_only_since:
+            continue   # old Spotify-only episode: leave out of the story rotation
         else:
             episodes.append({
                 "id": _unique_id(it["title"], it["date"], taken), "title": it["title"],
@@ -307,7 +310,8 @@ def main():
     # stories only say "link in bio", so the show link is enough.
     default_sp = None if sp_items or not cfg.get("spotify_show_id") else \
         f"https://open.spotify.com/show/{cfg['spotify_show_id']}"
-    log = merge_episodes(ep_data["episodes"], yt_items, sp_items, default_sp)
+    since = (date.today() - timedelta(days=cfg.get("spotify_only_days", 21))).isoformat()
+    log = merge_episodes(ep_data["episodes"], yt_items, sp_items, default_sp, since)
     log += merge_articles(art_data.setdefault("articles", []), art_items)
 
     print(f"\n{len(log)} change(s)")
