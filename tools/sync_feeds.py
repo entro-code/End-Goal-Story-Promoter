@@ -144,6 +144,30 @@ def fetch_substack(feed_url):
     return http_get(feed_url)
 
 
+def parse_substack_archive(payload):
+    """Substack's JSON archive (fallback when the RSS feed is blocked)."""
+    out = []
+    for p in payload if isinstance(payload, list) else []:
+        link = (p.get("canonical_url") or "").split("?")[0]
+        title, pub = p.get("title"), p.get("post_date") or ""
+        if not (link and title and len(pub) >= 10) or p.get("audience") == "only_paid":
+            continue
+        out.append({"title": title.strip(), "date": pub[:10], "substack_url": link,
+                    "image_url": p.get("cover_image")})
+    return out
+
+
+def substack_items(feed_url):
+    try:
+        return parse_substack(fetch_substack(feed_url))
+    except Exception as first:
+        base = feed_url.rsplit("/feed", 1)[0]
+        try:
+            return parse_substack_archive(json.loads(http_get(f"{base}/api/v1/archive?sort=new&limit=12")))
+        except Exception as second:
+            raise RuntimeError(f"feed: {first} | archive: {second}")
+
+
 # --------------------------------------------------------------------------
 # merging
 # --------------------------------------------------------------------------
@@ -273,9 +297,8 @@ def main():
                           json.loads((fx / "spotify.json").read_text()) if fx
                           else fetch_spotify(cfg["spotify_show_id"])))
     art_items = source("Substack", cfg.get("substack_feed_url") or (fx and (fx / "substack.xml").exists()),
-                       lambda: parse_substack(
-                           (fx / "substack.xml").read_bytes() if fx
-                           else fetch_substack(cfg["substack_feed_url"])))
+                       lambda: parse_substack((fx / "substack.xml").read_bytes()) if fx
+                       else substack_items(cfg["substack_feed_url"]))
 
     if not args.dry_run and not fx:  # lets us see what happened without reading run logs
         save(ROOT / "state" / "sync_status.json", status)
