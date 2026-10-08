@@ -97,6 +97,16 @@ def run_sync():
         print("WARNING: feed sync reported problems; continuing with known episodes")
 
 
+def refresh_site():
+    """Rewrite docs/schedule.json for the link-in-bio page (never blocks posting)."""
+    try:
+        sys.path.insert(0, str(ROOT / "tools"))
+        import build_site
+        build_site.build(ROOT)
+    except Exception as exc:
+        print("WARNING: could not update the link-in-bio page data:", exc)
+
+
 def cleanup_old_images(today):
     if not STORIES.exists():
         return
@@ -153,6 +163,7 @@ def prepare(args):
     if not args.dry_run:
         save(STATE / "pending.json", {"posts": pending})
         cleanup_old_images(now.date())
+        refresh_site()
 
 
 # --------------------------------------------------------------------------
@@ -219,6 +230,7 @@ def queue(args):
         save(STATE / "history.json", history)  # keep progress even if a later post fails
         print(f"  queued {p['when']}  {p['platform']:<8} {p['title']}")
     save(STATE / "pending.json", {"posts": failed})
+    refresh_site()
     return 1 if failed else 0
 
 

@@ -78,5 +78,10 @@
       "cta": "READ THE ARTICLE HERE",
       "logo": null
     }
+  },
+  "site": {
+    "hub_url": "https://entroarish.com",
+    "hub_label": "entroarish.com",
+    "keep_hours": 30
   }
 }
