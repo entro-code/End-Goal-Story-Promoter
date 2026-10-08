@@ -80,8 +80,8 @@
     }
   },
   "site": {
-    "hub_url": null,
-    "hub_label": "entroarish.com",
+    "hub_url": "https://entroarish.framer.website/",
+    "hub_label": "my website",
     "keep_hours": 30
   }
 }
