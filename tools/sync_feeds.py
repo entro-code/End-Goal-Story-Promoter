@@ -24,6 +24,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -35,15 +36,21 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from import_sheet import MIN_SCORE, clean, pair_score, slug  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-UA = {"User-Agent": "Mozilla/5.0 (story-promoter sync)"}
+UA = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"),
+      "Accept": "application/rss+xml, application/atom+xml, application/json, text/xml, */*"}
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 
 
 def http_get(url, headers=None, data=None, timeout=30):
     req = urllib.request.Request(url, data=data, headers={**UA, **(headers or {})})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read()
+    except urllib.error.HTTPError as exc:  # keep the server's explanation
+        body = exc.read()[:200].decode("utf-8", "replace").replace("\n", " ")
+        raise RuntimeError(f"HTTP {exc.code} from {urllib.parse.urlparse(url).netloc}: {body}") from None
 
 
 # --------------------------------------------------------------------------
@@ -121,9 +128,16 @@ def fetch_spotify(show_id):
         headers={"Authorization": f"Basic {basic}",
                  "Content-Type": "application/x-www-form-urlencoded"},
         data=urllib.parse.urlencode({"grant_type": "client_credentials"}).encode()))
-    q = urllib.parse.urlencode({"market": "US", "limit": 50})
-    return json.loads(http_get(f"https://api.spotify.com/v1/shows/{show_id}/episodes?{q}",
-                               headers={"Authorization": f"Bearer {tok['access_token']}"}))
+    auth = {"Authorization": f"Bearer {tok['access_token']}"}
+    items, url = [], f"https://api.spotify.com/v1/shows/{show_id}/episodes?" + \
+        urllib.parse.urlencode({"market": "US", "limit": 10})   # small pages: newer API caps
+    for _ in range(30):                                          # ~300 episodes max
+        page = json.loads(http_get(url, headers=auth))
+        items += page.get("items") or []
+        url = page.get("next")
+        if not url:
+            break
+    return {"items": items}
 
 
 def fetch_substack(feed_url):
