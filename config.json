@@ -80,7 +80,7 @@
     }
   },
   "site": {
-    "hub_url": "https://entroarish.com",
+    "hub_url": null,
     "hub_label": "entroarish.com",
     "keep_hours": 30
   }
