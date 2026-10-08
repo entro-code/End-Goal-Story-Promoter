@@ -232,18 +232,22 @@ def main():
     cfg = json.loads(Path(args.config).read_text(encoding="utf-8"))["sync"]
     fx = Path(args.fixtures) if args.fixtures else None
     problems, yt_items, sp_items, art_items = [], [], [], []
+    status = {}
 
     def source(name, enabled, fn):
         if not enabled:
             print(f"- {name}: not configured, skipped")
+            status[name] = "not configured"
             return []
         try:
             items = fn()
             print(f"- {name}: {len(items)} items")
+            status[name] = f"ok, {len(items)} items"
             return items
         except Exception as exc:  # one source failing must not block the others
             problems.append(f"{name}: {exc}")
             print(f"- {name}: FAILED ({exc})")
+            status[name] = f"FAILED: {exc}"[:300]
             return []
 
     yt_items = source("YouTube", cfg.get("youtube_channel_id"), lambda: parse_youtube(
@@ -259,6 +263,8 @@ def main():
                            (fx / "substack.xml").read_bytes() if fx
                            else fetch_substack(cfg["substack_feed_url"])))
 
+    if not args.dry_run and not fx:  # lets us see what happened without reading run logs
+        save(ROOT / "state" / "sync_status.json", status)
     ep_data, art_data = load(args.episodes, "episodes"), load(args.articles, "articles")
     # Without Spotify API access, assume every new YouTube episode is also on Spotify;
     # stories only say "link in bio", so the show link is enough.
