@@ -275,6 +275,22 @@ def render_story(art_path, title, platform, out_path, config):
 # --------------------------------------------------------------------------
 # demo mode: placeholder artwork so the layout can be judged without real assets
 # --------------------------------------------------------------------------
+def article_art(path, config, size=(1280, 720)):
+    """Artwork for Substack posts, which have no thumbnail we can fetch."""
+    theme, fonts = config["theme"], config["fonts"]
+    w, h = size
+    bg = make_background(theme).resize((w, int(w * H / W))).crop((0, 0, w, h))
+    draw = ImageDraw.Draw(bg)
+    font, lines = fit_text(draw, "THE END GOAL", fonts["display"], w - 160, 1, (110, 96, 84))
+    draw_text(bg, (w // 2, 250), lines[0], font, hex_rgb(theme["text"]), anchor="ma")
+    small = load_font(fonts["small"], 44)
+    draw_text(bg, (w // 2, 250 + font.size + 30), "NEWSLETTER", small,
+              hex_rgb(theme["substack_orange"]), anchor="ma", shadow=False)
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    bg.convert("RGB").save(path, quality=92)
+    return Path(path)
+
+
 def placeholder_art(path, size, c1, c2, label, config):
     w, h = size
     base = Image.linear_gradient("L").resize((w, h))

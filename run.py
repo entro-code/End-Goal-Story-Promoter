@@ -85,6 +85,8 @@ def fetch_art(item, cache_dir):
                 return cached
         except Exception:
             continue
+    if item.get("substack_url") and not item.get("youtube_url"):   # article without a cover
+        return generate_story.article_art(cached, generate_story.load_config())
     return None
 
 

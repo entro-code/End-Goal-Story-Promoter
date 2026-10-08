@@ -1,3 +1,252 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "id": "you-re-overthinking-it-2026-10-03",
+      "title": "You’re overthinking it",
+      "date": "2026-10-03",
+      "substack_url": "https://theendgoal.substack.com/p/youre-overthinking-it",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-to-read-so-that-you-never-stop-2026-09-28",
+      "title": "How to read so that you never stop",
+      "date": "2026-09-28",
+      "substack_url": "https://theendgoal.substack.com/p/how-to-read-so-that-you-never-stop",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "this-is-why-you-can-t-read-anymore-2026-09-06",
+      "title": "This is why you can't read anymore",
+      "date": "2026-09-06",
+      "substack_url": "https://theendgoal.substack.com/p/this-is-why-you-cant-read-anymore",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-pulled-back-on-my-business-and-here-s-why-2026-08-23",
+      "title": "I pulled back on my business and here’s why",
+      "date": "2026-08-23",
+      "substack_url": "https://theendgoal.substack.com/p/i-pulled-back-on-my-business-and",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "where-did-your-curiosity-go-2026-08-14",
+      "title": "Where did your curiosity go?",
+      "date": "2026-08-14",
+      "substack_url": "https://theendgoal.substack.com/p/where-did-your-curiosity-go",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-one-thing-i-d-go-back-and-change-2026-08-03",
+      "title": "The one thing I'd go back and change",
+      "date": "2026-08-03",
+      "substack_url": "https://theendgoal.substack.com/p/the-one-thing-id-go-back-and-change",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "5-ideas-that-changed-my-life-2026-07-27",
+      "title": "5 Ideas that changed my life",
+      "date": "2026-07-27",
+      "substack_url": "https://theendgoal.substack.com/p/5-ideas-that-changed-my-life",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "what-i-learned-from-100-podcast-episodes-2026-07-11",
+      "title": "What I learned from 100 podcast episodes",
+      "date": "2026-07-11",
+      "substack_url": "https://theendgoal.substack.com/p/what-i-learned-from-100-podcast-episodes",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-starting-class-trap-2026-07-04",
+      "title": "The Starting Class Trap",
+      "date": "2026-07-04",
+      "substack_url": "https://theendgoal.substack.com/p/the-starting-class-trap",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "5-life-lessons-from-the-alchemist-2026-06-28",
+      "title": "5 Life Lessons from The Alchemist",
+      "date": "2026-06-28",
+      "substack_url": "https://theendgoal.substack.com/p/5-life-lessons-from-the-alchemist",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "where-is-the-right-path-2026-06-21",
+      "title": "Where is the right path?",
+      "date": "2026-06-21",
+      "substack_url": "https://theendgoal.substack.com/p/where-is-the-right-path",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-4-promises-they-made-and-broke-2026-06-13",
+      "title": "The 4 promises they made and broke",
+      "date": "2026-06-13",
+      "substack_url": "https://theendgoal.substack.com/p/the-4-promises-they-made-and-broke",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "who-s-at-your-doorbell-2026-06-06",
+      "title": "who's at your doorbell?",
+      "date": "2026-06-06",
+      "substack_url": "https://theendgoal.substack.com/p/whos-at-your-doorbell",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "we-are-living-the-wrong-way-2026-05-16",
+      "title": "We are living the wrong way",
+      "date": "2026-05-16",
+      "substack_url": "https://theendgoal.substack.com/p/we-are-living-the-wrong-way",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "your-voice-is-not-broken-2026-05-08",
+      "title": "Your Voice Is Not Broken",
+      "date": "2026-05-08",
+      "substack_url": "https://theendgoal.substack.com/p/your-voice-is-not-broken",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-one-productivity-tip-that-helped-me-get-real-2026-04-24",
+      "title": "The one productivity tip that helped me get real work done",
+      "date": "2026-04-24",
+      "substack_url": "https://theendgoal.substack.com/p/the-one-productivity-tip-that-helped",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "what-would-you-build-2026-04-20",
+      "title": "What would you build?",
+      "date": "2026-04-20",
+      "substack_url": "https://theendgoal.substack.com/p/what-would-you-build",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-m-having-the-worst-busy-season-ever-2026-04-11",
+      "title": "I'm having the worst busy season ever",
+      "date": "2026-04-11",
+      "substack_url": "https://theendgoal.substack.com/p/im-having-the-worst-busy-season-ever",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "living-in-fear-is-no-way-to-live-2026-04-03",
+      "title": "Living in fear is no way to live",
+      "date": "2026-04-03",
+      "substack_url": "https://theendgoal.substack.com/p/living-in-fear-is-no-way-to-live",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "masterfully-crafted-distractions-2026-03-21",
+      "title": "Masterfully crafted distractions",
+      "date": "2026-03-21",
+      "substack_url": "https://theendgoal.substack.com/p/masterfully-crafted-distractions",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "i-may-be-an-orange-belt-today-2026-03-13",
+      "title": "I may be an orange belt today",
+      "date": "2026-03-13",
+      "substack_url": "https://theendgoal.substack.com/p/i-may-be-an-orange-belt-today",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-other-side-of-overworking-2026-03-07",
+      "title": "The Other Side of Overworking",
+      "date": "2026-03-07",
+      "substack_url": "https://theendgoal.substack.com/p/the-other-side-of-overworking",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "household-chores-with-the-best-roi-for-your-brai-2026-02-27",
+      "title": "Household Chores with the Best ROI for your Brain",
+      "date": "2026-02-27",
+      "substack_url": "https://theendgoal.substack.com/p/household-chores-with-the-best-roi",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "choosing-my-own-active-challenges-2026-02-20",
+      "title": "Choosing My Own Active Challenges",
+      "date": "2026-02-20",
+      "substack_url": "https://theendgoal.substack.com/p/choosing-my-own-challenges",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "why-representation-in-books-matter-2026-02-13",
+      "title": "Why representation in books matter",
+      "date": "2026-02-13",
+      "substack_url": "https://theendgoal.substack.com/p/why-representation-in-books-matter",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "curiosity-is-dying-2026-02-06",
+      "title": "curiosity is dying",
+      "date": "2026-02-06",
+      "substack_url": "https://theendgoal.substack.com/p/curiosity-is-dying",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "the-thing-about-silence-is-2026-01-30",
+      "title": "The thing about silence is...",
+      "date": "2026-01-30",
+      "substack_url": "https://theendgoal.substack.com/p/the-thing-about-silence-is",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "you-are-in-your-golden-days-2026-01-23",
+      "title": "You are in your \"golden days\"",
+      "date": "2026-01-23",
+      "substack_url": "https://theendgoal.substack.com/p/you-are-in-your-golden-days",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "are-you-solving-for-the-right-problem-2026-01-16",
+      "title": "Are you solving for the right problem?",
+      "date": "2026-01-16",
+      "substack_url": "https://theendgoal.substack.com/p/are-you-solving-for-the-right-problem",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "if-you-don-t-have-goals-for-2026-read-this-2026-01-09",
+      "title": "If you don't have goals for 2026, read this",
+      "date": "2026-01-09",
+      "substack_url": "https://theendgoal.substack.com/p/if-you-dont-have-goals-for-2026-read",
+      "image_url": null,
+      "thumbnail": null
+    },
+    {
+      "id": "how-i-achieved-my-goals-in-2025-2026-01-01",
+      "title": "How I achieved my goals in 2025",
+      "date": "2026-01-01",
+      "substack_url": "https://theendgoal.substack.com/p/how-i-achieved-my-goals-in-2025",
+      "image_url": null,
+      "thumbnail": null
+    }
+  ]
 }
