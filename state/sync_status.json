@@ -1,5 +1,5 @@
 {
   "YouTube": "ok, 3 items",
-  "Spotify": "FAILED: HTTP Error 400: Bad Request",
-  "Substack": "FAILED: HTTP Error 403: Forbidden"
+  "Spotify": "FAILED: HTTP 400 from accounts.spotify.com: {\"error\":\"invalid_client\",\"error_description\":\"Invalid client\"}",
+  "Substack": "FAILED: HTTP 403 from theendgoal.substack.com: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
 }
