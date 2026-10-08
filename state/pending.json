@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-08T17:00",
+      "episode_id": "parents-need-to-have-these-conversations-2026-10-01",
+      "platform": "youtube",
+      "title": "Parents Need to Have These Conversations",
+      "link": "https://www.youtube.com/watch?v=xnHBsKe7P1s",
+      "due_at_utc": "2026-10-08T21:00:00.000Z",
+      "image": "stories/20261008-1700-youtube-parents-need-to-have-these-con.png"
+    },
+    {
+      "when": "2026-10-08T20:00",
+      "episode_id": "taking-the-mbti-test-5-new-insights-2025-02-24",
+      "platform": "youtube",
+      "title": "Taking the MBTI Test + 5 New Insights",
+      "link": "https://www.youtube.com/watch?v=5td0x2gGD4s",
+      "due_at_utc": "2026-10-09T00:00:00.000Z",
+      "image": "stories/20261008-2000-youtube-taking-the-mbti-test-5-new-ins.png"
+    }
+  ]
 }
