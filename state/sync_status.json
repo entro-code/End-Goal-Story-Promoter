@@ -1,5 +1,5 @@
 {
-  "YouTube": "ok, 3 items",
+  "YouTube": "FAILED: HTTP 404 from www.youtube.com: <!DOCTYPE html> <html lang=en>   <meta charset=utf-8>   <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">   <title>Error 404 (Not Found)!!1</title>   <style>     *{ma",
   "Spotify": "ok, 114 items",
   "Substack": "FAILED: feed: HTTP 403 from theendgoal.substack.com: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam | archive: HTTP 403 from theendgoal.substack.c"
 }
