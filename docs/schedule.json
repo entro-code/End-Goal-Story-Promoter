@@ -50,6 +50,25 @@
     "youtube": "https://www.youtube.com/watch?v=5td0x2gGD4s",
     "spotify": "https://open.spotify.com/episode/4oR3Zm1z4f6tM4piLh90dm"
    }
+  },
+  {
+   "at": "2026-10-09T12:00:00Z",
+   "platform": "substack",
+   "title": "You’re overthinking it",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/youre-overthinking-it"
+   }
+  },
+  {
+   "at": "2026-10-09T16:00:00Z",
+   "platform": "youtube",
+   "title": "Everything I've learned from 15 Podcasts - 2025 Q1 Recap",
+   "thumb": "https://i.ytimg.com/vi/xz9XgrRwo0M/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=xz9XgrRwo0M",
+    "spotify": "https://open.spotify.com/episode/03zsnrD3q10ENs8d7euuOz"
+   }
   }
  ]
 }

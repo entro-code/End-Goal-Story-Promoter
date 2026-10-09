@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-09T08:00",
-      "episode_id": "you-re-overthinking-it-2026-10-03",
-      "platform": "substack",
-      "title": "You’re overthinking it",
-      "link": "https://theendgoal.substack.com/p/youre-overthinking-it",
-      "due_at_utc": "2026-10-09T12:00:00.000Z",
-      "image": "stories/20261009-0800-substack-you-re-overthinking-it-2026-10.png"
-    },
-    {
-      "when": "2026-10-09T12:00",
-      "episode_id": "everything-i-ve-learned-from-15-podcasts-2025-q1-2025-03-10",
-      "platform": "youtube",
-      "title": "Everything I've learned from 15 Podcasts - 2025 Q1 Recap",
-      "link": "https://www.youtube.com/watch?v=xz9XgrRwo0M",
-      "due_at_utc": "2026-10-09T16:00:00.000Z",
-      "image": "stories/20261009-1200-youtube-everything-i-ve-learned-from-1.png"
-    }
-  ]
+  "posts": []
 }
