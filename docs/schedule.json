@@ -12,16 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-09T00:00:00Z",
-   "platform": "youtube",
-   "title": "Taking the MBTI Test + 5 New Insights",
-   "thumb": "https://i.ytimg.com/vi/5td0x2gGD4s/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=5td0x2gGD4s",
-    "spotify": "https://open.spotify.com/episode/4oR3Zm1z4f6tM4piLh90dm"
-   }
-  },
-  {
    "at": "2026-10-09T12:00:00Z",
    "platform": "substack",
    "title": "You’re overthinking it",
