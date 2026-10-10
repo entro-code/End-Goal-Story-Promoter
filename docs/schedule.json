@@ -12,15 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-09T12:00:00Z",
-   "platform": "substack",
-   "title": "You’re overthinking it",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/youre-overthinking-it"
-   }
-  },
-  {
    "at": "2026-10-09T16:00:00Z",
    "platform": "youtube",
    "title": "Everything I've learned from 15 Podcasts - 2025 Q1 Recap",
@@ -88,6 +79,14 @@
     "youtube": "https://www.youtube.com/watch?v=A7idf0hP2VA",
     "spotify": "https://open.spotify.com/episode/6oCB65abZnWVBDfLtBrQ5P"
    }
+  }
+ ],
+ "freebies": [
+  {
+   "title": "200 Fantasy Book Recommendations",
+   "blurb": "Free on Substack",
+   "image": "freebies/200-free-books.png",
+   "url": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
   }
  ]
 }

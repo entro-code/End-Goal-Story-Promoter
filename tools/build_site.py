@@ -59,7 +59,7 @@ def build(root=ROOT, now=None):
                "platform": "youtube"} if newest else None)
     site = cfg.get("site") or {}
     data = {"hub_url": site.get("hub_url"), "hub_label": site.get("hub_label"),
-            "latest": latest, "stories": entries}
+            "latest": latest, "stories": entries, "freebies": site.get("freebies") or []}
     out = root / "docs" / "schedule.json"
     out.parent.mkdir(exist_ok=True)
     text = json.dumps(data, indent=1, ensure_ascii=False) + "\n"

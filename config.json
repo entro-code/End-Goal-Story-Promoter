@@ -82,6 +82,14 @@
   "site": {
     "hub_url": "https://entroarish.framer.website/",
     "hub_label": "my website",
-    "keep_hours": 30
+    "keep_hours": 30,
+    "freebies": [
+      {
+        "title": "200 Fantasy Book Recommendations",
+        "blurb": "Free on Substack",
+        "image": "freebies/200-free-books.png",
+        "url": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      }
+    ]
   }
 }

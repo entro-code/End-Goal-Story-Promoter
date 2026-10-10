@@ -75,6 +75,18 @@
   .row img { width: 96px; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; background:#14210f; }
   .row span { font-weight: 700; font-size: 14px; line-height: 1.25; }
   .row small { display:block; color: var(--muted); font-weight: 500; margin-top: 3px; text-transform: capitalize; }
+  .freebies { margin-top: 30px; }
+  .free {
+    display: grid; grid-template-columns: 120px 1fr; gap: 14px; align-items: center;
+    text-decoration: none; color: var(--text); padding: 10px; border-radius: 18px;
+    background: var(--card); border: 1.5px solid var(--card-edge);
+  }
+  .free + .free { margin-top: 10px; }
+  .free img { width: 120px; aspect-ratio: 16/9; object-fit: cover; border-radius: 10px; background: #fff; }
+  .free b { display: block; font-stretch: 112%; font-weight: 800; font-size: 15px;
+    line-height: 1.2; text-transform: uppercase; }
+  .free small { display: block; margin-top: 5px; color: var(--green-hi); font-weight: 700;
+    font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
   footer { text-align: center; color: var(--muted); font-size: 12px; margin-top: 30px; opacity: .7; }
   .hidden { display: none; }
 </style>
@@ -93,6 +105,11 @@
   <section class="earlier hidden" id="earlier">
     <div class="label">Earlier today</div>
     <div id="earlierList"></div>
+  </section>
+
+  <section class="freebies hidden" id="freebies">
+    <div class="label">Freebies</div>
+    <div id="freebiesList"></div>
   </section>
 
   <footer>New episodes every Monday</footer>
@@ -122,6 +139,13 @@ function render(data) {
     hub.href = data.hub_url;
     hub.innerHTML = `Visit ${esc(data.hub_label || data.hub_url)}<small>Everything else, in one place</small>`;
     hub.classList.remove("hidden");
+  }
+  if ((data.freebies || []).length) {
+    document.getElementById("freebiesList").innerHTML = data.freebies.map(f =>
+      `<a class="free" href="${esc(f.url)}" rel="noopener">
+         ${f.image ? `<img src="${esc(f.image)}" alt="" loading="lazy">` : "<div></div>"}
+         <span><b>${esc(f.title)}</b><small>${esc(f.blurb || "Get it free")} →</small></span></a>`).join("");
+    document.getElementById("freebies").classList.remove("hidden");
   }
   const now = Date.now();
   const live = (data.stories || []).filter(s => Date.parse(s.at) <= now);
