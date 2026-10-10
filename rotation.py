@@ -2,8 +2,8 @@
 """Plan which story goes in which slot.
 
 Rules
-- Slots come from config.json ("schedule"). Even-numbered slots (1st, 3rd, ...)
-  go to a "fresh" episode (uploaded within fresh_days) when one exists; the
+- Slots come from config.json ("schedule"). The slots listed in "fresh_slots"
+  (0-based; default 1st and 3rd) go to a "fresh" episode (uploaded within fresh_days) when one exists; the
   other slots rotate through the back catalog.
 - Within the fresh window a given episode+platform is used at most once per
   fresh_repeat_cooldown_hours, so a new episode alternates YouTube / Spotify
@@ -46,6 +46,8 @@ def plan(episodes, sched, start, days, history, skip=frozenset(), now=None):
     fresh_days = sched["fresh_days"]
     cooldown = timedelta(days=sched["repeat_cooldown_days"])
     fresh_cd = timedelta(hours=sched.get("fresh_repeat_cooldown_hours", 24))
+    # which slots (0-based) favor new uploads; the rest rotate the back catalog
+    fresh_slots = set(sched.get("fresh_slots", [0, 2]))
 
     last_pair, last_ep = {}, {}
     for h in history:
@@ -80,7 +82,7 @@ def plan(episodes, sched, start, days, history, skip=frozenset(), now=None):
                     last_pair.get((c[0]["id"], c[1]), datetime.min),
                     rng.random()))
 
-            choice = pick(fresh, fresh_cd) if (fresh and i % 2 == 0) else None
+            choice = pick(fresh, fresh_cd) if (fresh and i in fresh_slots) else None
             choice = choice or pick(catalog, cooldown) or pick(eps, timedelta(0))
             if choice is None:
                 continue

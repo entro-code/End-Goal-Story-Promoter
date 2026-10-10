@@ -13,7 +13,10 @@
     "fresh_days": 7,
     "fresh_repeat_cooldown_hours": 24,
     "repeat_cooldown_days": 21,
-    "lookahead_hours": 12
+    "lookahead_hours": 12,
+    "fresh_slots": [
+      0
+    ]
   },
   "buffer": {
     "instagram_channel_name": null
