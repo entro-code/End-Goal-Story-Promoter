@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-10T17:00",
-      "episode_id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
-      "platform": "youtube",
-      "title": "Why Do We Need to Talk About Mental Health?",
-      "link": "https://www.youtube.com/watch?v=eMj7FxCAVQM",
-      "due_at_utc": "2026-10-10T21:00:00.000Z",
-      "image": "stories/20261010-1700-youtube-why-do-we-need-to-talk-about-m.png"
-    },
-    {
-      "when": "2026-10-10T20:00",
-      "episode_id": "why-are-we-still-banning-books-2026-09-28",
-      "platform": "youtube",
-      "title": "Why Are We Still Banning Books?",
-      "link": "https://www.youtube.com/watch?v=A7idf0hP2VA",
-      "due_at_utc": "2026-10-11T00:00:00.000Z",
-      "image": "stories/20261010-2000-youtube-why-are-we-still-banning-books.png"
-    }
-  ]
+  "posts": []
 }
