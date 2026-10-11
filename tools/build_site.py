@@ -38,7 +38,9 @@ def build(root=ROOT, now=None):
 
     episodes = load(root / "episodes.json", {"episodes": []})["episodes"]
     articles = load(root / "articles.json", {"articles": []}).get("articles", [])
-    by_id = {i["id"]: i for i in episodes + articles}
+    sys.path.insert(0, str(root))
+    import promos
+    by_id = {i["id"]: i for i in episodes + articles + promos.items(cfg)}
     history = load(root / "state" / "history.json", [])
 
     entries = []

@@ -208,7 +208,8 @@ def fit_text(draw, text, font_spec, max_w, max_lines, sizes):
 # --------------------------------------------------------------------------
 # main render
 # --------------------------------------------------------------------------
-def render_story(art_path, title, platform, out_path, config):
+def render_story(art_path, title, platform, out_path, config, cta=None, contain=False):
+    """contain=True keeps very wide artwork (a table, say) uncropped."""
     theme, fonts = config["theme"], config["fonts"]
     plat = config["platforms"][platform]
     text_rgb, muted_rgb = hex_rgb(theme["text"]), hex_rgb(theme["muted_text"])
@@ -217,7 +218,9 @@ def render_story(art_path, title, platform, out_path, config):
     draw = ImageDraw.Draw(img)
 
     art = Image.open(art_path)
-    aspect = min(max(art.width / art.height, 1.0), 16 / 9)
+    aspect = art.width / art.height
+    if not contain:
+        aspect = min(max(aspect, 1.0), 16 / 9)
     ch = min(CARD_MAX_H, int(CONTENT_W / aspect))
     cw = CONTENT_W if ch < CARD_MAX_H else int(ch * aspect)
 
@@ -226,7 +229,7 @@ def render_story(art_path, title, platform, out_path, config):
     title_lh = int(title_font.size * 1.18)
 
     cta_font, cta_lines = fit_text(
-        draw, plat["cta"], fonts["display"], CONTENT_W, 3, (72, 66, 60, 54))
+        draw, cta or plat["cta"], fonts["display"], CONTENT_W, 3, (72, 66, 60, 54))
     cta_lh = int(cta_font.size * 1.1)
 
     small_font = load_font(fonts["small"], 28)

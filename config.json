@@ -94,5 +94,18 @@
         "url": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
       }
     ]
-  }
+  },
+  "promos": [
+    {
+      "id": "promo-200-booktok-book-recs",
+      "title": "200 Booktok Book Recs",
+      "image": "docs/freebies/booktok-book-recs.png",
+      "site_image": "freebies/booktok-book-recs.png",
+      "url": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "platform": "substack",
+      "weekday": 2,
+      "slot": 1,
+      "cta": "FREE ON SUBSTACK"
+    }
+  ]
 }

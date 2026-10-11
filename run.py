@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 import buffer_client  # noqa: E402
 import generate_story  # noqa: E402
+import promos  # noqa: E402
 import rotation  # noqa: E402
 
 UA = {"User-Agent": "Mozilla/5.0 (story-promoter)"}
@@ -132,11 +133,16 @@ def prepare(args):
     episodes = load(ROOT / "episodes.json", {"episodes": []})["episodes"]
     articles = load(ROOT / "articles.json", {"articles": []}).get("articles", [])
     items = episodes + articles
-    by_id = {i["id"]: i for i in items}
+    promo_items = promos.items(cfg)
+    by_id = {i["id"]: i for i in items + promo_items}
     history = load(STATE / "history.json", [])
+    done = {h["when"] for h in history}
 
-    posts = rotation.plan(items, sched, now.date(), sched.get("horizon_days", 2), history,
-                          skip={h["when"] for h in history}, now=now)
+    days = sched.get("horizon_days", 2)
+    promo_posts = promos.plan(cfg, now.date(), days, now=now, skip=done)
+    posts = rotation.plan(items, sched, now.date(), days, history,
+                          skip=done | {p["when"] for p in promo_posts}, now=now)
+    posts = sorted(posts + promo_posts, key=lambda p: p["when"])
     look = sched.get("lookahead_hours")
     if look:  # keep few posts waiting in Buffer (free plan caps scheduled posts)
         limit = (now + timedelta(hours=look)).isoformat(timespec="minutes")
@@ -156,7 +162,8 @@ def prepare(args):
             print("  SKIPPED (no artwork):", label)
             continue
         name = f"{when:%Y%m%d-%H%M}-{p['platform']}-{item['id'][:30]}.png"
-        generate_story.render_story(art, item["title"], p["platform"], STORIES / name, cfg)
+        generate_story.render_story(art, item["title"], p["platform"], STORIES / name, cfg,
+                                    cta=item.get("cta"), contain=bool(item.get("promo")))
         due = when.replace(tzinfo=tz).astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
         pending.append({**{k: p[k] for k in ("when", "episode_id", "platform", "title", "link")},
                         "due_at_utc": due, "image": f"stories/{name}"})
