@@ -76,5 +76,17 @@
     "episode_id": "why-are-we-still-banning-books-2026-09-28",
     "platform": "youtube",
     "buffer_post_id": "6aca2ec1ed92ed8fa5caedef"
+  },
+  {
+    "when": "2026-10-11T08:00",
+    "episode_id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
+    "platform": "spotify",
+    "buffer_post_id": "6acb2155ed92ed8fa5f18601"
+  },
+  {
+    "when": "2026-10-11T12:00",
+    "episode_id": "how-to-have-a-healthy-relationship-with-failure-2025-02-03",
+    "platform": "youtube",
+    "buffer_post_id": "6acb2155c4de2d2b124e89cb"
   }
 ]

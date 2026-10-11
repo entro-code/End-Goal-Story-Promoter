@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-11T08:00",
-      "episode_id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
-      "platform": "spotify",
-      "title": "Why Do We Need to Talk About Mental Health?",
-      "link": "https://open.spotify.com/episode/0iPGmShD0bGAnCn3f7Nj9Y",
-      "due_at_utc": "2026-10-11T12:00:00.000Z",
-      "image": "stories/20261011-0800-spotify-why-do-we-need-to-talk-about-m.png"
-    },
-    {
-      "when": "2026-10-11T12:00",
-      "episode_id": "how-to-have-a-healthy-relationship-with-failure-2025-02-03",
-      "platform": "youtube",
-      "title": "How to have a healthy relationship with failure - Andy Yu",
-      "link": "https://www.youtube.com/watch?v=OXFHBNOa8X8",
-      "due_at_utc": "2026-10-11T16:00:00.000Z",
-      "image": "stories/20261011-1200-youtube-how-to-have-a-healthy-relation.png"
-    }
-  ]
+  "posts": []
 }
