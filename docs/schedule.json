@@ -69,6 +69,25 @@
     "youtube": "https://www.youtube.com/watch?v=OXFHBNOa8X8",
     "spotify": "https://open.spotify.com/episode/4W7ypbOEkrbb12YagIkE6S"
    }
+  },
+  {
+   "at": "2026-10-11T21:00:00Z",
+   "platform": "substack",
+   "title": "The one productivity tip that helped me get real work done",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/the-one-productivity-tip-that-helped"
+   }
+  },
+  {
+   "at": "2026-10-12T00:00:00Z",
+   "platform": "youtube",
+   "title": "The life of a resident doctor, what is purpose, social connectedness | Dr. Maius",
+   "thumb": "https://i.ytimg.com/vi/DSK-E_hm_sY/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=DSK-E_hm_sY",
+    "spotify": "https://open.spotify.com/episode/4UC34xSTE1OpzQ9ZP2jgj2"
+   }
   }
  ],
  "freebies": [
