@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "why-your-20s-are-about-finding-yourself-2026-10-11",
+      "title": "Why Your 20s Are About Finding Yourself",
+      "date": "2026-10-11",
+      "youtube_url": "https://www.youtube.com/watch?v=_d97WHjDdBg",
+      "youtube_id": "_d97WHjDdBg",
+      "spotify_url": "https://open.spotify.com/show/3IT5HNTjMH4yA6ChRQoJoO",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
       "title": "Why Do We Need to Talk About Mental Health?",
       "date": "2026-10-05",
