@@ -12,26 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-10T16:00:00Z",
-   "platform": "spotify",
-   "title": "How Josh got me interested in reading history books | Josh Johnson",
-   "thumb": "https://i.ytimg.com/vi/ku8IW722IaU/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=ku8IW722IaU",
-    "spotify": "https://open.spotify.com/episode/4mfUivBh3XWHfwtdEwfDTF"
-   }
-  },
-  {
-   "at": "2026-10-10T21:00:00Z",
-   "platform": "youtube",
-   "title": "Why Do We Need to Talk About Mental Health?",
-   "thumb": "https://i.ytimg.com/vi/eMj7FxCAVQM/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=eMj7FxCAVQM",
-    "spotify": "https://open.spotify.com/episode/0iPGmShD0bGAnCn3f7Nj9Y"
-   }
-  },
-  {
    "at": "2026-10-11T00:00:00Z",
    "platform": "youtube",
    "title": "Why Are We Still Banning Books?",
