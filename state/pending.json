@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-12T17:00",
-      "episode_id": "breaking-down-creativity-with-zenith-jason-gaban-2025-03-31",
-      "platform": "youtube",
-      "title": "Breaking down creativity with Zenith | Jason Gaban",
-      "link": "https://www.youtube.com/watch?v=QV8Z6HKJABI",
-      "due_at_utc": "2026-10-12T21:00:00.000Z",
-      "image": "stories/20261012-1700-youtube-breaking-down-creativity-with-.png"
-    },
-    {
-      "when": "2026-10-12T20:00",
-      "episode_id": "8-ways-to-rehabilitate-vinay-mehta-2025-08-04",
-      "platform": "spotify",
-      "title": "8 Ways to Rehabilitate | Vinay Mehta",
-      "link": "https://open.spotify.com/episode/6y0hYjrIxO2pplOgK0PCY9",
-      "due_at_utc": "2026-10-13T00:00:00.000Z",
-      "image": "stories/20261012-2000-spotify-8-ways-to-rehabilitate-vinay-m.png"
-    }
-  ]
+  "posts": []
 }

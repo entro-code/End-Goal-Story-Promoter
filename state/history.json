@@ -112,5 +112,17 @@
     "episode_id": "100-episode-q-a-mid-year-review-huge-announcemen-2026-07-13",
     "platform": "spotify",
     "buffer_post_id": "6acc753aa9411fbcc56fde69"
+  },
+  {
+    "when": "2026-10-12T17:00",
+    "episode_id": "breaking-down-creativity-with-zenith-jason-gaban-2025-03-31",
+    "platform": "youtube",
+    "buffer_post_id": "6accf992e506958eb5c58acd"
+  },
+  {
+    "when": "2026-10-12T20:00",
+    "episode_id": "8-ways-to-rehabilitate-vinay-mehta-2025-08-04",
+    "platform": "spotify",
+    "buffer_post_id": "6accf993bd2a64ac7350b52b"
   }
 ]
