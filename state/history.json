@@ -100,5 +100,17 @@
     "episode_id": "the-life-of-a-resident-doctor-what-is-purpose-so-2026-06-08",
     "platform": "youtube",
     "buffer_post_id": "6acb8463c4de2d2b125ed408"
+  },
+  {
+    "when": "2026-10-12T08:00",
+    "episode_id": "why-your-20s-are-about-finding-yourself-2026-10-11",
+    "platform": "spotify",
+    "buffer_post_id": "6acc7538ea568e911a5365db"
+  },
+  {
+    "when": "2026-10-12T12:00",
+    "episode_id": "100-episode-q-a-mid-year-review-huge-announcemen-2026-07-13",
+    "platform": "spotify",
+    "buffer_post_id": "6acc753aa9411fbcc56fde69"
   }
 ]
