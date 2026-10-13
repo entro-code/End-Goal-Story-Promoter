@@ -1,31 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-13T12:00",
-      "episode_id": "let-s-check-in-2026-03-23",
-      "platform": "spotify",
-      "title": "let's check in",
-      "link": "https://open.spotify.com/episode/0pY4lR3WeXTlhfRlfOKK2p",
-      "due_at_utc": "2026-10-13T16:00:00.000Z",
-      "image": "stories/20261013-1200-spotify-let-s-check-in-2026-03-23.png"
-    },
-    {
-      "when": "2026-10-13T17:00",
-      "episode_id": "this-is-why-your-new-year-s-resolutions-don-t-wo-2025-12-29",
-      "platform": "spotify",
-      "title": "This is why your New Year's Resolutions don't work",
-      "link": "https://open.spotify.com/episode/75aEFM1tD0R7MvrnOp7bnr",
-      "due_at_utc": "2026-10-13T21:00:00.000Z",
-      "image": "stories/20261013-1700-spotify-this-is-why-your-new-year-s-re.png"
-    },
-    {
-      "when": "2026-10-13T20:00",
-      "episode_id": "are-you-solving-for-the-right-problem-2026-01-16",
-      "platform": "substack",
-      "title": "Are you solving for the right problem?",
-      "link": "https://theendgoal.substack.com/p/are-you-solving-for-the-right-problem",
-      "due_at_utc": "2026-10-14T00:00:00.000Z",
-      "image": "stories/20261013-2000-substack-are-you-solving-for-the-right-.png"
-    }
-  ]
+  "posts": []
 }

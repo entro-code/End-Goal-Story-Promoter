@@ -130,5 +130,23 @@
     "episode_id": "why-your-20s-are-about-finding-yourself-2026-10-11",
     "platform": "youtube",
     "buffer_post_id": "6acd7cd2aec88be081ec3c22"
+  },
+  {
+    "when": "2026-10-13T12:00",
+    "episode_id": "let-s-check-in-2026-03-23",
+    "platform": "spotify",
+    "buffer_post_id": "6ace3ad01077be9dba27de4b"
+  },
+  {
+    "when": "2026-10-13T17:00",
+    "episode_id": "this-is-why-your-new-year-s-resolutions-don-t-wo-2025-12-29",
+    "platform": "spotify",
+    "buffer_post_id": "6ace3ad18c4d573c4e57183b"
+  },
+  {
+    "when": "2026-10-13T20:00",
+    "episode_id": "are-you-solving-for-the-right-problem-2026-01-16",
+    "platform": "substack",
+    "buffer_post_id": "6ace3ad1e66b409d53fba128"
   }
 ]
