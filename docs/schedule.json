@@ -12,16 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-12T21:00:00Z",
-   "platform": "youtube",
-   "title": "Breaking down creativity with Zenith | Jason Gaban",
-   "thumb": "https://i.ytimg.com/vi/QV8Z6HKJABI/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=QV8Z6HKJABI",
-    "spotify": "https://open.spotify.com/episode/6jEDVbsUFdNFvmZVUT26Gl"
-   }
-  },
-  {
    "at": "2026-10-13T00:00:00Z",
    "platform": "spotify",
    "title": "8 Ways to Rehabilitate | Vinay Mehta",
