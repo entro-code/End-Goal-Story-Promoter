@@ -1,13 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-14T20:00",
-      "episode_id": "building-better-relationships-kam-grayson-2025-01-13",
-      "platform": "youtube",
-      "title": "Building Better Relationships - Kam Grayson",
-      "link": "https://www.youtube.com/watch?v=zgIHMkfzaq8",
-      "due_at_utc": "2026-10-15T00:00:00.000Z",
-      "image": "stories/20261014-2000-youtube-building-better-relationships-.png"
-    }
-  ]
+  "posts": []
 }
