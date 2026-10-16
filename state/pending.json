@@ -1,13 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-16T20:00",
-      "episode_id": "from-full-time-nurse-to-self-published-author-ph-2026-04-20",
-      "platform": "spotify",
-      "title": "From full time nurse to self published author | Phillip C Quaintrell",
-      "link": "https://open.spotify.com/episode/7nLrcorxWJVOPX1VdnUhjV",
-      "due_at_utc": "2026-10-17T00:00:00.000Z",
-      "image": "stories/20261016-2000-spotify-from-full-time-nurse-to-self-p.png"
-    }
-  ]
+  "posts": []
 }
