@@ -2,25 +2,14 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "Why Your 20s Are About Finding Yourself",
-  "thumb": "https://i.ytimg.com/vi/_d97WHjDdBg/hqdefault.jpg",
+  "title": "Parents Need to Have These Conversations",
+  "thumb": "https://i.ytimg.com/vi/X1oA1wIiqWA/hqdefault.jpg",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=_d97WHjDdBg",
-   "spotify": "https://open.spotify.com/episode/5obGpEdao2YQZTbhJG0L42"
+   "youtube": "https://www.youtube.com/watch?v=X1oA1wIiqWA"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-10-15T00:00:00Z",
-   "platform": "youtube",
-   "title": "Building Better Relationships - Kam Grayson",
-   "thumb": "https://i.ytimg.com/vi/zgIHMkfzaq8/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=zgIHMkfzaq8",
-    "spotify": "https://open.spotify.com/episode/0ABEcAAu97qZcFh7KsIdzF"
-   }
-  },
   {
    "at": "2026-10-15T12:00:00Z",
    "platform": "youtube",

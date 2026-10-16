@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "parents-need-to-have-these-conversations-2026-10-16",
+      "title": "Parents Need to Have These Conversations",
+      "date": "2026-10-16",
+      "youtube_url": "https://www.youtube.com/watch?v=X1oA1wIiqWA",
+      "youtube_id": "X1oA1wIiqWA",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "why-your-20s-are-about-finding-yourself-2026-10-11",
       "title": "Why Your 20s Are About Finding Yourself",
       "date": "2026-10-11",
