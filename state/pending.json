@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-16T08:00",
+      "episode_id": "why-your-20s-are-about-finding-yourself-2026-10-11",
+      "platform": "spotify",
+      "title": "Why Your 20s Are About Finding Yourself",
+      "link": "https://open.spotify.com/episode/5obGpEdao2YQZTbhJG0L42",
+      "due_at_utc": "2026-10-16T12:00:00.000Z",
+      "image": "stories/20261016-0800-spotify-why-your-20s-are-about-finding.png"
+    },
+    {
+      "when": "2026-10-16T12:00",
+      "episode_id": "10-life-lessons-that-completely-changed-my-life-2026-08-03",
+      "platform": "youtube",
+      "title": "10 Life Lessons That Completely Changed My Life",
+      "link": "https://www.youtube.com/watch?v=9jRLWT_9R0M",
+      "due_at_utc": "2026-10-16T16:00:00.000Z",
+      "image": "stories/20261016-1200-youtube-10-life-lessons-that-completel.png"
+    }
+  ]
 }
