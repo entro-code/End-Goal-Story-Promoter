@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-17T08:00",
+      "episode_id": "parents-need-to-have-these-conversations-2026-10-16",
+      "platform": "youtube",
+      "title": "Parents Need to Have These Conversations",
+      "link": "https://www.youtube.com/watch?v=X1oA1wIiqWA",
+      "due_at_utc": "2026-10-17T12:00:00.000Z",
+      "image": "stories/20261017-0800-youtube-parents-need-to-have-these-con.png"
+    },
+    {
+      "when": "2026-10-17T12:00",
+      "episode_id": "swords-fantasy-stories-and-the-freelance-hustle-2025-07-02",
+      "platform": "youtube",
+      "title": "Swords, Fantasy Stories, and The Freelance Hustle | Andy Peloquin",
+      "link": "https://www.youtube.com/watch?v=PwepDpOgA6k",
+      "due_at_utc": "2026-10-17T16:00:00.000Z",
+      "image": "stories/20261017-1200-youtube-swords-fantasy-stories-and-the.png"
+    }
+  ]
 }
