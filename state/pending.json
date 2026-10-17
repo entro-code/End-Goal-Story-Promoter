@@ -1,3 +1,13 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-17T17:00",
+      "episode_id": "new-books-reading-self-published-authors-and-ai-2026-02-23",
+      "platform": "youtube",
+      "title": "New Books, Reading Self Published Authors, and AI Books | Shami Stovall",
+      "link": "https://www.youtube.com/watch?v=FmJ8v0aC0us",
+      "due_at_utc": "2026-10-17T21:00:00.000Z",
+      "image": "stories/20261017-1700-youtube-new-books-reading-self-publish.png"
+    }
+  ]
 }
