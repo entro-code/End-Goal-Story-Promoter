@@ -59,6 +59,25 @@
     "youtube": "https://www.youtube.com/watch?v=FguIa2SODVI",
     "spotify": "https://open.spotify.com/episode/7nLrcorxWJVOPX1VdnUhjV"
    }
+  },
+  {
+   "at": "2026-10-17T12:00:00Z",
+   "platform": "youtube",
+   "title": "Parents Need to Have These Conversations",
+   "thumb": "https://i.ytimg.com/vi/X1oA1wIiqWA/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=X1oA1wIiqWA"
+   }
+  },
+  {
+   "at": "2026-10-17T16:00:00Z",
+   "platform": "youtube",
+   "title": "Swords, Fantasy Stories, and The Freelance Hustle | Andy Peloquin",
+   "thumb": "https://i.ytimg.com/vi/PwepDpOgA6k/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=PwepDpOgA6k",
+    "spotify": "https://open.spotify.com/episode/3PwVR0LjnsvPZOcM2LM95W"
+   }
   }
  ],
  "freebies": [
