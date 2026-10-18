@@ -78,6 +78,15 @@
     "youtube": "https://www.youtube.com/watch?v=Fv5vvEieYvc",
     "spotify": "https://open.spotify.com/episode/6DFJOjL65wPRllXPBM4iFw"
    }
+  },
+  {
+   "at": "2026-10-19T00:00:00Z",
+   "platform": "substack",
+   "title": "who's at your doorbell?",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/whos-at-your-doorbell"
+   }
   }
  ],
  "freebies": [
