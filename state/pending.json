@@ -1,13 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-18T17:00",
-      "episode_id": "the-glamour-of-content-creation-the-trap-of-comp-2025-09-22",
-      "platform": "spotify",
-      "title": "The Glamour of Content Creation & The Trap of Comparison",
-      "link": "https://open.spotify.com/episode/6DFJOjL65wPRllXPBM4iFw",
-      "due_at_utc": "2026-10-18T21:00:00.000Z",
-      "image": "stories/20261018-1700-spotify-the-glamour-of-content-creatio.png"
-    }
-  ]
+  "posts": []
 }
