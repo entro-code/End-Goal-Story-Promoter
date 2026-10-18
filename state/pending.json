@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-18T08:00",
-      "episode_id": "why-your-20s-are-about-finding-yourself-2026-10-11",
-      "platform": "youtube",
-      "title": "Why Your 20s Are About Finding Yourself",
-      "link": "https://www.youtube.com/watch?v=_d97WHjDdBg",
-      "due_at_utc": "2026-10-18T12:00:00.000Z",
-      "image": "stories/20261018-0800-youtube-why-your-20s-are-about-finding.png"
-    },
-    {
-      "when": "2026-10-18T12:00",
-      "episode_id": "capturing-life-s-beauty-in-every-moment-jon-gift-2025-09-29",
-      "platform": "youtube",
-      "title": "Capturing Life's Beauty in Every Moment | Jon Gifted",
-      "link": "https://www.youtube.com/watch?v=xOOspD8XQ5g",
-      "due_at_utc": "2026-10-18T16:00:00.000Z",
-      "image": "stories/20261018-1200-youtube-capturing-life-s-beauty-in-eve.png"
-    }
-  ]
+  "posts": []
 }

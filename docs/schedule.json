@@ -58,6 +58,26 @@
     "youtube": "https://www.youtube.com/watch?v=VnlyUlF6SZQ",
     "spotify": "https://open.spotify.com/episode/7nymRzeo8N9C88n1tRIWjX"
    }
+  },
+  {
+   "at": "2026-10-18T12:00:00Z",
+   "platform": "youtube",
+   "title": "Why Your 20s Are About Finding Yourself",
+   "thumb": "https://i.ytimg.com/vi/_d97WHjDdBg/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=_d97WHjDdBg",
+    "spotify": "https://open.spotify.com/episode/5obGpEdao2YQZTbhJG0L42"
+   }
+  },
+  {
+   "at": "2026-10-18T16:00:00Z",
+   "platform": "youtube",
+   "title": "Capturing Life's Beauty in Every Moment | Jon Gifted",
+   "thumb": "https://i.ytimg.com/vi/xOOspD8XQ5g/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=xOOspD8XQ5g",
+    "spotify": "https://open.spotify.com/episode/0gO2lrHm7MSbQKxBSr7Waq"
+   }
   }
  ],
  "freebies": [
