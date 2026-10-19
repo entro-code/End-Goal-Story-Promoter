@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-19T17:00",
-      "episode_id": "how-to-live-every-day-with-passion-rishi-desai-r-2025-01-06",
-      "platform": "spotify",
-      "title": "How to live every day with passion - Rishi Desai (Rift)",
-      "link": "https://open.spotify.com/episode/7FQK5AYY0nZ8NglPHcHygt",
-      "due_at_utc": "2026-10-19T21:00:00.000Z",
-      "image": "stories/20261019-1700-spotify-how-to-live-every-day-with-pas.png"
-    },
-    {
-      "when": "2026-10-19T20:00",
-      "episode_id": "i-m-having-the-worst-busy-season-ever-2026-04-11",
-      "platform": "substack",
-      "title": "I'm having the worst busy season ever",
-      "link": "https://theendgoal.substack.com/p/im-having-the-worst-busy-season-ever",
-      "due_at_utc": "2026-10-20T00:00:00.000Z",
-      "image": "stories/20261019-2000-substack-i-m-having-the-worst-busy-seas.png"
-    }
-  ]
+  "posts": []
 }

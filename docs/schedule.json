@@ -67,6 +67,25 @@
     "youtube": "https://www.youtube.com/watch?v=Xb1Xu7KON3A",
     "spotify": "https://open.spotify.com/episode/7cFXxwYPqxLShViEfAKTFl"
    }
+  },
+  {
+   "at": "2026-10-19T21:00:00Z",
+   "platform": "spotify",
+   "title": "How to live every day with passion - Rishi Desai (Rift)",
+   "thumb": "https://i.ytimg.com/vi/UoFyWB3NopA/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=UoFyWB3NopA",
+    "spotify": "https://open.spotify.com/episode/7FQK5AYY0nZ8NglPHcHygt"
+   }
+  },
+  {
+   "at": "2026-10-20T00:00:00Z",
+   "platform": "substack",
+   "title": "I'm having the worst busy season ever",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/im-having-the-worst-busy-season-ever"
+   }
   }
  ],
  "freebies": [
