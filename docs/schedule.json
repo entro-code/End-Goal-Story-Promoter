@@ -2,24 +2,14 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "Parents Need to Have These Conversations",
-  "thumb": "https://i.ytimg.com/vi/X1oA1wIiqWA/hqdefault.jpg",
+  "title": "Why Great Stories Are More Than Just Entertainment | John Bierce",
+  "thumb": "https://i.scdn.co/image/ab6765630000ba8a8479725a08d7a870ed3da66b",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=X1oA1wIiqWA"
+   "spotify": "https://open.spotify.com/episode/49jgJHtXk1hZQ1lezNQIfy"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-10-18T00:00:00Z",
-   "platform": "youtube",
-   "title": "5 Techniques for BETTER mobility | Vinay Mehta",
-   "thumb": "https://i.ytimg.com/vi/VnlyUlF6SZQ/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=VnlyUlF6SZQ",
-    "spotify": "https://open.spotify.com/episode/7nymRzeo8N9C88n1tRIWjX"
-   }
-  },
   {
    "at": "2026-10-18T12:00:00Z",
    "platform": "youtube",
