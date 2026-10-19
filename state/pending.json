@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-19T08:00",
+      "episode_id": "parents-need-to-have-these-conversations-2026-10-16",
+      "platform": "youtube",
+      "title": "Parents Need to Have These Conversations",
+      "link": "https://www.youtube.com/watch?v=X1oA1wIiqWA",
+      "due_at_utc": "2026-10-19T12:00:00.000Z",
+      "image": "stories/20261019-0800-youtube-parents-need-to-have-these-con.png"
+    },
+    {
+      "when": "2026-10-19T12:00",
+      "episode_id": "breaking-down-the-5-types-of-wealth-in-excruciat-2025-07-21",
+      "platform": "youtube",
+      "title": "Breaking Down The 5 Types of Wealth in Excruciating Detail Part 2",
+      "link": "https://www.youtube.com/watch?v=Xb1Xu7KON3A",
+      "due_at_utc": "2026-10-19T16:00:00.000Z",
+      "image": "stories/20261019-1200-youtube-breaking-down-the-5-types-of-w.png"
+    }
+  ]
 }
