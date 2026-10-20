@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-20T08:00",
-      "episode_id": "why-great-stories-are-more-than-just-entertainme-2026-10-19",
-      "platform": "spotify",
-      "title": "Why Great Stories Are More Than Just Entertainment | John Bierce",
-      "link": "https://open.spotify.com/episode/49jgJHtXk1hZQ1lezNQIfy",
-      "due_at_utc": "2026-10-20T12:00:00.000Z",
-      "image": "stories/20261020-0800-spotify-why-great-stories-are-more-tha.png"
-    },
-    {
-      "when": "2026-10-20T12:00",
-      "episode_id": "we-are-living-the-wrong-way-2026-05-16",
-      "platform": "substack",
-      "title": "We are living the wrong way",
-      "link": "https://theendgoal.substack.com/p/we-are-living-the-wrong-way",
-      "due_at_utc": "2026-10-20T16:00:00.000Z",
-      "image": "stories/20261020-1200-substack-we-are-living-the-wrong-way-20.png"
-    }
-  ]
+  "posts": []
 }

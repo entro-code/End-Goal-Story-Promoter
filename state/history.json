@@ -292,5 +292,17 @@
     "episode_id": "i-m-having-the-worst-busy-season-ever-2026-04-11",
     "platform": "substack",
     "buffer_post_id": "6ad61545f8ab1a79631ff14f"
+  },
+  {
+    "when": "2026-10-20T08:00",
+    "episode_id": "why-great-stories-are-more-than-just-entertainme-2026-10-19",
+    "platform": "spotify",
+    "buffer_post_id": "6ad6f16a9d034d7aedda0184"
+  },
+  {
+    "when": "2026-10-20T12:00",
+    "episode_id": "we-are-living-the-wrong-way-2026-05-16",
+    "platform": "substack",
+    "buffer_post_id": "6ad6f16a9d034d7aedda01c6"
   }
 ]
