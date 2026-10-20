@@ -1,5 +1,5 @@
 {
   "YouTube": "ok, 3 items",
-  "Spotify": "FAILED: HTTP 503 from api.spotify.com: {   \"error\": {     \"status\": 503,     \"message\": \"no healthy upstream\"   } } ",
+  "Spotify": "ok, 116 items",
   "Substack": "FAILED: feed: HTTP 403 from theendgoal.substack.com: <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam | archive: HTTP 403 from theendgoal.substack.c"
 }
