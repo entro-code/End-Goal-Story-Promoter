@@ -1,3 +1,13 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-20T17:00",
+      "episode_id": "living-in-fear-is-no-way-to-live-2026-04-03",
+      "platform": "substack",
+      "title": "Living in fear is no way to live",
+      "link": "https://theendgoal.substack.com/p/living-in-fear-is-no-way-to-live",
+      "due_at_utc": "2026-10-20T21:00:00.000Z",
+      "image": "stories/20261020-1700-substack-living-in-fear-is-no-way-to-li.png"
+    }
+  ]
 }
