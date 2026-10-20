@@ -12,16 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-18T21:00:00Z",
-   "platform": "spotify",
-   "title": "The Glamour of Content Creation & The Trap of Comparison",
-   "thumb": "https://i.ytimg.com/vi/Fv5vvEieYvc/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=Fv5vvEieYvc",
-    "spotify": "https://open.spotify.com/episode/6DFJOjL65wPRllXPBM4iFw"
-   }
-  },
-  {
    "at": "2026-10-19T00:00:00Z",
    "platform": "substack",
    "title": "who's at your doorbell?",
