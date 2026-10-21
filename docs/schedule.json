@@ -76,6 +76,16 @@
     "youtube": "https://www.youtube.com/watch?v=tUEu8P-ziNQ",
     "spotify": "https://open.spotify.com/episode/5qXCJRTOJ4yulhZnQpKkEb"
    }
+  },
+  {
+   "at": "2026-10-22T00:00:00Z",
+   "platform": "youtube",
+   "title": "Tim's new book launches today!",
+   "thumb": "https://i.ytimg.com/vi/mqPzI_wcmXI/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=mqPzI_wcmXI",
+    "spotify": "https://open.spotify.com/episode/6QhMr98N33zeTchGYFEu54"
+   }
   }
  ],
  "freebies": [
