@@ -316,5 +316,17 @@
     "episode_id": "five-methods-to-improve-your-health-in-2025-kia-2025-01-27",
     "platform": "spotify",
     "buffer_post_id": "6ad79db27b263be772b550f4"
+  },
+  {
+    "when": "2026-10-21T08:00",
+    "episode_id": "parents-need-to-have-these-conversations-2026-10-16",
+    "platform": "youtube",
+    "buffer_post_id": "6ad8421edb7d81982145ff86"
+  },
+  {
+    "when": "2026-10-21T12:00",
+    "episode_id": "promo-200-booktok-book-recs",
+    "platform": "substack",
+    "buffer_post_id": "6ad8421fd894396f66c6c385"
   }
 ]
