@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-21T08:00",
+      "episode_id": "parents-need-to-have-these-conversations-2026-10-16",
+      "platform": "youtube",
+      "title": "Parents Need to Have These Conversations",
+      "link": "https://www.youtube.com/watch?v=X1oA1wIiqWA",
+      "due_at_utc": "2026-10-21T12:00:00.000Z",
+      "image": "stories/20261021-0800-youtube-parents-need-to-have-these-con.png"
+    },
+    {
+      "when": "2026-10-21T12:00",
+      "episode_id": "promo-200-booktok-book-recs",
+      "platform": "substack",
+      "title": "200 Booktok Book Recs",
+      "link": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "due_at_utc": "2026-10-21T16:00:00.000Z",
+      "image": "stories/20261021-1200-substack-promo-200-booktok-book-recs.png"
+    }
+  ]
 }
