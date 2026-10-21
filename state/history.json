@@ -328,5 +328,11 @@
     "episode_id": "promo-200-booktok-book-recs",
     "platform": "substack",
     "buffer_post_id": "6ad8421fd894396f66c6c385"
+  },
+  {
+    "when": "2026-10-21T17:00",
+    "episode_id": "100-people-give-advice-to-a-man-in-his-late-20s-2025-10-27",
+    "platform": "youtube",
+    "buffer_post_id": "6ad8a5070807acdda125e372"
   }
 ]
