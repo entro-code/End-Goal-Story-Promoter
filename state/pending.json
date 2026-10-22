@@ -1,13 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-22T20:00",
-      "episode_id": "the-starting-class-trap-2026-07-04",
-      "platform": "substack",
-      "title": "The Starting Class Trap",
-      "link": "https://theendgoal.substack.com/p/the-starting-class-trap",
-      "due_at_utc": "2026-10-23T00:00:00.000Z",
-      "image": "stories/20261022-2000-substack-the-starting-class-trap-2026-0.png"
-    }
-  ]
+  "posts": []
 }
