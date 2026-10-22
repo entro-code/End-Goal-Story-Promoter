@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-22T08:00",
+      "episode_id": "why-great-stories-are-more-than-just-entertainme-2026-10-19",
+      "platform": "youtube",
+      "title": "Why Great Stories Are More Than Just Entertainment | John Bierce",
+      "link": "https://www.youtube.com/watch?v=80dIrZAw3OE",
+      "due_at_utc": "2026-10-22T12:00:00.000Z",
+      "image": "stories/20261022-0800-youtube-why-great-stories-are-more-tha.png"
+    },
+    {
+      "when": "2026-10-22T12:00",
+      "episode_id": "booktok-entrepreneurship-finding-purpose-jamesre-2026-06-01",
+      "platform": "youtube",
+      "title": "BookTok, Entrepreneurship & Finding Purpose | Jamesreadsalot",
+      "link": "https://www.youtube.com/watch?v=vrcc5qkxxfU",
+      "due_at_utc": "2026-10-22T16:00:00.000Z",
+      "image": "stories/20261022-1200-youtube-booktok-entrepreneurship-findi.png"
+    }
+  ]
 }
