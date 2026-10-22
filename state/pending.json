@@ -1,13 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-22T17:00",
-      "episode_id": "household-chores-with-the-best-roi-for-your-brai-2026-02-27",
-      "platform": "substack",
-      "title": "Household Chores with the Best ROI for your Brain",
-      "link": "https://theendgoal.substack.com/p/household-chores-with-the-best-roi",
-      "due_at_utc": "2026-10-22T21:00:00.000Z",
-      "image": "stories/20261022-1700-substack-household-chores-with-the-best.png"
-    }
-  ]
+  "posts": []
 }
