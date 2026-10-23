@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "the-problem-with-self-improvement-culture-john-b-2026-10-23",
+      "title": "The Problem With Self-Improvement Culture | John Bierce",
+      "date": "2026-10-23",
+      "youtube_url": "https://www.youtube.com/watch?v=HbqOSr-Lrko",
+      "youtube_id": "HbqOSr-Lrko",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "why-great-stories-are-more-than-just-entertainme-2026-10-19",
       "title": "Why Great Stories Are More Than Just Entertainment | John Bierce",
       "date": "2026-10-19",
