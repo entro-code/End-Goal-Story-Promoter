@@ -388,5 +388,17 @@
     "episode_id": "life-is-too-short-to-stay-stuck-blayne-2026-07-06",
     "platform": "spotify",
     "buffer_post_id": "6adb930b2caf60eed85a65e8"
+  },
+  {
+    "when": "2026-10-24T08:00",
+    "episode_id": "the-problem-with-self-improvement-culture-john-b-2026-10-23",
+    "platform": "youtube",
+    "buffer_post_id": "6adc346a3d5b27036b6886d7"
+  },
+  {
+    "when": "2026-10-24T12:00",
+    "episode_id": "your-voice-is-not-broken-2026-05-08",
+    "platform": "substack",
+    "buffer_post_id": "6adc346b3d5b27036b688715"
   }
 ]
