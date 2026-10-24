@@ -11,25 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-22T16:00:00Z",
-   "platform": "youtube",
-   "title": "BookTok, Entrepreneurship & Finding Purpose | Jamesreadsalot",
-   "thumb": "https://i.ytimg.com/vi/vrcc5qkxxfU/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=vrcc5qkxxfU",
-    "spotify": "https://open.spotify.com/episode/4ONBXqyhyGHbEcvSGBakAu"
-   }
-  },
-  {
-   "at": "2026-10-22T21:00:00Z",
-   "platform": "substack",
-   "title": "Household Chores with the Best ROI for your Brain",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/household-chores-with-the-best-roi"
-   }
-  },
-  {
    "at": "2026-10-23T00:00:00Z",
    "platform": "substack",
    "title": "The Starting Class Trap",
