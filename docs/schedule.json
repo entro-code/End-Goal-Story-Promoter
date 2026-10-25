@@ -11,26 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-23T16:00:00Z",
-   "platform": "youtube",
-   "title": "Should we start a podcast? - Canvas",
-   "thumb": "https://i.ytimg.com/vi/hhEVbJxdTb0/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=hhEVbJxdTb0",
-    "spotify": "https://open.spotify.com/episode/2ZPxQ9UX423Tgatzf8b3nW"
-   }
-  },
-  {
-   "at": "2026-10-23T21:00:00Z",
-   "platform": "spotify",
-   "title": "Why the Best Conversations Have No Plan | Town Hall #0",
-   "thumb": "https://i.ytimg.com/vi/lT-YB3CpUVk/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=lT-YB3CpUVk",
-    "spotify": "https://open.spotify.com/episode/3OEyhl9R9WBaokMUKT858y"
-   }
-  },
-  {
    "at": "2026-10-24T00:00:00Z",
    "platform": "spotify",
    "title": "Life Is Too Short to Stay Stuck | Blayne",
