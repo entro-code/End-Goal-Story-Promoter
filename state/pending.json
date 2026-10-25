@@ -1,3 +1,13 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-25T17:00",
+      "episode_id": "the-only-4-books-you-need-to-read-2026-08-10",
+      "platform": "spotify",
+      "title": "The Only 4 Books You Need To Read",
+      "link": "https://open.spotify.com/episode/09eMhfgtgQTbzYiXUREr8Q",
+      "due_at_utc": "2026-10-25T21:00:00.000Z",
+      "image": "stories/20261025-1700-spotify-the-only-4-books-you-need-to-r.png"
+    }
+  ]
 }

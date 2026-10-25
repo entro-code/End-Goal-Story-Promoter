@@ -11,16 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-24T00:00:00Z",
-   "platform": "spotify",
-   "title": "Life Is Too Short to Stay Stuck | Blayne",
-   "thumb": "https://i.ytimg.com/vi/fGyWBf8-YFo/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=fGyWBf8-YFo",
-    "spotify": "https://open.spotify.com/episode/3USx46YpDaWJEtFTkDC5jT"
-   }
-  },
-  {
    "at": "2026-10-24T12:00:00Z",
    "platform": "youtube",
    "title": "The Problem With Self-Improvement Culture | John Bierce",
