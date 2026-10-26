@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-26T08:00",
-      "episode_id": "the-problem-with-self-improvement-culture-john-b-2026-10-23",
-      "platform": "youtube",
-      "title": "The Problem With Self-Improvement Culture | John Bierce",
-      "link": "https://www.youtube.com/watch?v=HbqOSr-Lrko",
-      "due_at_utc": "2026-10-26T12:00:00.000Z",
-      "image": "stories/20261026-0800-youtube-the-problem-with-self-improvem.png"
-    },
-    {
-      "when": "2026-10-26T12:00",
-      "episode_id": "why-is-it-impossible-to-make-money-dancing-kam-2026-08-24",
-      "platform": "spotify",
-      "title": "Why is it Impossible to Make Money Dancing? | Kam",
-      "link": "https://open.spotify.com/episode/5cMltIHAIAdP3yl7CYqVIT",
-      "due_at_utc": "2026-10-26T16:00:00.000Z",
-      "image": "stories/20261026-1200-spotify-why-is-it-impossible-to-make-m.png"
-    }
-  ]
+  "posts": []
 }
