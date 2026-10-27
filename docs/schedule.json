@@ -12,16 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-25T21:00:00Z",
-   "platform": "spotify",
-   "title": "The Only 4 Books You Need To Read",
-   "thumb": "https://i.ytimg.com/vi/mKTpwuB7mjw/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=mKTpwuB7mjw",
-    "spotify": "https://open.spotify.com/episode/09eMhfgtgQTbzYiXUREr8Q"
-   }
-  },
-  {
    "at": "2026-10-26T00:00:00Z",
    "platform": "youtube",
    "title": "Music Production, Micro Habits, and Daily Time Entry | BBKATES",

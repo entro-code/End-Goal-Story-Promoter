@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-27T08:00",
+      "episode_id": "why-it-s-never-too-late-to-write-your-story-trav-2026-10-26",
+      "platform": "youtube",
+      "title": "Why it's never too late to write your story | Travis Bagwell",
+      "link": "https://www.youtube.com/watch?v=dT_hC9pvrqk",
+      "due_at_utc": "2026-10-27T12:00:00.000Z",
+      "image": "stories/20261027-0800-youtube-why-it-s-never-too-late-to-wri.png"
+    },
+    {
+      "when": "2026-10-27T12:00",
+      "episode_id": "5-life-lessons-from-the-alchemist-2026-06-28",
+      "platform": "substack",
+      "title": "5 Life Lessons from The Alchemist",
+      "link": "https://theendgoal.substack.com/p/5-life-lessons-from-the-alchemist",
+      "due_at_utc": "2026-10-27T16:00:00.000Z",
+      "image": "stories/20261027-1200-substack-5-life-lessons-from-the-alchem.png"
+    }
+  ]
 }
