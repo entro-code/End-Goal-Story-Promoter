@@ -12,25 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-26T12:00:00Z",
-   "platform": "youtube",
-   "title": "The Problem With Self-Improvement Culture | John Bierce",
-   "thumb": "https://i.ytimg.com/vi/HbqOSr-Lrko/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=HbqOSr-Lrko"
-   }
-  },
-  {
-   "at": "2026-10-26T16:00:00Z",
-   "platform": "spotify",
-   "title": "Why is it Impossible to Make Money Dancing? | Kam",
-   "thumb": "https://i.ytimg.com/vi/Ljumoc8XSk0/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=Ljumoc8XSk0",
-    "spotify": "https://open.spotify.com/episode/5cMltIHAIAdP3yl7CYqVIT"
-   }
-  },
-  {
    "at": "2026-10-26T21:00:00Z",
    "platform": "spotify",
    "title": "How BookTok Changed the Way We Talk About Books | Darrius",
