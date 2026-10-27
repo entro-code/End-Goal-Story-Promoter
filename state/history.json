@@ -460,5 +460,17 @@
     "episode_id": "inside-the-mind-of-a-fantasy-author-michael-r-mi-2026-05-18",
     "platform": "youtube",
     "buffer_post_id": "6adf4d30e09544fe900dea18"
+  },
+  {
+    "when": "2026-10-27T08:00",
+    "episode_id": "why-it-s-never-too-late-to-write-your-story-trav-2026-10-26",
+    "platform": "youtube",
+    "buffer_post_id": "6ae02f5505551cc35921b29f"
+  },
+  {
+    "when": "2026-10-27T12:00",
+    "episode_id": "5-life-lessons-from-the-alchemist-2026-06-28",
+    "platform": "substack",
+    "buffer_post_id": "6ae02f55a6170f32b17a4e7c"
   }
 ]
