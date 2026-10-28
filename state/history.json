@@ -484,5 +484,17 @@
     "episode_id": "i-read-the-high-agency-essay-so-you-didn-t-have-2025-05-26",
     "platform": "spotify",
     "buffer_post_id": "6ae09361271cbd4e76b3bb50"
+  },
+  {
+    "when": "2026-10-28T08:00",
+    "episode_id": "the-problem-with-self-improvement-culture-john-b-2026-10-23",
+    "platform": "youtube",
+    "buffer_post_id": "6ae1892e1aac2b225f7e14b9"
+  },
+  {
+    "when": "2026-10-28T12:00",
+    "episode_id": "promo-200-booktok-book-recs",
+    "platform": "substack",
+    "buffer_post_id": "6ae1892f204613d2f144f055"
   }
 ]

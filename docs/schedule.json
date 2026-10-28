@@ -59,6 +59,24 @@
     "youtube": "https://www.youtube.com/watch?v=3Ms3S1THXlM",
     "spotify": "https://open.spotify.com/episode/6Zm6Vio5ltYiA0vwojt5UQ"
    }
+  },
+  {
+   "at": "2026-10-28T12:00:00Z",
+   "platform": "youtube",
+   "title": "The Problem With Self-Improvement Culture | John Bierce",
+   "thumb": "https://i.ytimg.com/vi/HbqOSr-Lrko/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=HbqOSr-Lrko"
+   }
+  },
+  {
+   "at": "2026-10-28T16:00:00Z",
+   "platform": "substack",
+   "title": "200 Booktok Book Recs",
+   "thumb": "freebies/booktok-book-recs.png",
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+   }
   }
  ],
  "freebies": [
