@@ -496,5 +496,17 @@
     "episode_id": "promo-200-booktok-book-recs",
     "platform": "substack",
     "buffer_post_id": "6ae1892f204613d2f144f055"
+  },
+  {
+    "when": "2026-10-28T17:00",
+    "episode_id": "books-boundaries-being-real-laura-eakin-2025-11-03",
+    "platform": "youtube",
+    "buffer_post_id": "6ae1ee5c34e8a7dd3490e9b9"
+  },
+  {
+    "when": "2026-10-28T20:00",
+    "episode_id": "creating-a-world-class-icon-taj-t-soup-campbell-2025-05-05",
+    "platform": "spotify",
+    "buffer_post_id": "6ae1ee5d06fb8ec00cf46440"
   }
 ]

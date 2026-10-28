@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-28T17:00",
-      "episode_id": "books-boundaries-being-real-laura-eakin-2025-11-03",
-      "platform": "youtube",
-      "title": "Books, Boundaries & Being Real | Laura Eakin",
-      "link": "https://www.youtube.com/watch?v=_E1Ju9psGWU",
-      "due_at_utc": "2026-10-28T21:00:00.000Z",
-      "image": "stories/20261028-1700-youtube-books-boundaries-being-real-la.png"
-    },
-    {
-      "when": "2026-10-28T20:00",
-      "episode_id": "creating-a-world-class-icon-taj-t-soup-campbell-2025-05-05",
-      "platform": "spotify",
-      "title": "Creating a world class icon | Taj \"T Soup\" Campbell",
-      "link": "https://open.spotify.com/episode/6XU0c4nNeV6VylrpwqcQU6",
-      "due_at_utc": "2026-10-29T00:00:00.000Z",
-      "image": "stories/20261028-2000-spotify-creating-a-world-class-icon-ta.png"
-    }
-  ]
+  "posts": []
 }
