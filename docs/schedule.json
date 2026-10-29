@@ -12,16 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-27T21:00:00Z",
-   "platform": "youtube",
-   "title": "The 5 Pillars of Mental Health That Could Change Your Life | Dr. Huma Qureshi",
-   "thumb": "https://i.ytimg.com/vi/gVJkNeTokkc/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=gVJkNeTokkc",
-    "spotify": "https://open.spotify.com/episode/5MSJZ7lOfVAu4znPgh4ASU"
-   }
-  },
-  {
    "at": "2026-10-28T00:00:00Z",
    "platform": "spotify",
    "title": "I read the High Agency essay so you didn't have to",
