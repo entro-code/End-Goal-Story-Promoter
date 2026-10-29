@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-10-29T17:00",
-      "episode_id": "how-i-plan-to-make-2026-the-best-year-yet-2026-01-05",
-      "platform": "spotify",
-      "title": "How I plan to make 2026 the best year yet",
-      "link": "https://open.spotify.com/episode/5rfguiuoUNa8NadkDYqc3F",
-      "due_at_utc": "2026-10-29T21:00:00.000Z",
-      "image": "stories/20261029-1700-spotify-how-i-plan-to-make-2026-the-be.png"
-    },
-    {
-      "when": "2026-10-29T20:00",
-      "episode_id": "40-life-lessons-from-the-alchemist-ft-canvas-2026-06-29",
-      "platform": "spotify",
-      "title": "40 Life Lessons from The Alchemist ft. Canvas",
-      "link": "https://open.spotify.com/episode/6zDfKuZfnFkIAfahlBxD5J",
-      "due_at_utc": "2026-10-30T00:00:00.000Z",
-      "image": "stories/20261029-2000-spotify-40-life-lessons-from-the-alche.png"
-    }
-  ]
+  "posts": []
 }

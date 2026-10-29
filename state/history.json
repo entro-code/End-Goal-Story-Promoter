@@ -520,5 +520,17 @@
     "episode_id": "i-may-be-an-orange-belt-today-2026-03-13",
     "platform": "substack",
     "buffer_post_id": "6ae2dc7602cc66e5339b2f74"
+  },
+  {
+    "when": "2026-10-29T17:00",
+    "episode_id": "how-i-plan-to-make-2026-the-best-year-yet-2026-01-05",
+    "platform": "spotify",
+    "buffer_post_id": "6ae3420af67cfc9914ef829b"
+  },
+  {
+    "when": "2026-10-29T20:00",
+    "episode_id": "40-life-lessons-from-the-alchemist-ft-canvas-2026-06-29",
+    "platform": "spotify",
+    "buffer_post_id": "6ae3420b650dab96a37254c6"
   }
 ]
