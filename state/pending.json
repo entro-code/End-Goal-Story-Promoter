@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-30T08:00",
+      "episode_id": "the-problem-with-self-improvement-culture-john-b-2026-10-23",
+      "platform": "youtube",
+      "title": "The Problem With Self-Improvement Culture | John Bierce",
+      "link": "https://www.youtube.com/watch?v=HbqOSr-Lrko",
+      "due_at_utc": "2026-10-30T12:00:00.000Z",
+      "image": "stories/20261030-0800-youtube-the-problem-with-self-improvem.png"
+    },
+    {
+      "when": "2026-10-30T12:00",
+      "episode_id": "why-representation-in-books-matter-2026-02-13",
+      "platform": "substack",
+      "title": "Why representation in books matter",
+      "link": "https://theendgoal.substack.com/p/why-representation-in-books-matter",
+      "due_at_utc": "2026-10-30T16:00:00.000Z",
+      "image": "stories/20261030-1200-substack-why-representation-in-books-ma.png"
+    }
+  ]
 }
