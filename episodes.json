@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "all-ai-isn-t-bad-travis-bagwell-2026-10-30",
+      "title": "All AI Isn't Bad | Travis Bagwell",
+      "date": "2026-10-30",
+      "youtube_url": "https://www.youtube.com/watch?v=gz7WmEfVhyc",
+      "youtube_id": "gz7WmEfVhyc",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "why-it-s-never-too-late-to-write-your-story-trav-2026-10-26",
       "title": "Why it's never too late to write your story | Travis Bagwell",
       "date": "2026-10-26",

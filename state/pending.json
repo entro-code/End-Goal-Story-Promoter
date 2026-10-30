@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-30T17:00",
+      "episode_id": "self-marketing-fomo-and-success-tsoup-2026-02-09",
+      "platform": "spotify",
+      "title": "Self-Marketing, FOMO, and Success | TSoup",
+      "link": "https://open.spotify.com/episode/6Chr0EHUJKQp4SGnc3yALG",
+      "due_at_utc": "2026-10-30T21:00:00.000Z",
+      "image": "stories/20261030-1700-spotify-self-marketing-fomo-and-succes.png"
+    },
+    {
+      "when": "2026-10-30T20:00",
+      "episode_id": "i-pulled-back-on-my-business-and-here-s-why-2026-08-23",
+      "platform": "substack",
+      "title": "I pulled back on my business and here’s why",
+      "link": "https://theendgoal.substack.com/p/i-pulled-back-on-my-business-and",
+      "due_at_utc": "2026-10-31T00:00:00.000Z",
+      "image": "stories/20261030-2000-substack-i-pulled-back-on-my-business-a.png"
+    }
+  ]
 }
