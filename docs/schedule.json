@@ -11,25 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-10-29T12:00:00Z",
-   "platform": "spotify",
-   "title": "Why it's never too late to write your story | Travis Bagwell",
-   "thumb": "https://i.ytimg.com/vi/dT_hC9pvrqk/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=dT_hC9pvrqk",
-    "spotify": "https://open.spotify.com/episode/3hcLeNcresV4331fsnd7jW"
-   }
-  },
-  {
-   "at": "2026-10-29T16:00:00Z",
-   "platform": "substack",
-   "title": "I may be an orange belt today",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/i-may-be-an-orange-belt-today"
-   }
-  },
-  {
    "at": "2026-10-29T21:00:00Z",
    "platform": "spotify",
    "title": "How I plan to make 2026 the best year yet",
