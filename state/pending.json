@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-31T17:00",
+      "episode_id": "hottest-new-author-on-the-block-andrew-givler-2026-04-27",
+      "platform": "spotify",
+      "title": "Hottest new author on the block | Andrew Givler",
+      "link": "https://open.spotify.com/episode/57aNNNzxfq6COpPBW0u8VK",
+      "due_at_utc": "2026-10-31T21:00:00.000Z",
+      "image": "stories/20261031-1700-spotify-hottest-new-author-on-the-bloc.png"
+    },
+    {
+      "when": "2026-10-31T20:00",
+      "episode_id": "exploring-12-deeply-rooted-fallacies-of-life-2025-11-17",
+      "platform": "spotify",
+      "title": "Exploring 12 Deeply Rooted Fallacies of Life",
+      "link": "https://open.spotify.com/episode/30BNT5s1RX38eyWRoGHpmE",
+      "due_at_utc": "2026-11-01T00:00:00.000Z",
+      "image": "stories/20261031-2000-spotify-exploring-12-deeply-rooted-fal.png"
+    }
+  ]
 }
