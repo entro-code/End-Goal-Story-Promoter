@@ -556,5 +556,17 @@
     "episode_id": "i-pulled-back-on-my-business-and-here-s-why-2026-08-23",
     "platform": "substack",
     "buffer_post_id": "6ae491da4233ff6805be45bf"
+  },
+  {
+    "when": "2026-10-31T08:00",
+    "episode_id": "all-ai-isn-t-bad-travis-bagwell-2026-10-30",
+    "platform": "youtube",
+    "buffer_post_id": "6ae57d7d1891472093b66618"
+  },
+  {
+    "when": "2026-10-31T12:00",
+    "episode_id": "the-other-side-of-overworking-2026-03-07",
+    "platform": "substack",
+    "buffer_post_id": "6ae57d7feaa24d6f9a596486"
   }
 ]
