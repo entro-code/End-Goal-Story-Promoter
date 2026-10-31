@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-10-31T08:00",
+      "episode_id": "all-ai-isn-t-bad-travis-bagwell-2026-10-30",
+      "platform": "youtube",
+      "title": "All AI Isn't Bad | Travis Bagwell",
+      "link": "https://www.youtube.com/watch?v=gz7WmEfVhyc",
+      "due_at_utc": "2026-10-31T12:00:00.000Z",
+      "image": "stories/20261031-0800-youtube-all-ai-isn-t-bad-travis-bagwel.png"
+    },
+    {
+      "when": "2026-10-31T12:00",
+      "episode_id": "the-other-side-of-overworking-2026-03-07",
+      "platform": "substack",
+      "title": "The Other Side of Overworking",
+      "link": "https://theendgoal.substack.com/p/the-other-side-of-overworking",
+      "due_at_utc": "2026-10-31T16:00:00.000Z",
+      "image": "stories/20261031-1200-substack-the-other-side-of-overworking-.png"
+    }
+  ]
 }
