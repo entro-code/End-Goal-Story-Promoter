@@ -580,5 +580,17 @@
     "episode_id": "exploring-12-deeply-rooted-fallacies-of-life-2025-11-17",
     "platform": "spotify",
     "buffer_post_id": "6ae5dc901891472093d07ec3"
+  },
+  {
+    "when": "2026-11-01T08:00",
+    "episode_id": "why-it-s-never-too-late-to-write-your-story-trav-2026-10-26",
+    "platform": "youtube",
+    "buffer_post_id": "6ae6d47bab019b9087429067"
+  },
+  {
+    "when": "2026-11-01T12:00",
+    "episode_id": "if-you-don-t-have-goals-for-2026-read-this-2026-01-09",
+    "platform": "substack",
+    "buffer_post_id": "6ae6d47b37c1acd2a0ebed0e"
   }
 ]
