@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-01T08:00",
+      "episode_id": "why-it-s-never-too-late-to-write-your-story-trav-2026-10-26",
+      "platform": "youtube",
+      "title": "Why it's never too late to write your story | Travis Bagwell",
+      "link": "https://www.youtube.com/watch?v=dT_hC9pvrqk",
+      "due_at_utc": "2026-11-01T13:00:00.000Z",
+      "image": "stories/20261101-0800-youtube-why-it-s-never-too-late-to-wri.png"
+    },
+    {
+      "when": "2026-11-01T12:00",
+      "episode_id": "if-you-don-t-have-goals-for-2026-read-this-2026-01-09",
+      "platform": "substack",
+      "title": "If you don't have goals for 2026, read this",
+      "link": "https://theendgoal.substack.com/p/if-you-dont-have-goals-for-2026-read",
+      "due_at_utc": "2026-11-01T17:00:00.000Z",
+      "image": "stories/20261101-1200-substack-if-you-don-t-have-goals-for-20.png"
+    }
+  ]
 }
