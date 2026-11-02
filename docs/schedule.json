@@ -11,16 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-01T00:00:00Z",
-   "platform": "spotify",
-   "title": "Exploring 12 Deeply Rooted Fallacies of Life",
-   "thumb": "https://i.ytimg.com/vi/v9OwkKMe8l4/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=v9OwkKMe8l4",
-    "spotify": "https://open.spotify.com/episode/30BNT5s1RX38eyWRoGHpmE"
-   }
-  },
-  {
    "at": "2026-11-01T13:00:00Z",
    "platform": "youtube",
    "title": "Why it's never too late to write your story | Travis Bagwell",
