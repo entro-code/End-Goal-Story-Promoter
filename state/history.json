@@ -616,5 +616,17 @@
     "episode_id": "why-your-lowest-point-can-change-your-life-kevin-2026-09-14",
     "platform": "spotify",
     "buffer_post_id": "6ae825f0759fc887b6cea600"
+  },
+  {
+    "when": "2026-11-02T17:00",
+    "episode_id": "this-is-my-first-time-ever-talking-to-wonder-mar-2025-06-23",
+    "platform": "spotify",
+    "buffer_post_id": "6ae8af0c2810e4a79d35d4b4"
+  },
+  {
+    "when": "2026-11-02T20:00",
+    "episode_id": "5-ideas-that-changed-my-life-2026-07-27",
+    "platform": "substack",
+    "buffer_post_id": "6ae8af0d2810e4a79d35d4fd"
   }
 ]
