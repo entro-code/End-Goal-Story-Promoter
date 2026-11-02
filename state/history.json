@@ -604,5 +604,17 @@
     "episode_id": "real-ninja-warrior-talks-fitness-purpose-and-dis-2025-12-08",
     "platform": "spotify",
     "buffer_post_id": "6ae73b46f0984eef33680713"
+  },
+  {
+    "when": "2026-11-02T08:00",
+    "episode_id": "all-ai-isn-t-bad-travis-bagwell-2026-10-30",
+    "platform": "youtube",
+    "buffer_post_id": "6ae825ef759fc887b6cea5d6"
+  },
+  {
+    "when": "2026-11-02T12:00",
+    "episode_id": "why-your-lowest-point-can-change-your-life-kevin-2026-09-14",
+    "platform": "spotify",
+    "buffer_post_id": "6ae825f0759fc887b6cea600"
   }
 ]

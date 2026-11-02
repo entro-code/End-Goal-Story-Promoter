@@ -57,6 +57,25 @@
     "youtube": "https://www.youtube.com/watch?v=KEqEqQrheoU",
     "spotify": "https://open.spotify.com/episode/75pbslfrirC4ARbBu53bsp"
    }
+  },
+  {
+   "at": "2026-11-02T13:00:00Z",
+   "platform": "youtube",
+   "title": "All AI Isn't Bad | Travis Bagwell",
+   "thumb": "https://i.ytimg.com/vi/gz7WmEfVhyc/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=gz7WmEfVhyc"
+   }
+  },
+  {
+   "at": "2026-11-02T17:00:00Z",
+   "platform": "spotify",
+   "title": "Why Your Lowest Point Can Change Your Life | Kevin",
+   "thumb": "https://i.ytimg.com/vi/WL1do_Q2NLs/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=WL1do_Q2NLs",
+    "spotify": "https://open.spotify.com/episode/0p74tZ2cY652N3GAiXQbk7"
+   }
   }
  ],
  "freebies": [
