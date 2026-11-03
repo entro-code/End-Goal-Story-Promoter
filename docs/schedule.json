@@ -2,33 +2,14 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "All AI Isn't Bad | Travis Bagwell",
-  "thumb": "https://i.ytimg.com/vi/gz7WmEfVhyc/hqdefault.jpg",
+  "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
+  "thumb": "https://i.ytimg.com/vi/_tOd6Z8M0Xo/hqdefault.jpg",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=gz7WmEfVhyc"
+   "youtube": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-11-01T22:00:00Z",
-   "platform": "substack",
-   "title": "The 4 promises they made and broke",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/the-4-promises-they-made-and-broke"
-   }
-  },
-  {
-   "at": "2026-11-02T01:00:00Z",
-   "platform": "spotify",
-   "title": "Real ninja warrior talks fitness, purpose, and discipline | Jonathan \"JB\" Bange",
-   "thumb": "https://i.ytimg.com/vi/KEqEqQrheoU/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=KEqEqQrheoU",
-    "spotify": "https://open.spotify.com/episode/75pbslfrirC4ARbBu53bsp"
-   }
-  },
   {
    "at": "2026-11-02T13:00:00Z",
    "platform": "youtube",

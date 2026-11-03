@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
+      "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
+      "date": "2026-11-02",
+      "youtube_url": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo",
+      "youtube_id": "_tOd6Z8M0Xo",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "all-ai-isn-t-bad-travis-bagwell-2026-10-30",
       "title": "All AI Isn't Bad | Travis Bagwell",
       "date": "2026-10-30",
