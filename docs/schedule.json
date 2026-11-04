@@ -48,6 +48,24 @@
     "youtube": "https://www.youtube.com/watch?v=Hq9_oet2Lqk",
     "spotify": "https://open.spotify.com/episode/1eHzN6VSzSq4hfpyavf0S1"
    }
+  },
+  {
+   "at": "2026-11-04T13:00:00Z",
+   "platform": "youtube",
+   "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
+   "thumb": "https://i.ytimg.com/vi/_tOd6Z8M0Xo/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo"
+   }
+  },
+  {
+   "at": "2026-11-04T17:00:00Z",
+   "platform": "substack",
+   "title": "200 Booktok Book Recs",
+   "thumb": "freebies/booktok-book-recs.png",
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+   }
   }
  ],
  "freebies": [

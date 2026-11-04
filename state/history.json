@@ -646,5 +646,17 @@
     "episode_id": "we-can-be-the-jam-kameron-grayson-2025-07-28",
     "platform": "youtube",
     "buffer_post_id": "6ae9e9fc1d20820af1e3272c"
+  },
+  {
+    "when": "2026-11-04T08:00",
+    "episode_id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
+    "platform": "youtube",
+    "buffer_post_id": "6aeacc04394911f9f11accb1"
+  },
+  {
+    "when": "2026-11-04T12:00",
+    "episode_id": "promo-200-booktok-book-recs",
+    "platform": "substack",
+    "buffer_post_id": "6aeacc04394911f9f11accea"
   }
 ]
