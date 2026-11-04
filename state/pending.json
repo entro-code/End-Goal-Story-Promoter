@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-04T17:00",
-      "episode_id": "where-did-your-curiosity-go-2026-08-14",
-      "platform": "substack",
-      "title": "Where did your curiosity go?",
-      "link": "https://theendgoal.substack.com/p/where-did-your-curiosity-go",
-      "due_at_utc": "2026-11-04T22:00:00.000Z",
-      "image": "stories/20261104-1700-substack-where-did-your-curiosity-go-20.png"
-    },
-    {
-      "when": "2026-11-04T20:00",
-      "episode_id": "the-truth-about-perfectionism-and-burnout-dr-ana-2026-08-17",
-      "platform": "spotify",
-      "title": "The Truth About Perfectionism and Burnout | Dr. Anahita Kalianivala",
-      "link": "https://open.spotify.com/episode/0ltNaIEzwbah3oAdXt62WI",
-      "due_at_utc": "2026-11-05T01:00:00.000Z",
-      "image": "stories/20261104-2000-spotify-the-truth-about-perfectionism-.png"
-    }
-  ]
+  "posts": []
 }

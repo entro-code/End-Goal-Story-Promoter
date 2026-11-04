@@ -658,5 +658,17 @@
     "episode_id": "promo-200-booktok-book-recs",
     "platform": "substack",
     "buffer_post_id": "6aeacc04394911f9f11accea"
+  },
+  {
+    "when": "2026-11-04T17:00",
+    "episode_id": "where-did-your-curiosity-go-2026-08-14",
+    "platform": "substack",
+    "buffer_post_id": "6aeb405a4a32c52d4d2680a0"
+  },
+  {
+    "when": "2026-11-04T20:00",
+    "episode_id": "the-truth-about-perfectionism-and-burnout-dr-ana-2026-08-17",
+    "platform": "spotify",
+    "buffer_post_id": "6aeb405b1dd5b1fe45e4d3e5"
   }
 ]
