@@ -11,16 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-02T22:00:00Z",
-   "platform": "spotify",
-   "title": "This is my first time ever talking to Wonder | Marc \"Wonder\" Anthony Aradillas",
-   "thumb": "https://i.ytimg.com/vi/NAlN5OOHw38/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=NAlN5OOHw38",
-    "spotify": "https://open.spotify.com/episode/4iluZyXYTwxv8bsUz25lQI"
-   }
-  },
-  {
    "at": "2026-11-03T01:00:00Z",
    "platform": "substack",
    "title": "5 Ideas that changed my life",
