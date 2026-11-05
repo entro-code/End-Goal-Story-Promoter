@@ -670,5 +670,17 @@
     "episode_id": "the-truth-about-perfectionism-and-burnout-dr-ana-2026-08-17",
     "platform": "spotify",
     "buffer_post_id": "6aeb405b1dd5b1fe45e4d3e5"
+  },
+  {
+    "when": "2026-11-05T08:00",
+    "episode_id": "all-ai-isn-t-bad-travis-bagwell-2026-10-30",
+    "platform": "youtube",
+    "buffer_post_id": "6aec246075052a1eb824f7b6"
+  },
+  {
+    "when": "2026-11-05T12:00",
+    "episode_id": "choosing-my-own-active-challenges-2026-02-20",
+    "platform": "substack",
+    "buffer_post_id": "6aec24617877e0eab27c41ff"
   }
 ]

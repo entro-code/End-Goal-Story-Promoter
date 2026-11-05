@@ -58,6 +58,24 @@
     "youtube": "https://www.youtube.com/watch?v=8yCmCf-6IwE",
     "spotify": "https://open.spotify.com/episode/0ltNaIEzwbah3oAdXt62WI"
    }
+  },
+  {
+   "at": "2026-11-05T13:00:00Z",
+   "platform": "youtube",
+   "title": "All AI Isn't Bad | Travis Bagwell",
+   "thumb": "https://i.ytimg.com/vi/gz7WmEfVhyc/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=gz7WmEfVhyc"
+   }
+  },
+  {
+   "at": "2026-11-05T17:00:00Z",
+   "platform": "substack",
+   "title": "Choosing My Own Active Challenges",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/choosing-my-own-challenges"
+   }
   }
  ],
  "freebies": [
