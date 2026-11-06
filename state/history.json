@@ -694,5 +694,17 @@
     "episode_id": "changing-ninja-warrior-game-karsten-williams-2025-06-02",
     "platform": "spotify",
     "buffer_post_id": "6aecdebb9f2731311a669acc"
+  },
+  {
+    "when": "2026-11-06T08:00",
+    "episode_id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
+    "platform": "spotify",
+    "buffer_post_id": "6aed74ce86fe9b83797969ed"
+  },
+  {
+    "when": "2026-11-06T12:00",
+    "episode_id": "this-is-why-you-can-t-read-anymore-2026-09-06",
+    "platform": "substack",
+    "buffer_post_id": "6aed74cec1e74b84e5cf83c9"
   }
 ]

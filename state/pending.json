@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-06T08:00",
-      "episode_id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
-      "platform": "spotify",
-      "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
-      "link": "https://open.spotify.com/episode/4ZWWgCuuBiD7hgEs5pcFLY",
-      "due_at_utc": "2026-11-06T13:00:00.000Z",
-      "image": "stories/20261106-0800-spotify-he-doordashes-full-time-to-mak.png"
-    },
-    {
-      "when": "2026-11-06T12:00",
-      "episode_id": "this-is-why-you-can-t-read-anymore-2026-09-06",
-      "platform": "substack",
-      "title": "This is why you can't read anymore",
-      "link": "https://theendgoal.substack.com/p/this-is-why-you-cant-read-anymore",
-      "due_at_utc": "2026-11-06T17:00:00.000Z",
-      "image": "stories/20261106-1200-substack-this-is-why-you-can-t-read-any.png"
-    }
-  ]
+  "posts": []
 }

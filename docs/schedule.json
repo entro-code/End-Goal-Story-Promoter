@@ -58,6 +58,25 @@
     "youtube": "https://www.youtube.com/watch?v=c-eAwnpuHkM",
     "spotify": "https://open.spotify.com/episode/7FQKCCpzlLQwLXAsv12zjj"
    }
+  },
+  {
+   "at": "2026-11-06T13:00:00Z",
+   "platform": "spotify",
+   "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
+   "thumb": "https://i.ytimg.com/vi/_tOd6Z8M0Xo/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo",
+    "spotify": "https://open.spotify.com/episode/4ZWWgCuuBiD7hgEs5pcFLY"
+   }
+  },
+  {
+   "at": "2026-11-06T17:00:00Z",
+   "platform": "substack",
+   "title": "This is why you can't read anymore",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/this-is-why-you-cant-read-anymore"
+   }
   }
  ],
  "freebies": [
