@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "don-t-believe-everything-you-think-joshua-fajard-2026-11-06",
+      "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
+      "date": "2026-11-06",
+      "youtube_url": "https://www.youtube.com/watch?v=IdcxsQTG3wQ",
+      "youtube_id": "IdcxsQTG3wQ",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
       "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
       "date": "2026-11-02",

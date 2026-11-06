@@ -2,34 +2,14 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
-  "thumb": "https://i.ytimg.com/vi/_tOd6Z8M0Xo/hqdefault.jpg",
+  "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
+  "thumb": "https://i.ytimg.com/vi/IdcxsQTG3wQ/hqdefault.jpg",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo",
-   "spotify": "https://open.spotify.com/episode/4ZWWgCuuBiD7hgEs5pcFLY"
+   "youtube": "https://www.youtube.com/watch?v=IdcxsQTG3wQ"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-11-05T01:00:00Z",
-   "platform": "spotify",
-   "title": "The Truth About Perfectionism and Burnout | Dr. Anahita Kalianivala",
-   "thumb": "https://i.ytimg.com/vi/8yCmCf-6IwE/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=8yCmCf-6IwE",
-    "spotify": "https://open.spotify.com/episode/0ltNaIEzwbah3oAdXt62WI"
-   }
-  },
-  {
-   "at": "2026-11-05T13:00:00Z",
-   "platform": "youtube",
-   "title": "All AI Isn't Bad | Travis Bagwell",
-   "thumb": "https://i.ytimg.com/vi/gz7WmEfVhyc/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=gz7WmEfVhyc"
-   }
-  },
   {
    "at": "2026-11-05T17:00:00Z",
    "platform": "substack",
