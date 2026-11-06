@@ -706,5 +706,17 @@
     "episode_id": "this-is-why-you-can-t-read-anymore-2026-09-06",
     "platform": "substack",
     "buffer_post_id": "6aed74cec1e74b84e5cf83c9"
+  },
+  {
+    "when": "2026-11-06T17:00",
+    "episode_id": "15-lessons-from-6-guests-2025-03-03",
+    "platform": "spotify",
+    "buffer_post_id": "6aee284c9214322f68a830b0"
+  },
+  {
+    "when": "2026-11-06T20:00",
+    "episode_id": "what-is-the-value-of-a-man-trenton-king-sylar-bu-2025-04-28",
+    "platform": "spotify",
+    "buffer_post_id": "6aee284daf7e526d43d85684"
   }
 ]
