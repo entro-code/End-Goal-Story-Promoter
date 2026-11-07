@@ -58,6 +58,25 @@
     "youtube": "https://www.youtube.com/watch?v=ozJI0RRS4lM",
     "spotify": "https://open.spotify.com/episode/3TTAeFmqS3cvLg18QW8Sk6"
    }
+  },
+  {
+   "at": "2026-11-07T13:00:00Z",
+   "platform": "youtube",
+   "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
+   "thumb": "https://i.ytimg.com/vi/IdcxsQTG3wQ/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=IdcxsQTG3wQ"
+   }
+  },
+  {
+   "at": "2026-11-07T17:00:00Z",
+   "platform": "spotify",
+   "title": "The never ending practice of life - Yassir Khrichef",
+   "thumb": "https://i.ytimg.com/vi/QUcjSm7jRJs/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=QUcjSm7jRJs",
+    "spotify": "https://open.spotify.com/episode/0FT1MadFlvsksNwTsm6mVY"
+   }
   }
  ],
  "freebies": [

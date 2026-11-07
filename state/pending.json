@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-07T08:00",
-      "episode_id": "don-t-believe-everything-you-think-joshua-fajard-2026-11-06",
-      "platform": "youtube",
-      "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
-      "link": "https://www.youtube.com/watch?v=IdcxsQTG3wQ",
-      "due_at_utc": "2026-11-07T13:00:00.000Z",
-      "image": "stories/20261107-0800-youtube-don-t-believe-everything-you-t.png"
-    },
-    {
-      "when": "2026-11-07T12:00",
-      "episode_id": "the-never-ending-practice-of-life-yassir-khriche-2025-01-20",
-      "platform": "spotify",
-      "title": "The never ending practice of life - Yassir Khrichef",
-      "link": "https://open.spotify.com/episode/0FT1MadFlvsksNwTsm6mVY",
-      "due_at_utc": "2026-11-07T17:00:00.000Z",
-      "image": "stories/20261107-1200-spotify-the-never-ending-practice-of-l.png"
-    }
-  ]
+  "posts": []
 }
