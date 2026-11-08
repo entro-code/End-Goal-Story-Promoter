@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-08T17:00",
-      "episode_id": "producing-lasting-media-in-a-world-of-short-term-2026-01-26",
-      "platform": "youtube",
-      "title": "Producing lasting media in a world of short term entertainment | MJG",
-      "link": "https://www.youtube.com/watch?v=lDy-jmfWlt0",
-      "due_at_utc": "2026-11-08T22:00:00.000Z",
-      "image": "stories/20261108-1700-youtube-producing-lasting-media-in-a-w.png"
-    },
-    {
-      "when": "2026-11-08T20:00",
-      "episode_id": "ai-in-art-health-scares-fantasy-books-aparna-ver-2026-04-13",
-      "platform": "youtube",
-      "title": "AI in Art, Health Scares, Fantasy Books | Aparna Verma",
-      "link": "https://www.youtube.com/watch?v=hTbHRQhyHJk",
-      "due_at_utc": "2026-11-09T01:00:00.000Z",
-      "image": "stories/20261108-2000-youtube-ai-in-art-health-scares-fantas.png"
-    }
-  ]
+  "posts": []
 }
