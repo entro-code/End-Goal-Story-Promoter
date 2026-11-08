@@ -57,6 +57,25 @@
     "youtube": "https://www.youtube.com/watch?v=ErCo4fF6TNM",
     "spotify": "https://open.spotify.com/episode/4RUSgDp1aoyzkbz7TR0tUH"
    }
+  },
+  {
+   "at": "2026-11-08T13:00:00Z",
+   "platform": "youtube",
+   "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
+   "thumb": "https://i.ytimg.com/vi/_tOd6Z8M0Xo/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo",
+    "spotify": "https://open.spotify.com/episode/4ZWWgCuuBiD7hgEs5pcFLY"
+   }
+  },
+  {
+   "at": "2026-11-08T17:00:00Z",
+   "platform": "substack",
+   "title": "How to read so that you never stop",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/how-to-read-so-that-you-never-stop"
+   }
   }
  ],
  "freebies": [

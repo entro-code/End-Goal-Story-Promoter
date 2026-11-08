@@ -742,5 +742,17 @@
     "episode_id": "traveling-meditation-and-dino-friends-rishi-rift-2025-08-25",
     "platform": "spotify",
     "buffer_post_id": "6aef9bdf562f2e6de98167eb"
+  },
+  {
+    "when": "2026-11-08T08:00",
+    "episode_id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
+    "platform": "youtube",
+    "buffer_post_id": "6af00ec9004e4879a79add82"
+  },
+  {
+    "when": "2026-11-08T12:00",
+    "episode_id": "how-to-read-so-that-you-never-stop-2026-09-28",
+    "platform": "substack",
+    "buffer_post_id": "6af00ecad6bbae6fa1cd613c"
   }
 ]

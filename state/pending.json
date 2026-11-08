@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-08T08:00",
-      "episode_id": "he-doordashes-full-time-to-make-book-content-for-2026-11-02",
-      "platform": "youtube",
-      "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
-      "link": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo",
-      "due_at_utc": "2026-11-08T13:00:00.000Z",
-      "image": "stories/20261108-0800-youtube-he-doordashes-full-time-to-mak.png"
-    },
-    {
-      "when": "2026-11-08T12:00",
-      "episode_id": "how-to-read-so-that-you-never-stop-2026-09-28",
-      "platform": "substack",
-      "title": "How to read so that you never stop",
-      "link": "https://theendgoal.substack.com/p/how-to-read-so-that-you-never-stop",
-      "due_at_utc": "2026-11-08T17:00:00.000Z",
-      "image": "stories/20261108-1200-substack-how-to-read-so-that-you-never-.png"
-    }
-  ]
+  "posts": []
 }
