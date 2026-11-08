@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "welcome-to-the-end-goal-podcast-2026-11-08",
+      "title": "Welcome to The End Goal Podcast!",
+      "date": "2026-11-08",
+      "youtube_url": "https://www.youtube.com/watch?v=99K9o7AZZIY",
+      "youtube_id": "99K9o7AZZIY",
+      "spotify_url": null,
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "don-t-believe-everything-you-think-joshua-fajard-2026-11-06",
       "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
       "date": "2026-11-06",
