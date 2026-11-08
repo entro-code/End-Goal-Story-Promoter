@@ -11,25 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-06T17:00:00Z",
-   "platform": "substack",
-   "title": "This is why you can't read anymore",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/this-is-why-you-cant-read-anymore"
-   }
-  },
-  {
-   "at": "2026-11-06T22:00:00Z",
-   "platform": "spotify",
-   "title": "15 lessons from 6 Guests",
-   "thumb": "https://i.ytimg.com/vi/5v4oi3t-51w/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=5v4oi3t-51w",
-    "spotify": "https://open.spotify.com/episode/7ul4W1atyNMw7AQxgogBVz"
-   }
-  },
-  {
    "at": "2026-11-07T01:00:00Z",
    "platform": "spotify",
    "title": "What is the value of a man | Trenton \"King Sylar\" Butler",
