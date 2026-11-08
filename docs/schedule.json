@@ -11,16 +11,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-07T01:00:00Z",
-   "platform": "spotify",
-   "title": "What is the value of a man | Trenton \"King Sylar\" Butler",
-   "thumb": "https://i.ytimg.com/vi/ozJI0RRS4lM/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=ozJI0RRS4lM",
-    "spotify": "https://open.spotify.com/episode/3TTAeFmqS3cvLg18QW8Sk6"
-   }
-  },
-  {
    "at": "2026-11-07T13:00:00Z",
    "platform": "youtube",
    "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
