@@ -2,34 +2,15 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "Welcome to The End Goal Podcast!",
-  "thumb": "https://i.ytimg.com/vi/99K9o7AZZIY/hqdefault.jpg",
+  "title": "I'm 29, a Tax Accountant, and I Still Don't Know My Why",
+  "thumb": "https://i.ytimg.com/vi/BAmLm49pxp0/hqdefault.jpg",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=99K9o7AZZIY"
+   "youtube": "https://www.youtube.com/watch?v=BAmLm49pxp0",
+   "spotify": "https://open.spotify.com/episode/19ecX0aT4rG0cPV0aT8MNB"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-11-08T01:00:00Z",
-   "platform": "spotify",
-   "title": "Traveling, Meditation, and Dino Friends | Rishi \"Rift\" Desai",
-   "thumb": "https://i.ytimg.com/vi/ErCo4fF6TNM/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=ErCo4fF6TNM",
-    "spotify": "https://open.spotify.com/episode/4RUSgDp1aoyzkbz7TR0tUH"
-   }
-  },
-  {
-   "at": "2026-11-08T13:00:00Z",
-   "platform": "youtube",
-   "title": "He DoorDashes Full Time to Make Book Content for Free | Joshua Fajardo-Mains",
-   "thumb": "https://i.ytimg.com/vi/_tOd6Z8M0Xo/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=_tOd6Z8M0Xo",
-    "spotify": "https://open.spotify.com/episode/4ZWWgCuuBiD7hgEs5pcFLY"
-   }
-  },
   {
    "at": "2026-11-08T17:00:00Z",
    "platform": "substack",

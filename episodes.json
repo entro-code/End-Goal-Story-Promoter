@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "i-m-29-a-tax-accountant-and-i-still-don-t-know-m-2026-11-09",
+      "title": "I'm 29, a Tax Accountant, and I Still Don't Know My Why",
+      "date": "2026-11-09",
+      "youtube_url": "https://www.youtube.com/watch?v=BAmLm49pxp0",
+      "youtube_id": "BAmLm49pxp0",
+      "spotify_url": "https://open.spotify.com/episode/19ecX0aT4rG0cPV0aT8MNB",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "welcome-to-the-end-goal-podcast-2026-11-08",
       "title": "Welcome to The End Goal Podcast!",
       "date": "2026-11-08",
