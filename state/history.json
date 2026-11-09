@@ -778,5 +778,11 @@
     "episode_id": "you-don-t-need-to-worry-about-taxes-2026-02-02",
     "platform": "spotify",
     "buffer_post_id": "6af1650e2f1ff83d451c422b"
+  },
+  {
+    "when": "2026-11-09T20:00",
+    "episode_id": "masterfully-crafted-distractions-2026-03-21",
+    "platform": "substack",
+    "buffer_post_id": "6af24644aec4ecc080c4810c"
   }
 ]
