@@ -12,15 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-09T13:00:00Z",
-   "platform": "youtube",
-   "title": "Welcome to The End Goal Podcast!",
-   "thumb": "https://i.ytimg.com/vi/99K9o7AZZIY/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=99K9o7AZZIY"
-   }
-  },
-  {
    "at": "2026-11-09T17:00:00Z",
    "platform": "spotify",
    "title": "You don't need to worry about taxes",
