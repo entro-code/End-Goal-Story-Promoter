@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-11T17:00",
-      "episode_id": "is-there-value-in-business-education-taj-2025-11-10",
-      "platform": "spotify",
-      "title": "Is there value in business education? | Taj",
-      "link": "https://open.spotify.com/episode/4DB5hCZK1F8BC8Pec5aeNl",
-      "due_at_utc": "2026-11-11T22:00:00.000Z",
-      "image": "stories/20261111-1700-spotify-is-there-value-in-business-edu.png"
-    },
-    {
-      "when": "2026-11-11T20:00",
-      "episode_id": "do-women-prefer-a-fluffier-male-body-2025-05-12",
-      "platform": "spotify",
-      "title": "Do women prefer a fluffier male body?",
-      "link": "https://open.spotify.com/episode/05SxoR9s5HBo2OQAP8sPHa",
-      "due_at_utc": "2026-11-12T01:00:00.000Z",
-      "image": "stories/20261111-2000-spotify-do-women-prefer-a-fluffier-mal.png"
-    }
-  ]
+  "posts": []
 }

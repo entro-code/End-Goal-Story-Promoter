@@ -820,5 +820,17 @@
     "episode_id": "promo-200-booktok-book-recs",
     "platform": "substack",
     "buffer_post_id": "6af405bc095081ea08bb8129"
+  },
+  {
+    "when": "2026-11-11T17:00",
+    "episode_id": "is-there-value-in-business-education-taj-2025-11-10",
+    "platform": "spotify",
+    "buffer_post_id": "6af47797c6fc3e4d41b38051"
+  },
+  {
+    "when": "2026-11-11T20:00",
+    "episode_id": "do-women-prefer-a-fluffier-male-body-2025-05-12",
+    "platform": "spotify",
+    "buffer_post_id": "6af47798aca5fe01c4c40ac8"
   }
 ]
