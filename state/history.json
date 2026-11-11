@@ -808,5 +808,17 @@
     "episode_id": "the-one-thing-i-d-go-back-and-change-2026-08-03",
     "platform": "substack",
     "buffer_post_id": "6af3733d9b128026cfb8d963"
+  },
+  {
+    "when": "2026-11-11T08:00",
+    "episode_id": "don-t-believe-everything-you-think-joshua-fajard-2026-11-06",
+    "platform": "youtube",
+    "buffer_post_id": "6af405bc9a3abc82a1d2a612"
+  },
+  {
+    "when": "2026-11-11T12:00",
+    "episode_id": "promo-200-booktok-book-recs",
+    "platform": "substack",
+    "buffer_post_id": "6af405bc095081ea08bb8129"
   }
 ]
