@@ -832,5 +832,23 @@
     "episode_id": "do-women-prefer-a-fluffier-male-body-2025-05-12",
     "platform": "spotify",
     "buffer_post_id": "6af47798aca5fe01c4c40ac8"
+  },
+  {
+    "when": "2026-11-12T12:00",
+    "episode_id": "becoming-an-elite-filmmaker-mjg-2025-06-09",
+    "platform": "youtube",
+    "buffer_post_id": "6af5d5ba9bd3d68f87867e7f"
+  },
+  {
+    "when": "2026-11-12T17:00",
+    "episode_id": "why-are-there-less-men-publishing-books-tim-facc-2026-09-21",
+    "platform": "spotify",
+    "buffer_post_id": "6af5d5bb9bd3d68f87867ef5"
+  },
+  {
+    "when": "2026-11-12T20:00",
+    "episode_id": "gen-z-vs-the-old-system-their-broken-promises-2026-06-15",
+    "platform": "youtube",
+    "buffer_post_id": "6af5d5bbb44ae54108f0f0cd"
   }
 ]
