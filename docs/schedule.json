@@ -12,25 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-10T22:00:00Z",
-   "platform": "spotify",
-   "title": "Rebranding, Running a 5K, and Reading Books | Andy",
-   "thumb": "https://i.ytimg.com/vi/_iy3aU_zZxM/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=_iy3aU_zZxM",
-    "spotify": "https://open.spotify.com/episode/2Tc1EgVAYJb3ZR4EdYEbZK"
-   }
-  },
-  {
-   "at": "2026-11-11T01:00:00Z",
-   "platform": "substack",
-   "title": "The one thing I'd go back and change",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/the-one-thing-id-go-back-and-change"
-   }
-  },
-  {
    "at": "2026-11-11T13:00:00Z",
    "platform": "youtube",
    "title": "Don't Believe Everything You Think | Joshua Fajardo-Mains",
