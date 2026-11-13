@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-13T17:00",
+      "episode_id": "10-things-i-d-tell-my-20-year-old-self-2026-10-17",
+      "platform": "substack",
+      "title": "10 things I’d tell my 20 year old self",
+      "link": "https://theendgoal.substack.com/p/10-things-id-tell-my-20-year-old",
+      "due_at_utc": "2026-11-13T22:00:00.000Z",
+      "image": "stories/20261113-1700-substack-10-things-i-d-tell-my-20-year-.png"
+    },
+    {
+      "when": "2026-11-13T20:00",
+      "episode_id": "breaking-down-the-5-types-of-wealth-in-excruciat-2025-07-14",
+      "platform": "spotify",
+      "title": "Breaking down the 5 Types of Wealth in Excruciating Detail",
+      "link": "https://open.spotify.com/episode/1o4fTBzxhdCRU7ODzKfUfu",
+      "due_at_utc": "2026-11-14T01:00:00.000Z",
+      "image": "stories/20261113-2000-spotify-breaking-down-the-5-types-of-w.png"
+    }
+  ]
 }
