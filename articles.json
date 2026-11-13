@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "the-four-types-of-fans-2026-11-03",
+      "title": "The Four Types of Fans",
+      "date": "2026-11-03",
+      "substack_url": "https://theendgoal.substack.com/p/the-four-types-of-fans",
+      "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/6951d8fa-6f1a-45b9-afa3-3591e30e4b94_1200x630.png",
+      "thumbnail": null
+    },
+    {
+      "id": "the-plug-and-play-fallacy-2026-10-19",
+      "title": "The Plug and Play Fallacy",
+      "date": "2026-10-19",
+      "substack_url": "https://theendgoal.substack.com/p/the-plug-and-play-fallacy",
+      "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/9fb66dce-92bb-4486-a227-dc8579161e91_1200x630.png",
+      "thumbnail": null
+    },
+    {
+      "id": "10-things-i-d-tell-my-20-year-old-self-2026-10-17",
+      "title": "10 things I’d tell my 20 year old self",
+      "date": "2026-10-17",
+      "substack_url": "https://theendgoal.substack.com/p/10-things-id-tell-my-20-year-old",
+      "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/c8b3e45b-dccf-46d8-a4a8-43b2f2901bdc_1200x630.png",
+      "thumbnail": null
+    },
+    {
+      "id": "200-fantasy-book-recommendations-2026-10-11",
+      "title": "200 Fantasy Book Recommendations",
+      "date": "2026-10-11",
+      "substack_url": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations",
+      "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/44381687-537a-4360-8311-d41cba24d332_1200x630.png",
+      "thumbnail": null
+    },
+    {
       "id": "you-re-overthinking-it-2026-10-03",
       "title": "You’re overthinking it",
       "date": "2026-10-03",
