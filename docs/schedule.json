@@ -50,6 +50,25 @@
     "youtube": "https://www.youtube.com/watch?v=GY3oKBX4eWs",
     "spotify": "https://open.spotify.com/episode/5SFMR5ZcdclrvuonzW2Fer"
    }
+  },
+  {
+   "at": "2026-11-13T13:00:00Z",
+   "platform": "youtube",
+   "title": "Welcome to The End Goal Podcast!",
+   "thumb": "https://i.ytimg.com/vi/99K9o7AZZIY/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=99K9o7AZZIY"
+   }
+  },
+  {
+   "at": "2026-11-13T17:00:00Z",
+   "platform": "spotify",
+   "title": "How Patience Turned Me Into a Better Artist | Heartless",
+   "thumb": "https://i.ytimg.com/vi/OQfQC1QjVtc/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=OQfQC1QjVtc",
+    "spotify": "https://open.spotify.com/episode/56EgFk8r4WgQPNLohv0hkc"
+   }
   }
  ],
  "freebies": [
