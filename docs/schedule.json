@@ -68,6 +68,24 @@
     "youtube": "https://www.youtube.com/watch?v=ahiJzQYgtpg",
     "spotify": "https://open.spotify.com/episode/0cgqbmIB8fsEntV6GjDV5a"
    }
+  },
+  {
+   "at": "2026-11-14T22:00:00Z",
+   "platform": "youtube",
+   "title": "5 Things I Don't Understand About Modern Society",
+   "thumb": "https://i.ytimg.com/vi/Vr9vGslNwHw/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=Vr9vGslNwHw"
+   }
+  },
+  {
+   "at": "2026-11-15T01:00:00Z",
+   "platform": "substack",
+   "title": "curiosity is dying",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/curiosity-is-dying"
+   }
   }
  ],
  "freebies": [
