@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-14T17:00",
+      "episode_id": "5-things-i-don-t-understand-about-modern-society-2025-09-15",
+      "platform": "youtube",
+      "title": "5 Things I Don't Understand About Modern Society",
+      "link": "https://www.youtube.com/watch?v=Vr9vGslNwHw",
+      "due_at_utc": "2026-11-14T22:00:00.000Z",
+      "image": "stories/20261114-1700-youtube-5-things-i-don-t-understand-ab.png"
+    },
+    {
+      "when": "2026-11-14T20:00",
+      "episode_id": "curiosity-is-dying-2026-02-06",
+      "platform": "substack",
+      "title": "curiosity is dying",
+      "link": "https://theendgoal.substack.com/p/curiosity-is-dying",
+      "due_at_utc": "2026-11-15T01:00:00.000Z",
+      "image": "stories/20261114-2000-substack-curiosity-is-dying-2026-02-06.png"
+    }
+  ]
 }
