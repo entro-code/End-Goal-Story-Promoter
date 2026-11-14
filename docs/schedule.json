@@ -58,6 +58,26 @@
     "youtube": "https://www.youtube.com/watch?v=mtWsmeRRMXA",
     "spotify": "https://open.spotify.com/episode/1o4fTBzxhdCRU7ODzKfUfu"
    }
+  },
+  {
+   "at": "2026-11-14T13:00:00Z",
+   "platform": "youtube",
+   "title": "I'm 29, a Tax Accountant, and I Still Don't Know My Why",
+   "thumb": "https://i.ytimg.com/vi/BAmLm49pxp0/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=BAmLm49pxp0",
+    "spotify": "https://open.spotify.com/episode/19ecX0aT4rG0cPV0aT8MNB"
+   }
+  },
+  {
+   "at": "2026-11-14T17:00:00Z",
+   "platform": "youtube",
+   "title": "15 Pieces of Advice for Men | Trenton \"KingSylar\" Butler",
+   "thumb": "https://i.ytimg.com/vi/ahiJzQYgtpg/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=ahiJzQYgtpg",
+    "spotify": "https://open.spotify.com/episode/0cgqbmIB8fsEntV6GjDV5a"
+   }
   }
  ],
  "freebies": [
