@@ -58,6 +58,24 @@
    "links": {
     "substack": "https://theendgoal.substack.com/p/curiosity-is-dying"
    }
+  },
+  {
+   "at": "2026-11-15T13:00:00Z",
+   "platform": "youtube",
+   "title": "Welcome to The End Goal Podcast!",
+   "thumb": "https://i.ytimg.com/vi/99K9o7AZZIY/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=99K9o7AZZIY"
+   }
+  },
+  {
+   "at": "2026-11-15T17:00:00Z",
+   "platform": "substack",
+   "title": "You are in your \"golden days\"",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/you-are-in-your-golden-days"
+   }
   }
  ],
  "freebies": [

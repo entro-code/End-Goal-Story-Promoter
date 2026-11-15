@@ -898,5 +898,17 @@
     "episode_id": "curiosity-is-dying-2026-02-06",
     "platform": "substack",
     "buffer_post_id": "6af86228e5a113497a85d138"
+  },
+  {
+    "when": "2026-11-15T08:00",
+    "episode_id": "welcome-to-the-end-goal-podcast-2026-11-08",
+    "platform": "youtube",
+    "buffer_post_id": "6af94f1776c23bf1c760f9ff"
+  },
+  {
+    "when": "2026-11-15T12:00",
+    "episode_id": "you-are-in-your-golden-days-2026-01-23",
+    "platform": "substack",
+    "buffer_post_id": "6af94f18b9a106584c8f6059"
   }
 ]

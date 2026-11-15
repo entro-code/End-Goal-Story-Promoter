@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-15T08:00",
-      "episode_id": "welcome-to-the-end-goal-podcast-2026-11-08",
-      "platform": "youtube",
-      "title": "Welcome to The End Goal Podcast!",
-      "link": "https://www.youtube.com/watch?v=99K9o7AZZIY",
-      "due_at_utc": "2026-11-15T13:00:00.000Z",
-      "image": "stories/20261115-0800-youtube-welcome-to-the-end-goal-podcas.png"
-    },
-    {
-      "when": "2026-11-15T12:00",
-      "episode_id": "you-are-in-your-golden-days-2026-01-23",
-      "platform": "substack",
-      "title": "You are in your \"golden days\"",
-      "link": "https://theendgoal.substack.com/p/you-are-in-your-golden-days",
-      "due_at_utc": "2026-11-15T17:00:00.000Z",
-      "image": "stories/20261115-1200-substack-you-are-in-your-golden-days-20.png"
-    }
-  ]
+  "posts": []
 }
