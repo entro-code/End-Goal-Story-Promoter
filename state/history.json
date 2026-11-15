@@ -910,5 +910,17 @@
     "episode_id": "you-are-in-your-golden-days-2026-01-23",
     "platform": "substack",
     "buffer_post_id": "6af94f18b9a106584c8f6059"
+  },
+  {
+    "when": "2026-11-15T17:00",
+    "episode_id": "what-do-you-want-out-of-life-thebookbaba-2025-12-01",
+    "platform": "spotify",
+    "buffer_post_id": "6af9fe2fe5a113497a08021a"
+  },
+  {
+    "when": "2026-11-15T20:00",
+    "episode_id": "the-truth-about-discipline-nobody-tells-you-cesa-2026-07-20",
+    "platform": "youtube",
+    "buffer_post_id": "6af9fe2fc5b364e06275be85"
   }
 ]

@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-15T17:00",
-      "episode_id": "what-do-you-want-out-of-life-thebookbaba-2025-12-01",
-      "platform": "spotify",
-      "title": "What do you want out of life? | thebookbaba",
-      "link": "https://open.spotify.com/episode/0kCqFKpjEULjpmsHieiZzb",
-      "due_at_utc": "2026-11-15T22:00:00.000Z",
-      "image": "stories/20261115-1700-spotify-what-do-you-want-out-of-life-t.png"
-    },
-    {
-      "when": "2026-11-15T20:00",
-      "episode_id": "the-truth-about-discipline-nobody-tells-you-cesa-2026-07-20",
-      "platform": "youtube",
-      "title": "The Truth About Discipline Nobody Tells You | Cesar",
-      "link": "https://www.youtube.com/watch?v=NjWMlGMnNmg",
-      "due_at_utc": "2026-11-16T01:00:00.000Z",
-      "image": "stories/20261115-2000-youtube-the-truth-about-discipline-nob.png"
-    }
-  ]
+  "posts": []
 }
