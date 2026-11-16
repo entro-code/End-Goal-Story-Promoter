@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-16T17:00",
-      "episode_id": "meet-their-expectations-then-exceed-2025-09-08",
-      "platform": "spotify",
-      "title": "Meet Their Expectations, Then Exceed",
-      "link": "https://open.spotify.com/episode/5R65yyk31L3PDl3pcpq4a2",
-      "due_at_utc": "2026-11-16T22:00:00.000Z",
-      "image": "stories/20261116-1700-spotify-meet-their-expectations-then-e.png"
-    },
-    {
-      "when": "2026-11-16T20:00",
-      "episode_id": "the-four-types-of-fans-2026-11-03",
-      "platform": "substack",
-      "title": "The Four Types of Fans",
-      "link": "https://theendgoal.substack.com/p/the-four-types-of-fans",
-      "due_at_utc": "2026-11-17T01:00:00.000Z",
-      "image": "stories/20261116-2000-substack-the-four-types-of-fans-2026-11.png"
-    }
-  ]
+  "posts": []
 }

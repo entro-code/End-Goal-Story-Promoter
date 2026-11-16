@@ -934,5 +934,17 @@
     "episode_id": "find-a-reason-to-keep-going-hamza-ahmad-2025-08-11",
     "platform": "spotify",
     "buffer_post_id": "6afaa06da869c35e5bc0edc9"
+  },
+  {
+    "when": "2026-11-16T17:00",
+    "episode_id": "meet-their-expectations-then-exceed-2025-09-08",
+    "platform": "spotify",
+    "buffer_post_id": "6afb7c4e3bdd67de9b038a68"
+  },
+  {
+    "when": "2026-11-16T20:00",
+    "episode_id": "the-four-types-of-fans-2026-11-03",
+    "platform": "substack",
+    "buffer_post_id": "6afb7c4e46180f25aa68a1b2"
   }
 ]
