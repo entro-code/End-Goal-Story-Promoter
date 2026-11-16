@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+      "title": "Why LitRPG Is Taking Over Fantasy",
+      "date": "2026-11-16",
+      "youtube_url": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
+      "youtube_id": "Xix2fvuQA5A",
+      "spotify_url": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "i-m-29-a-tax-accountant-and-i-still-don-t-know-m-2026-11-09",
       "title": "I'm 29, a Tax Accountant, and I Still Don't Know My Why",
       "date": "2026-11-09",

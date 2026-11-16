@@ -2,33 +2,15 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "I'm 29, a Tax Accountant, and I Still Don't Know My Why",
-  "thumb": "https://i.ytimg.com/vi/BAmLm49pxp0/hqdefault.jpg",
+  "title": "Why LitRPG Is Taking Over Fantasy",
+  "thumb": "https://i.ytimg.com/vi/Xix2fvuQA5A/hqdefault.jpg",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=BAmLm49pxp0",
-   "spotify": "https://open.spotify.com/episode/19ecX0aT4rG0cPV0aT8MNB"
+   "youtube": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
+   "spotify": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-11-15T01:00:00Z",
-   "platform": "substack",
-   "title": "curiosity is dying",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/curiosity-is-dying"
-   }
-  },
-  {
-   "at": "2026-11-15T13:00:00Z",
-   "platform": "youtube",
-   "title": "Welcome to The End Goal Podcast!",
-   "thumb": "https://i.ytimg.com/vi/99K9o7AZZIY/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=99K9o7AZZIY"
-   }
-  },
   {
    "at": "2026-11-15T17:00:00Z",
    "platform": "substack",
