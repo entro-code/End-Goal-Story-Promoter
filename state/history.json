@@ -946,5 +946,17 @@
     "episode_id": "the-four-types-of-fans-2026-11-03",
     "platform": "substack",
     "buffer_post_id": "6afb7c4e46180f25aa68a1b2"
+  },
+  {
+    "when": "2026-11-17T08:00",
+    "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+    "platform": "youtube",
+    "buffer_post_id": "6afc0718550bd70f2fb1cf05"
+  },
+  {
+    "when": "2026-11-17T12:00",
+    "episode_id": "an-actual-serious-conversation-canvas-2025-11-24",
+    "platform": "spotify",
+    "buffer_post_id": "6afc0719c76e9419aa79f448"
   }
 ]
