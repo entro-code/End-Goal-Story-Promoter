@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-17T08:00",
+      "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+      "platform": "youtube",
+      "title": "Why LitRPG Is Taking Over Fantasy",
+      "link": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
+      "due_at_utc": "2026-11-17T13:00:00.000Z",
+      "image": "stories/20261117-0800-youtube-why-litrpg-is-taking-over-fant.png"
+    },
+    {
+      "when": "2026-11-17T12:00",
+      "episode_id": "an-actual-serious-conversation-canvas-2025-11-24",
+      "platform": "spotify",
+      "title": "An actual serious conversation | Canvas",
+      "link": "https://open.spotify.com/episode/7q0ex6uud8Kyadx340VtVM",
+      "due_at_utc": "2026-11-17T17:00:00.000Z",
+      "image": "stories/20261117-1200-spotify-an-actual-serious-conversation.png"
+    }
+  ]
 }
