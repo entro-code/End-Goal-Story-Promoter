@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-17T17:00",
+      "episode_id": "where-is-the-right-path-2026-06-21",
+      "platform": "substack",
+      "title": "Where is the right path?",
+      "link": "https://theendgoal.substack.com/p/where-is-the-right-path",
+      "due_at_utc": "2026-11-17T22:00:00.000Z",
+      "image": "stories/20261117-1700-substack-where-is-the-right-path-2026-0.png"
+    },
+    {
+      "when": "2026-11-17T20:00",
+      "episode_id": "the-power-of-a-camera-ramon-grande-2025-04-14",
+      "platform": "youtube",
+      "title": "The power of a camera | Ramon Grande",
+      "link": "https://www.youtube.com/watch?v=-faU88NTxF8",
+      "due_at_utc": "2026-11-18T01:00:00.000Z",
+      "image": "stories/20261117-2000-youtube-the-power-of-a-camera-ramon-gr.png"
+    }
+  ]
 }
