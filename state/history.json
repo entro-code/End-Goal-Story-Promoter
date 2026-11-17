@@ -958,5 +958,17 @@
     "episode_id": "an-actual-serious-conversation-canvas-2025-11-24",
     "platform": "spotify",
     "buffer_post_id": "6afc0719c76e9419aa79f448"
+  },
+  {
+    "when": "2026-11-17T17:00",
+    "episode_id": "where-is-the-right-path-2026-06-21",
+    "platform": "substack",
+    "buffer_post_id": "6afcbe1a30e8d67e7ca317d5"
+  },
+  {
+    "when": "2026-11-17T20:00",
+    "episode_id": "the-power-of-a-camera-ramon-grande-2025-04-14",
+    "platform": "youtube",
+    "buffer_post_id": "6afcbe1ba4d3be4123fe48de"
   }
 ]
