@@ -982,5 +982,17 @@
     "episode_id": "promo-200-booktok-book-recs",
     "platform": "substack",
     "buffer_post_id": "6afd5187e7dde8d4fcd3d046"
+  },
+  {
+    "when": "2026-11-18T17:00",
+    "episode_id": "the-plug-and-play-fallacy-2026-10-19",
+    "platform": "substack",
+    "buffer_post_id": "6afe0a0c61c30f01f6cfec35"
+  },
+  {
+    "when": "2026-11-18T20:00",
+    "episode_id": "the-thing-about-silence-is-2026-01-30",
+    "platform": "substack",
+    "buffer_post_id": "6afe0a0c1173b0b5f0e24688"
   }
 ]
