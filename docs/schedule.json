@@ -12,35 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-16T17:00:00Z",
-   "platform": "spotify",
-   "title": "Find a Reason to Keep Going | Hamza Ahmad",
-   "thumb": "https://i.ytimg.com/vi/DGQ9TuKBVbU/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=DGQ9TuKBVbU",
-    "spotify": "https://open.spotify.com/episode/4MJFxdUpui9KNLoHUVefgV"
-   }
-  },
-  {
-   "at": "2026-11-16T22:00:00Z",
-   "platform": "spotify",
-   "title": "Meet Their Expectations, Then Exceed",
-   "thumb": "https://i.ytimg.com/vi/M0Gs7DCVLAs/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=M0Gs7DCVLAs",
-    "spotify": "https://open.spotify.com/episode/5R65yyk31L3PDl3pcpq4a2"
-   }
-  },
-  {
-   "at": "2026-11-17T01:00:00Z",
-   "platform": "substack",
-   "title": "The Four Types of Fans",
-   "thumb": "https://substack-post-media.s3.amazonaws.com/public/images/6951d8fa-6f1a-45b9-afa3-3591e30e4b94_1200x630.png",
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/the-four-types-of-fans"
-   }
-  },
-  {
    "at": "2026-11-17T13:00:00Z",
    "platform": "youtube",
    "title": "Why LitRPG Is Taking Over Fantasy",
