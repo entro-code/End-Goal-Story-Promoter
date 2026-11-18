@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-18T17:00",
+      "episode_id": "the-plug-and-play-fallacy-2026-10-19",
+      "platform": "substack",
+      "title": "The Plug and Play Fallacy",
+      "link": "https://theendgoal.substack.com/p/the-plug-and-play-fallacy",
+      "due_at_utc": "2026-11-18T22:00:00.000Z",
+      "image": "stories/20261118-1700-substack-the-plug-and-play-fallacy-2026.png"
+    },
+    {
+      "when": "2026-11-18T20:00",
+      "episode_id": "the-thing-about-silence-is-2026-01-30",
+      "platform": "substack",
+      "title": "The thing about silence is...",
+      "link": "https://theendgoal.substack.com/p/the-thing-about-silence-is",
+      "due_at_utc": "2026-11-19T01:00:00.000Z",
+      "image": "stories/20261118-2000-substack-the-thing-about-silence-is-202.png"
+    }
+  ]
 }
