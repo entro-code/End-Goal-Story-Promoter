@@ -12,35 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-17T17:00:00Z",
-   "platform": "spotify",
-   "title": "An actual serious conversation | Canvas",
-   "thumb": "https://i.ytimg.com/vi/ZSdoxmNoeTM/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=ZSdoxmNoeTM",
-    "spotify": "https://open.spotify.com/episode/7q0ex6uud8Kyadx340VtVM"
-   }
-  },
-  {
-   "at": "2026-11-17T22:00:00Z",
-   "platform": "substack",
-   "title": "Where is the right path?",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/where-is-the-right-path"
-   }
-  },
-  {
-   "at": "2026-11-18T01:00:00Z",
-   "platform": "youtube",
-   "title": "The power of a camera | Ramon Grande",
-   "thumb": "https://i.ytimg.com/vi/-faU88NTxF8/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=-faU88NTxF8",
-    "spotify": "https://open.spotify.com/episode/6fNQCWo393NkiyF9ZOgGdA"
-   }
-  },
-  {
    "at": "2026-11-18T13:00:00Z",
    "platform": "spotify",
    "title": "Why LitRPG Is Taking Over Fantasy",
