@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-19T17:00",
-      "episode_id": "how-i-achieved-my-goals-in-2025-2026-01-01",
-      "platform": "substack",
-      "title": "How I achieved my goals in 2025",
-      "link": "https://theendgoal.substack.com/p/how-i-achieved-my-goals-in-2025",
-      "due_at_utc": "2026-11-19T22:00:00.000Z",
-      "image": "stories/20261119-1700-substack-how-i-achieved-my-goals-in-202.png"
-    },
-    {
-      "when": "2026-11-19T20:00",
-      "episode_id": "what-would-you-build-2026-04-20",
-      "platform": "substack",
-      "title": "What would you build?",
-      "link": "https://theendgoal.substack.com/p/what-would-you-build",
-      "due_at_utc": "2026-11-20T01:00:00.000Z",
-      "image": "stories/20261119-2000-substack-what-would-you-build-2026-04-2.png"
-    }
-  ]
+  "posts": []
 }

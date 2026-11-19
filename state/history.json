@@ -1006,5 +1006,17 @@
     "episode_id": "200-fantasy-book-recommendations-2026-10-11",
     "platform": "substack",
     "buffer_post_id": "6afea260f6b6aa0cd4ada1a0"
+  },
+  {
+    "when": "2026-11-19T17:00",
+    "episode_id": "how-i-achieved-my-goals-in-2025-2026-01-01",
+    "platform": "substack",
+    "buffer_post_id": "6aff5c37086d649842572684"
+  },
+  {
+    "when": "2026-11-19T20:00",
+    "episode_id": "what-would-you-build-2026-04-20",
+    "platform": "substack",
+    "buffer_post_id": "6aff5c371f6cb90e69ebd6ec"
   }
 ]
