@@ -994,5 +994,17 @@
     "episode_id": "the-thing-about-silence-is-2026-01-30",
     "platform": "substack",
     "buffer_post_id": "6afe0a0c1173b0b5f0e24688"
+  },
+  {
+    "when": "2026-11-19T08:00",
+    "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+    "platform": "youtube",
+    "buffer_post_id": "6afea25f59eff0b616eb4aad"
+  },
+  {
+    "when": "2026-11-19T12:00",
+    "episode_id": "200-fantasy-book-recommendations-2026-10-11",
+    "platform": "substack",
+    "buffer_post_id": "6afea260f6b6aa0cd4ada1a0"
   }
 ]

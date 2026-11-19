@@ -47,6 +47,25 @@
    "links": {
     "substack": "https://theendgoal.substack.com/p/the-thing-about-silence-is"
    }
+  },
+  {
+   "at": "2026-11-19T13:00:00Z",
+   "platform": "youtube",
+   "title": "Why LitRPG Is Taking Over Fantasy",
+   "thumb": "https://i.ytimg.com/vi/Xix2fvuQA5A/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
+    "spotify": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY"
+   }
+  },
+  {
+   "at": "2026-11-19T17:00:00Z",
+   "platform": "substack",
+   "title": "200 Fantasy Book Recommendations",
+   "thumb": "https://substack-post-media.s3.amazonaws.com/public/images/44381687-537a-4360-8311-d41cba24d332_1200x630.png",
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations"
+   }
   }
  ],
  "freebies": [
