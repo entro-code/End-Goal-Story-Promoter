@@ -1030,5 +1030,17 @@
     "episode_id": "a-week-in-my-life-the-end-goal-vlogcast-1-2025-03-24",
     "platform": "youtube",
     "buffer_post_id": "6afff15f738ce4635f9425db"
+  },
+  {
+    "when": "2026-11-20T17:00",
+    "episode_id": "my-favorite-lessons-from-guests-2025-q2-review-2025-05-19",
+    "platform": "spotify",
+    "buffer_post_id": "6b00a83dd425f1473a0e44cd"
+  },
+  {
+    "when": "2026-11-20T20:00",
+    "episode_id": "parents-need-to-have-these-conversations-2026-10-01",
+    "platform": "spotify",
+    "buffer_post_id": "6b00a83d44c36191135ab503"
   }
 ]
