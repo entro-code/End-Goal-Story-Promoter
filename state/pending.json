@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-20T08:00",
-      "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
-      "platform": "spotify",
-      "title": "Why LitRPG Is Taking Over Fantasy",
-      "link": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY",
-      "due_at_utc": "2026-11-20T13:00:00.000Z",
-      "image": "stories/20261120-0800-spotify-why-litrpg-is-taking-over-fant.png"
-    },
-    {
-      "when": "2026-11-20T12:00",
-      "episode_id": "a-week-in-my-life-the-end-goal-vlogcast-1-2025-03-24",
-      "platform": "youtube",
-      "title": "A Week in my Life | The End Goal Vlogcast # 1",
-      "link": "https://www.youtube.com/watch?v=GK4ZRY5X4ME",
-      "due_at_utc": "2026-11-20T17:00:00.000Z",
-      "image": "stories/20261120-1200-youtube-a-week-in-my-life-the-end-goal.png"
-    }
-  ]
+  "posts": []
 }

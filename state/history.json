@@ -1018,5 +1018,17 @@
     "episode_id": "what-would-you-build-2026-04-20",
     "platform": "substack",
     "buffer_post_id": "6aff5c371f6cb90e69ebd6ec"
+  },
+  {
+    "when": "2026-11-20T08:00",
+    "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+    "platform": "spotify",
+    "buffer_post_id": "6afff15eca85ebefb0036c32"
+  },
+  {
+    "when": "2026-11-20T12:00",
+    "episode_id": "a-week-in-my-life-the-end-goal-vlogcast-1-2025-03-24",
+    "platform": "youtube",
+    "buffer_post_id": "6afff15f738ce4635f9425db"
   }
 ]
