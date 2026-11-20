@@ -12,33 +12,6 @@
  },
  "stories": [
   {
-   "at": "2026-11-18T17:00:00Z",
-   "platform": "substack",
-   "title": "200 Booktok Book Recs",
-   "thumb": "freebies/booktok-book-recs.png",
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
-   }
-  },
-  {
-   "at": "2026-11-18T22:00:00Z",
-   "platform": "substack",
-   "title": "The Plug and Play Fallacy",
-   "thumb": "https://substack-post-media.s3.amazonaws.com/public/images/9fb66dce-92bb-4486-a227-dc8579161e91_1200x630.png",
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/the-plug-and-play-fallacy"
-   }
-  },
-  {
-   "at": "2026-11-19T01:00:00Z",
-   "platform": "substack",
-   "title": "The thing about silence is...",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/the-thing-about-silence-is"
-   }
-  },
-  {
    "at": "2026-11-19T13:00:00Z",
    "platform": "youtube",
    "title": "Why LitRPG Is Taking Over Fantasy",
