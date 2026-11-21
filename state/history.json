@@ -1042,5 +1042,17 @@
     "episode_id": "parents-need-to-have-these-conversations-2026-10-01",
     "platform": "spotify",
     "buffer_post_id": "6b00a83d44c36191135ab503"
+  },
+  {
+    "when": "2026-11-21T08:00",
+    "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+    "platform": "youtube",
+    "buffer_post_id": "6b01413120a2d09a0add0da6"
+  },
+  {
+    "when": "2026-11-21T12:00",
+    "episode_id": "taking-the-mbti-test-5-new-insights-2025-02-24",
+    "platform": "spotify",
+    "buffer_post_id": "6b01413220a2d09a0add0de9"
   }
 ]

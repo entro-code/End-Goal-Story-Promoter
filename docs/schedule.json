@@ -58,6 +58,26 @@
     "youtube": "https://www.youtube.com/watch?v=xnHBsKe7P1s",
     "spotify": "https://open.spotify.com/show/3IT5HNTjMH4yA6ChRQoJoO"
    }
+  },
+  {
+   "at": "2026-11-21T13:00:00Z",
+   "platform": "youtube",
+   "title": "Why LitRPG Is Taking Over Fantasy",
+   "thumb": "https://i.ytimg.com/vi/Xix2fvuQA5A/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
+    "spotify": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY"
+   }
+  },
+  {
+   "at": "2026-11-21T17:00:00Z",
+   "platform": "spotify",
+   "title": "Taking the MBTI Test + 5 New Insights",
+   "thumb": "https://i.ytimg.com/vi/5td0x2gGD4s/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=5td0x2gGD4s",
+    "spotify": "https://open.spotify.com/episode/4oR3Zm1z4f6tM4piLh90dm"
+   }
   }
  ],
  "freebies": [
