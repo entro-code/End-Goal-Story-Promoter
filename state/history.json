@@ -1090,5 +1090,17 @@
     "episode_id": "why-are-we-still-banning-books-2026-09-28",
     "platform": "spotify",
     "buffer_post_id": "6b0342f5bf5d5a73b6b7618b"
+  },
+  {
+    "when": "2026-11-23T08:00",
+    "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
+    "platform": "youtube",
+    "buffer_post_id": "6b03eaf051038c931b9f0c18"
+  },
+  {
+    "when": "2026-11-23T12:00",
+    "episode_id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
+    "platform": "youtube",
+    "buffer_post_id": "6b03eaf09c207fed9581770a"
   }
 ]

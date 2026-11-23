@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "when": "2026-11-23T08:00",
-      "episode_id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
-      "platform": "youtube",
-      "title": "Why LitRPG Is Taking Over Fantasy",
-      "link": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
-      "due_at_utc": "2026-11-23T13:00:00.000Z",
-      "image": "stories/20261123-0800-youtube-why-litrpg-is-taking-over-fant.png"
-    },
-    {
-      "when": "2026-11-23T12:00",
-      "episode_id": "why-do-we-need-to-talk-about-mental-health-2026-10-05",
-      "platform": "youtube",
-      "title": "Why Do We Need to Talk About Mental Health?",
-      "link": "https://www.youtube.com/watch?v=eMj7FxCAVQM",
-      "due_at_utc": "2026-11-23T17:00:00.000Z",
-      "image": "stories/20261123-1200-youtube-why-do-we-need-to-talk-about-m.png"
-    }
-  ]
+  "posts": []
 }
