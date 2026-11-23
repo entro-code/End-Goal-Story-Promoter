@@ -2,6 +2,16 @@
   "_comment": "Episode records. A platform is only promoted if its link is filled in. thumbnail is a local image path; when null, the YouTube thumbnail is fetched from youtube_id at post time.",
   "episodes": [
     {
+      "id": "3-steps-to-start-writing-books-from-a-youtuber-a-2026-11-23",
+      "title": "3 Steps to Start Writing Books From a Youtuber + Author",
+      "date": "2026-11-23",
+      "youtube_url": "https://www.youtube.com/watch?v=jTafSMil42w",
+      "youtube_id": "jTafSMil42w",
+      "spotify_url": "https://open.spotify.com/episode/1iXnoDdOqCDcT4JvnERtUI",
+      "substack_url": null,
+      "thumbnail": null
+    },
+    {
       "id": "why-litrpg-is-taking-over-fantasy-2026-11-16",
       "title": "Why LitRPG Is Taking Over Fantasy",
       "date": "2026-11-16",

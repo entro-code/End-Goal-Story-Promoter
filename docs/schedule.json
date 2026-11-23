@@ -2,34 +2,15 @@
  "hub_url": "https://entroarish.com/",
  "hub_label": "entroarish.com",
  "latest": {
-  "title": "Why LitRPG Is Taking Over Fantasy",
-  "thumb": "https://i.ytimg.com/vi/Xix2fvuQA5A/hqdefault.jpg",
+  "title": "3 Steps to Start Writing Books From a Youtuber + Author",
+  "thumb": "https://i.ytimg.com/vi/jTafSMil42w/hqdefault.jpg",
   "links": {
-   "youtube": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
-   "spotify": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY"
+   "youtube": "https://www.youtube.com/watch?v=jTafSMil42w",
+   "spotify": "https://open.spotify.com/episode/1iXnoDdOqCDcT4JvnERtUI"
   },
   "platform": "youtube"
  },
  "stories": [
-  {
-   "at": "2026-11-22T13:00:00Z",
-   "platform": "spotify",
-   "title": "Why LitRPG Is Taking Over Fantasy",
-   "thumb": "https://i.ytimg.com/vi/Xix2fvuQA5A/hqdefault.jpg",
-   "links": {
-    "youtube": "https://www.youtube.com/watch?v=Xix2fvuQA5A",
-    "spotify": "https://open.spotify.com/episode/3Qi6MY3uYBclxGfogLIOTY"
-   }
-  },
-  {
-   "at": "2026-11-22T17:00:00Z",
-   "platform": "substack",
-   "title": "You’re overthinking it",
-   "thumb": null,
-   "links": {
-    "substack": "https://theendgoal.substack.com/p/youre-overthinking-it"
-   }
-  },
   {
    "at": "2026-11-22T22:00:00Z",
    "platform": "youtube",
