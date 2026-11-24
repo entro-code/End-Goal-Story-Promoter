@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-24T08:00",
+      "episode_id": "3-steps-to-start-writing-books-from-a-youtuber-a-2026-11-23",
+      "platform": "youtube",
+      "title": "3 Steps to Start Writing Books From a Youtuber + Author",
+      "link": "https://www.youtube.com/watch?v=jTafSMil42w",
+      "due_at_utc": "2026-11-24T13:00:00.000Z",
+      "image": "stories/20261124-0800-youtube-3-steps-to-start-writing-books.png"
+    },
+    {
+      "when": "2026-11-24T12:00",
+      "episode_id": "the-one-productivity-tip-that-helped-me-get-real-2026-04-24",
+      "platform": "substack",
+      "title": "The one productivity tip that helped me get real work done",
+      "link": "https://theendgoal.substack.com/p/the-one-productivity-tip-that-helped",
+      "due_at_utc": "2026-11-24T17:00:00.000Z",
+      "image": "stories/20261124-1200-substack-the-one-productivity-tip-that-.png"
+    }
+  ]
 }
