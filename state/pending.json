@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-25T08:00",
+      "episode_id": "3-steps-to-start-writing-books-from-a-youtuber-a-2026-11-23",
+      "platform": "spotify",
+      "title": "3 Steps to Start Writing Books From a Youtuber + Author",
+      "link": "https://open.spotify.com/episode/1iXnoDdOqCDcT4JvnERtUI",
+      "due_at_utc": "2026-11-25T13:00:00.000Z",
+      "image": "stories/20261125-0800-spotify-3-steps-to-start-writing-books.png"
+    },
+    {
+      "when": "2026-11-25T12:00",
+      "episode_id": "promo-200-booktok-book-recs",
+      "platform": "substack",
+      "title": "200 Booktok Book Recs",
+      "link": "https://theendgoal.substack.com/p/200-fantasy-book-recommendations?r=388xhm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "due_at_utc": "2026-11-25T17:00:00.000Z",
+      "image": "stories/20261125-1200-substack-promo-200-booktok-book-recs.png"
+    }
+  ]
 }
