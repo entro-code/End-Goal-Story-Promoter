@@ -1126,5 +1126,17 @@
     "episode_id": "the-life-of-a-resident-doctor-what-is-purpose-so-2026-06-08",
     "platform": "spotify",
     "buffer_post_id": "6b060dd11ddbd3d42fb622c2"
+  },
+  {
+    "when": "2026-11-25T08:00",
+    "episode_id": "3-steps-to-start-writing-books-from-a-youtuber-a-2026-11-23",
+    "platform": "spotify",
+    "buffer_post_id": "6b069ae540e1d58d121030ad"
+  },
+  {
+    "when": "2026-11-25T12:00",
+    "episode_id": "promo-200-booktok-book-recs",
+    "platform": "substack",
+    "buffer_post_id": "6b069ae6c68d7845a49520fc"
   }
 ]
