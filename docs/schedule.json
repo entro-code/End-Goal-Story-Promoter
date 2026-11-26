@@ -59,6 +59,26 @@
     "youtube": "https://www.youtube.com/watch?v=LyICd2_di6Y",
     "spotify": "https://open.spotify.com/episode/6y0hYjrIxO2pplOgK0PCY9"
    }
+  },
+  {
+   "at": "2026-11-26T22:00:00Z",
+   "platform": "youtube",
+   "title": "let's check in",
+   "thumb": "https://i.ytimg.com/vi/wIleeJa8O4k/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=wIleeJa8O4k",
+    "spotify": "https://open.spotify.com/episode/0pY4lR3WeXTlhfRlfOKK2p"
+   }
+  },
+  {
+   "at": "2026-11-27T01:00:00Z",
+   "platform": "youtube",
+   "title": "This is why your New Year's Resolutions don't work",
+   "thumb": "https://i.ytimg.com/vi/ThmkR1NLroo/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=ThmkR1NLroo",
+    "spotify": "https://open.spotify.com/episode/75aEFM1tD0R7MvrnOp7bnr"
+   }
   }
  ],
  "freebies": [
