@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "when": "2026-11-27T08:00",
+      "episode_id": "3-steps-to-start-writing-books-from-a-youtuber-a-2026-11-23",
+      "platform": "spotify",
+      "title": "3 Steps to Start Writing Books From a Youtuber + Author",
+      "link": "https://open.spotify.com/episode/1iXnoDdOqCDcT4JvnERtUI",
+      "due_at_utc": "2026-11-27T13:00:00.000Z",
+      "image": "stories/20261127-0800-spotify-3-steps-to-start-writing-books.png"
+    },
+    {
+      "when": "2026-11-27T12:00",
+      "episode_id": "are-you-solving-for-the-right-problem-2026-01-16",
+      "platform": "substack",
+      "title": "Are you solving for the right problem?",
+      "link": "https://theendgoal.substack.com/p/are-you-solving-for-the-right-problem",
+      "due_at_utc": "2026-11-27T17:00:00.000Z",
+      "image": "stories/20261127-1200-substack-are-you-solving-for-the-right-.png"
+    }
+  ]
 }
