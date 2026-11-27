@@ -50,6 +50,25 @@
     "youtube": "https://www.youtube.com/watch?v=ThmkR1NLroo",
     "spotify": "https://open.spotify.com/episode/75aEFM1tD0R7MvrnOp7bnr"
    }
+  },
+  {
+   "at": "2026-11-27T13:00:00Z",
+   "platform": "spotify",
+   "title": "3 Steps to Start Writing Books From a Youtuber + Author",
+   "thumb": "https://i.ytimg.com/vi/jTafSMil42w/hqdefault.jpg",
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=jTafSMil42w",
+    "spotify": "https://open.spotify.com/episode/1iXnoDdOqCDcT4JvnERtUI"
+   }
+  },
+  {
+   "at": "2026-11-27T17:00:00Z",
+   "platform": "substack",
+   "title": "Are you solving for the right problem?",
+   "thumb": null,
+   "links": {
+    "substack": "https://theendgoal.substack.com/p/are-you-solving-for-the-right-problem"
+   }
   }
  ],
  "freebies": [

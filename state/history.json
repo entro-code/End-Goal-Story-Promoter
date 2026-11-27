@@ -1174,5 +1174,17 @@
     "episode_id": "this-is-why-your-new-year-s-resolutions-don-t-wo-2025-12-29",
     "platform": "youtube",
     "buffer_post_id": "6b08a423860e3591ea30bbd0"
+  },
+  {
+    "when": "2026-11-27T08:00",
+    "episode_id": "3-steps-to-start-writing-books-from-a-youtuber-a-2026-11-23",
+    "platform": "spotify",
+    "buffer_post_id": "6b093cc61fd46e62e72721c8"
+  },
+  {
+    "when": "2026-11-27T12:00",
+    "episode_id": "are-you-solving-for-the-right-problem-2026-01-16",
+    "platform": "substack",
+    "buffer_post_id": "6b093cc6049983dcfb9faaed"
   }
 ]
